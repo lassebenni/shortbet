@@ -49,12 +49,11 @@ def ticker():
     symbols = parse_symbols("symbols.txt")
     tickers: List[ShortTicker] = [get_ticker(x) for x in symbols]
     for ticker in tickers:
-        if ticker.short_float > 10:
-            ticker.print()
-            with open("data/results.txt", "a") as f:
-                f.write(
-                    f"{ticker.ticker} {ticker.name} {ticker.short_float} {ticker.earnings_date}\n"
-                )
+        ticker.print()
+        with open("data/results.txt", "a") as f:
+            f.write(
+                f"{ticker.ticker} {ticker.name} {ticker.short_float} {ticker.earnings_date}\n"
+            )
 
 
 if __name__ == "__main__":
