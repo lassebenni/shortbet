@@ -1,0 +1,28 @@
+name: CI
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: "05 9 * * *" # every day at 9:05 am
+
+jobs:
+  scheduled:
+    if: ${{ github.event_name == 'schedule'}}
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: [3.9]
+        poetry-version: [1.1]
+        os: [ubuntu-18.04]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Run image
+        uses: abatilo/actions-poetry@v2.0.0
+        with:
+          poetry-version: ${{ matrix.poetry-version }}
+      - name: Run main
+        run: poetry run python main.py
