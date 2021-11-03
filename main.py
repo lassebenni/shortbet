@@ -70,9 +70,7 @@ def write_to_file(filename: str, ticker: ShortTicker):
 
 
 def extract_ticker(symbol: str):
-    start_time = time.time()
     ticker = get_short_ticker(symbol)
-    print_duration(start_time, "get_short_ticker")
 
     if ticker.earnings_date:
         write_to_file("data/results.csv", ticker)
