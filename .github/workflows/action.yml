@@ -8,8 +8,8 @@ on:
     inputs:
       full_run:
         description: "Whether to execute a full run of all tickers."
-        required: false
-        default: False
+        required: True
+        default: True
         type: boolean
 
 jobs:
@@ -34,17 +34,25 @@ jobs:
       - name: Install packages
         run: poetry install
 
-      - name: Run main for single ticker
+      - name: Run test
         if: ${{ github.event_name == 'pull_request' }}
         run: poetry run python main.py
+        env:
+          FULL_RUN: False
 
-      - name: Run main for all tickers
+      - name: Run scheduled
         if: ${{ github.event_name == 'schedule'}}
+        run: poetry run python main.py
+        env:
+          FULL_RUN: True
+
+      - name: Run manually
+        if: ${{ github.event_name != 'schedule' && github.ref == 'refs/heads/master' }}
         run: poetry run python main.py
         env:
           FULL_RUN: ${{ inputs.full_run }}
 
       - uses: lassebenni/publish-to-github-action@master
-        if: ${{ github.event_name == 'schedule'}}
+        if: ${{ github.event_name == 'schedule' || github.ref == 'refs/heads/master' && inputs.full_run == 'True' }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
