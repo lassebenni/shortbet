@@ -80,8 +80,7 @@ def extract_ticker(symbol: str):
 
 
 def extract_tickers():
-    # symbols_generator = read_symbols("symbols.txt")
-    symbols_generator = read_symbols("copy.txt")
+    symbols_generator = read_symbols("symbols.txt")
 
     if FULL_RUN == True:
         with concurrent.futures.ThreadPoolExecutor(
