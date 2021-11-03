@@ -45,5 +45,6 @@ jobs:
           FULL_RUN: ${{ inputs.full_run }}
 
       - uses: lassebenni/publish-to-github-action@master
+        if: ${{ github.event_name == 'schedule'}}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
