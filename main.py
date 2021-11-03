@@ -7,7 +7,7 @@ from dataclass_csv import DataclassWriter
 from pandas import Timestamp
 import yfinance as yf
 
-FULL_RUN = os.environ.get("FULL_RUN")
+FULL_RUN = bool(os.environ.get("FULL_RUN"))
 print(f"Full run? {FULL_RUN}")
 
 
