@@ -50,9 +50,9 @@ jobs:
         if: ${{ github.event_name != 'schedule' && github.ref == 'refs/heads/master' }}
         run: poetry run python main.py
         env:
-          FULL_RUN: ${{ inputs.full_run }}
+          FULL_RUN: ${{ github.event.inputs.inputs.full_run }}
 
       - uses: lassebenni/publish-to-github-action@master
-        if: ${{ github.event_name == 'schedule' || github.ref == 'refs/heads/master' && inputs.full_run == 'True' }}
+        if: ${{ github.event_name == 'schedule' || github.ref == 'refs/heads/master' && github.event.inputs.full_run == 'True' }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
