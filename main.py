@@ -71,7 +71,7 @@ def extract_tickers():
             write_to_file("data/results.csv", ticker)
             ticker.print()
 
-        if not FULL_RUN:
+        if not FULL_RUN == True:
             break
 
 
