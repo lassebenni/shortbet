@@ -4,10 +4,17 @@ on:
   pull_request:
   schedule:
     - cron: "05 9 * * *" # every day at 9:05 am
+  workflow_dispatch:
+    inputs:
+      full_run:
+        description: "Whether to execute a full run of all tickers."
+        required: false
+        default: False
+        type: boolean
 
 jobs:
   scheduled:
-    if: ${{ github.event_name == 'schedule'}}
+    if: ${{  github.event_name == 'pull_request' || github.event_name == 'schedule' || github.ref == 'refs/heads/master'}}
     strategy:
       fail-fast: false
       matrix:
@@ -24,5 +31,19 @@ jobs:
         uses: abatilo/actions-poetry@v2.0.0
         with:
           poetry-version: ${{ matrix.poetry-version }}
-      - name: Run main
+      - name: Install packages
+        run: poetry install
+
+      - name: Run main for single ticker
+        if: ${{ github.event_name == 'pull_request' }}
         run: poetry run python main.py
+
+      - name: Run main for all tickers
+        if: ${{ github.event_name == 'schedule'}}
+        run: poetry run python main.py
+        env:
+          FULL_RUN: ${{ inputs.full_run }}
+
+      - uses: lassebenni/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
