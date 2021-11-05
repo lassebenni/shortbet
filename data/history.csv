@@ -1,1 +1,2628 @@
-earnings_date,name,short_float,ticker,datetime
+earnings_date,name,short_float,ticker,datetime2022-01-25,Apple Inc.,0.61,AAPL,2021-11-05
+2021-11-04,Arbutus Biopharma Corporation,2.45,ABUS,2021-11-05
+2020-04-01,568516,0.06,ACV,2021-11-05
+2022-01-31,Asbury Automotive Group Inc,7.88,ABG,2021-11-05
+2020-10-29,Arch Capital Group Ltd. - Depos,0,ACGLP,2021-11-05
+2021-11-15,Acacia Research Corporation,3.2,ACTG,2021-11-05
+2022-01-25,Adams Diversified Equity Fund I,0.58,ADX,2021-11-05
+2021-11-10,ATA Creativity Global,0.14,AACG,2021-11-05
+2021-10-26,"American Assets Trust, Inc.",1.53,AAT,2021-11-05
+2021-11-08,ACADIA Pharmaceuticals Inc.,4.73,ACAD,2021-11-05
+2022-01-25,Abbott Laboratories,0.59,ABT,2021-11-05
+2021-10-27,Arch Capital Group Ltd.,1.05,ACGL,2021-11-05
+2022-01-26,"ABIOMED, Inc.",1.78,ABMD,2021-11-05
+2021-11-09,AeroCentury Corp.,4.07,ACY,2021-11-05
+2021-11-04,"AAON, Inc.",2.8,AAON,2021-11-05
+2021-11-02,"Aclaris Therapeutics, Inc.",4.51,ACRS,2021-11-05
+2021-11-04,"ACM Research, Inc.",8.09,ACMR,2021-11-05
+2022-02-01,AbbVie Inc.,0.65,ABBV,2021-11-05
+2021-05-11,Atlantic American Corporation,0.88,AAME,2021-11-05
+2021-11-08,Abeona Therapeutics Inc.,2.87,ABEO,2021-11-05
+2021-11-02,ADC Therapeutics SA,7.33,ADCT,2021-11-05
+2021-11-02,"ARCA biopharma, Inc.",2.06,ABIO,2021-11-05
+2022-01-20,"Advaxis, Inc.",2.46,ADXS,2021-11-05
+2021-11-03,Adaptive Biotechnologies Corpor,3.03,ADPT,2021-11-05
+2021-11-10,ADMA Biologics Inc,8.69,ADMA,2021-11-05
+2021-11-04,"Adverum Biotechnologies, Inc.",8.25,ADVM,2021-11-05
+2022-01-26,"American Airlines Group, Inc.",13.92,AAL,2021-11-05
+2022-01-24,Archer-Daniels-Midland Company,0.92,ADM,2021-11-05
+2021-11-10,"Acasti Pharma, Inc.",2.31,ACST,2021-11-05
+2021-11-09,"Achieve Life Sciences, Inc.",4.86,ACHV,2021-11-05
+2021-11-09,"Acorda Therapeutics, Inc.",3.8,ACOR,2021-11-05
+2021-11-08,Adamis Pharmaceuticals Corporat,6.45,ADMP,2021-11-05
+2021-11-03,"Accel Entertainment, Inc.",2.07,ACEL,2021-11-05
+2022-01-05,"Accolade, Inc.",6.24,ACCD,2021-11-05
+2021-12-16,Accenture plc,0.55,ACN,2021-11-05
+2021-11-04,"Applied Optoelectronics, Inc.",16.57,AAOI,2021-11-05
+2021-10-26,Acco Brands Corporation,2.95,ACCO,2021-11-05
+2021-11-03,Ares Commercial Real Estate Cor,1.25,ACRE,2021-11-05
+2021-11-04,"AcelRx Pharmaceuticals, Inc.",2.76,ACRX,2021-11-05
+2020-11-13,"Aditxt, Inc.",5.74,ADTX,2021-11-05
+2022-01-26,Ameris Bancorp,2.38,ABCB,2021-11-05
+2021-11-23,"Analog Devices, Inc.",1.53,ADI,2021-11-05
+2021-10-29,Arbor Realty Trust,4.65,ABR,2021-11-05
+2021-11-02,"Enact Holdings, Inc.",0,ACT,2021-11-05
+2022-01-26,"Allegiance Bancshares, Inc.",1.42,ABTX,2021-11-05
+2021-12-14,ABM Industries Incorporated,2.32,ABM,2021-11-05
+2021-11-23,"Autodesk, Inc.",1.08,ADSK,2021-11-05
+2021-11-03,"Axcelis Technologies, Inc.",3.26,ACLS,2021-11-05
+2021-11-01,Addus HomeCare Corporation,2.65,ADUS,2021-11-05
+2021-11-04,"Adamas Pharmaceuticals, Inc.",3.51,ADMS,2021-11-05
+2021-11-05,Altisource Asset Management Cor,0.4,AAMC,2021-11-05
+2021-11-09,"Advanced Emissions Solutions, I",0.93,ADES,2021-11-05
+2021-11-08,Acer Therapeutics Inc.,2.47,ACER,2021-11-05
+2021-11-10,Adient plc,3.04,ADNT,2021-11-05
+2021-10-28,AllianceBernstein Holding L.P.,1.26,AB,2021-11-05
+2022-01-27,ACNB Corporation,0.43,ACNB,2021-11-05
+2021-11-04,"ACI Worldwide, Inc.",2.09,ACIW,2021-11-05
+2022-02-02,AmerisourceBergen Corporation,0.72,ABC,2021-11-05
+2021-11-09,ADT Inc.,1.74,ADT,2021-11-05
+2021-10-25,American Campus Communities Inc,1.77,ACC,2021-11-05
+2022-01-26,Alliance Data Systems Corporati,6.51,ADS,2021-11-05
+2021-11-09,Aurora Cannabis Inc.,17.54,ACB,2021-11-05
+2021-11-08,"Associated Capital Group, Inc.",0.11,AC,2021-11-05
+2021-10-28,"Acadia Healthcare Company, Inc.",3.29,ACHC,2021-11-05
+2022-02-01,"ADTRAN, Inc.",3.06,ADTN,2021-11-05
+2021-10-26,"Aarons Holdings Company, Inc.",1.85,AAN,2021-11-05
+2021-11-11,AC Immune SA,1.47,ACIU,2021-11-05
+2021-11-03,Adaptimmune Therapeutics plc,1.97,ADAP,2021-11-05
+2022-01-10,"Albertsons Companies, Inc.",2.73,ACI,2021-11-05
+2021-11-03,Atlas Air Worldwide Holdings,12.06,AAWW,2021-11-05
+2022-01-25,"Automatic Data Processing, Inc.",0.9,ADP,2021-11-05
+2022-01-19,"Atlantic Capital Bancshares, In",2.24,ACBI,2021-11-05
+2021-12-16,Adobe Inc.,0.97,ADBE,2021-11-05
+2021-11-01,Agree Realty Corporation,5.47,ADC,2021-11-05
+2021-11-15,Advance Auto Parts Inc.,6.16,AAP,2021-11-05
+2021-11-15,AECOM,1.59,ACM,2021-11-05
+2021-10-26,Acme,0.66,ACU,2021-11-05
+2019-10-30,AGNC Investment Corp. - Deposit,0,AGNCN,2021-11-05
+2021-11-03,"Advanced Energy Industries, Inc",2.74,AEIS,2021-11-05
+2021-11-02,Ameren Corporation,0.98,AEE,2021-11-05
+2021-11-03,"Aeglea BioTherapeutics, Inc.",1.7,AGLE,2021-11-05
+2021-03-04,"Adams Resources & Energy, Inc.",0.08,AE,2021-11-05
+2021-11-04,Aeterna Zentaris Inc.,3.07,AEZS,2021-11-05
+2021-02-16,Senmiao Technology Limited,0.39,AIHS,2021-11-05
+2021-11-04,The AES Corporation,1.04,AES,2021-11-05
+2021-11-22,"American Eagle Outfitters, Inc.",14.56,AEO,2021-11-05
+2021-04-20,Aesthetic Medical International,1.34,AIH,2021-11-05
+2020-08-05,"American Finance Trust, Inc. - ",0,AFINP,2021-11-05
+2020-11-10,"Air T, Inc. - Trust Preferred S",0,AIRTP,2021-11-05
+2022-02-01,"American Financial Group, Inc.",1.13,AFG,2021-11-05
+2020-12-24,AllianceBernstein National Muni,0.06,AFB,2021-11-05
+2021-05-13,"ADDvantage Technologies Group, ",1.07,AEY,2021-11-05
+2021-05-05,"Aerie Pharmaceuticals, Inc.",11.05,AERI,2021-11-05
+2021-05-05,"American Finance Trust, Inc.",3.37,AFIN,2021-11-05
+2021-10-26,Alamos Gold Inc.,0.65,AGI,2021-11-05
+2022-01-05,Aehr Test Systems,5.68,AEHR,2021-11-05
+2021-10-26,"Aethlon Medical, Inc.",3.29,AEMD,2021-11-05
+2021-11-11,AIkido Pharma Inc.,0.68,AIKI,2021-11-05
+2021-09-07,Applied Genetic Technologies Co,9.67,AGTC,2021-11-05
+2021-03-31,"Allied Esports Entertainment, I",1.67,AESE,2021-11-05
+2021-05-06,Agenus Inc.,9.12,AGEN,2021-11-05
+2021-10-25,,0,AHC,2021-11-05
+2020-10-26,AGNC Investment Corp. - Deposit,0,AGNCP,2021-11-05
+2021-05-06,"Airgain, Inc.",3.34,AIRG,2021-11-05
+2021-10-27,Agnico Eagle Mines Limited,0.63,AEM,2021-11-05
+2021-10-27,American Equity Investment Life,2.73,AEL,2021-11-05
+2021-12-07,"Argan, Inc.",1.12,AGX,2021-11-05
+2021-11-08,Affimed N.V.,3.3,AFMD,2021-11-05
+2022-01-26,Arthur J. Gallagher & Co.,1.25,AJG,2021-11-05
+2021-11-03,"Agios Pharmaceuticals, Inc.",7.23,AGIO,2021-11-05
+2020-04-22,AGNC Investment Corp. - Deposit,0,AGNCO,2021-11-05
+2021-11-23,Afya Limited,0.79,AFYA,2021-11-05
+2021-07-26,"Agilysys, Inc.",1.75,AGYS,2021-11-05
+2021-05-05,Ashford Inc. (Holding Company),0.36,AINC,2021-11-05
+2021-11-10,"Air T, Inc.",0.65,AIRT,2021-11-05
+2021-11-08,Federal Agricultural Mortgage C,0.84,AGM,2021-11-05
+2021-10-25,Ashford Hospitality Trust Inc,4.41,AHT,2021-11-05
+2021-08-12,AIM ImmunoTech Inc.,2.07,AIM,2021-11-05
+2022-02-01,AFLAC Incorporated,2.29,AFL,2021-11-05
+2020-11-16,"AgeX Therapeutics, Inc.",1.77,AGE,2021-11-05
+2021-11-10,"AudioEye, Inc.",2.84,AEYE,2021-11-05
+2021-11-10,"Agile Therapeutics, Inc.",2.68,AGRX,2021-11-05
+2022-01-24,AGNC Investment Corp.,2.74,AGNC,2021-11-05
+2021-11-10,Adecoagro S.A.,3.29,AGRO,2021-11-05
+2021-11-03,Great Ajax Corp.,1.58,AJX,2021-11-05
+2021-05-13,"AgroFresh Solutions, Inc.",0.73,AGFS,2021-11-05
+2021-11-03,First Majestic Silver Corp.,7.0,AG,2021-11-05
+2021-10-26,Albany International Corporatio,1.49,AIN,2021-11-05
+2022-02-02,AGCO Corporation,1.65,AGCO,2021-11-05
+2021-11-03,"American International Group, I",1.09,AIG,2021-11-05
+2021-05-06,"PlayAGS, Inc.",1.36,AGS,2021-11-05
+2021-10-27,Apartment Investment and Manage,3.88,AIV,2021-11-05
+2022-02-02,Apollo Investment Corporation -,3.04,AINV,2021-11-05
+2022-01-26,Applied Industrial Technologies,1.12,AIT,2021-11-05
+2021-11-01,"Assurant, Inc.",1.5,AIZ,2021-11-05
+2021-06-02,"C3.ai, Inc.",10.09,AI,2021-11-05
+2021-11-03,Assured Guaranty Ltd.,5.14,AGO,2021-11-05
+2021-10-19,"Armstrong Flooring, Inc.",2.37,AFI,2021-11-05
+2021-10-20,American Electric Power Company,1.42,AEP,2021-11-05
+2021-10-25,"Aerojet Rocketdyne Holdings, In",7.92,AJRD,2021-11-05
+2021-08-05,Air Industries Group,0.29,AIRI,2021-11-05
+2021-11-03,"Armada Hoffler Properties, Inc.",1.15,AHH,2021-11-05
+2021-10-26,"Avangrid, Inc.",0.94,AGR,2021-11-05
+2021-05-06,AdaptHealth Corp.,2.87,AHCO,2021-11-05
+2021-10-21,Altra Industrial Motion Corp.,1.35,AIMC,2021-11-05
+2021-11-02,"Akamai Technologies, Inc.",5.89,AKAM,2021-11-05
+2021-11-08,AerCap Holdings N.V.,2.43,AER,2021-11-05
+2021-08-02,Akcea Therapeutics Inc,0,AKCA,2021-11-05
+2021-12-15,AAR Corp.,5.53,AIR,2021-11-05
+2021-11-03,"Akebia Therapeutics, Inc.",7.27,AKBA,2021-11-05
+2021-11-08,Air Lease Corporation,3.55,AL,2021-11-05
+2021-11-10,AMCI Acquisition Corp. II,0,AMCI,2021-11-05
+2021-11-03,"Alarm.com Holdings, Inc.",5.18,ALRM,2021-11-05
+2021-05-06,"Aldeyra Therapeutics, Inc.",7.41,ALDX,2021-11-05
+2021-11-01,Acadia Realty Trust,2.13,AKR,2021-11-05
+2021-10-26,Antero Midstream Corporation,1.94,AM,2021-11-05
+2020-12-11,Akari Therapeutics Plc,0.09,AKTX,2021-11-05
+2021-11-08,"Alector, Inc.",9.29,ALEC,2021-11-05
+2021-11-02,Allot Ltd.,0.86,ALLT,2021-11-05
+2021-10-26,"Alimera Sciences, Inc.",2.43,ALIM,2021-11-05
+2021-04-08,Ambow Education Holding Ltd. Am,0.04,AMBO,2021-11-05
+2021-11-22,"Ambarella, Inc.",4.5,AMBA,2021-11-05
+2021-05-05,Altus Midstream Company,1.01,ALTM,2021-11-05
+2021-11-10,Alithya Group inc.,0.26,ALYA,2021-11-05
+2021-10-26,"Alamo Group, Inc.",1.01,ALG,2021-11-05
+2021-10-26,Amedisys Inc,2.13,AMED,2021-11-05
+2021-12-06,"Alico, Inc.",0.27,ALCO,2021-11-05
+2021-08-10,"Akero Therapeutics, Inc.",10.65,AKRO,2021-11-05
+2022-01-24,"Autoliv, Inc.",1.54,ALV,2021-11-05
+2021-03-18,"Alpine Immune Sciences, Inc.",3.29,ALPN,2021-11-05
+2021-03-24,"Aileron Therapeutics, Inc.",1.31,ALRN,2021-11-05
+2022-01-24,"Alaska Air Group, Inc.",2.4,ALK,2021-11-05
+2021-08-11,Alta Equipment Group Inc.,0.93,ALTG,2021-11-05
+2021-05-06,"Amphastar Pharmaceuticals, Inc.",5.47,AMPH,2021-11-05
+2021-11-08,"Altimmune, Inc.",13.71,ALT,2021-11-05
+2021-11-08,Allakos Inc.,7.25,ALLK,2021-11-05
+2022-01-25,"Ameriprise Financial, Inc.",1.91,AMP,2021-11-05
+2021-10-27,Alkermes plc,6.55,ALKS,2021-11-05
+2021-11-03,"Alnylam Pharmaceuticals, Inc.",4.21,ALNY,2021-11-05
+2022-02-01,"Align Technology, Inc.",2.58,ALGN,2021-11-05
+2021-11-08,"Ambac Financial Group, Inc.",6.15,AMBC,2021-11-05
+2022-01-19,"American National Bankshares, I",0.94,AMNB,2021-11-05
+2021-08-23,"Akoustis Technologies, Inc.",8.68,AKTS,2021-11-05
+2021-11-03,American Homes 4 Rent,3.1,AMH,2021-11-05
+2021-11-02,"Allogene Therapeutics, Inc.",5.78,ALLO,2021-11-05
+2021-11-02,Albemarle Corporation,1.81,ALB,2021-11-05
+2021-08-25,ALX Oncology Holdings Inc.,5.75,ALXO,2021-11-05
+2021-05-05,"Apollo Medical Holdings, Inc.",3.38,AMEH,2021-11-05
+2021-11-08,"Allete, Inc.",1.17,ALE,2021-11-05
+2021-08-03,"Allena Pharmaceuticals, Inc.",2.24,ALNA,2021-11-05
+2021-05-04,"AssetMark Financial Holdings, I",0.56,AMK,2021-11-05
+2021-11-03,AMN Healthcare Services Inc AMN,2.01,AMN,2021-11-05
+2022-01-20,Ally Financial Inc.,3.4,ALLY,2021-11-05
+2022-01-26,Amalgamated Financial Corp.,0.49,AMAL,2021-11-05
+2021-11-01,"AMC Entertainment Holdings, Inc",22.72,AMC,2021-11-05
+2021-11-01,AMC Networks Inc.,17.2,AMCX,2021-11-05
+2021-05-05,Amplify Energy Corp.,3.49,AMPY,2021-11-05
+2021-10-20,Allegion plc,1.23,ALLE,2021-11-05
+2021-11-10,"Applied Materials, Inc.",1.33,AMAT,2021-11-05
+2021-10-25,"Affiliated Managers Group, Inc.",1.94,AMG,2021-11-05
+2021-11-01,"Alexander's, Inc.",0.9,ALX,2021-11-05
+2022-01-31,Amgen Inc.,1.95,AMGN,2021-11-05
+2021-05-05,"Allied Motion Technologies, Inc",0.93,AMOT,2021-11-05
+2021-04-06,American Shared Hospital Servic,2.84,AMS,2021-11-05
+2021-05-06,Altair Engineering Inc.,7.09,ALTR,2021-11-05
+2022-02-01,Allegiant Travel Company,2.36,ALGT,2021-11-05
+2022-02-02,Allstate Corporation (The),1.78,ALL,2021-11-05
+2021-10-25,"Amkor Technology, Inc.",2.15,AMKR,2021-11-05
+2021-10-26,"Allison Transmission Holdings, ",3.71,ALSN,2021-11-05
+2021-05-06,"Albireo Pharma, Inc.",9.36,ALBO,2021-11-05
+2021-11-01,"Ampio Pharmaceuticals, Inc.",10.68,AMPE,2021-11-05
+2021-11-03,"Amyris, Inc.",6.59,AMRS,2021-11-05
+2021-11-08,"Ambac Financial Group, Inc.",6.15,AMBC,2021-11-05
+2021-11-03,Amarin Corporation plc,6.35,AMRN,2021-11-05
+2021-08-24,"American Software, Inc.",1.64,AMSWA,2021-11-05
+2021-05-07,"Amneal Pharmaceuticals, Inc.",3.05,AMRX,2021-11-05
+2022-02-01,American Superconductor Corpora,6.9,AMSC,2021-11-05
+2022-02-02,"AMETEK, Inc.",0.88,AME,2021-11-05
+2022-01-25,Altabancorp,1.5,ALTA,2021-11-05
+2021-02-09,"A-Mark Precious Metals, Inc.",1.94,AMRK,2021-11-05
+2022-01-25,Alerus Financial Corporation,0.85,ALRS,2021-11-05
+2021-12-06,"AstroNova, Inc.",0.39,ALOT,2021-11-05
+2021-08-02,"Alexander & Baldwin, Inc.",1.27,ALEX,2021-11-05
+2021-05-04,Amcor plc,2.93,AMCR,2021-11-05
+2021-10-26,"AMERISAFE, Inc.",1.21,AMSF,2021-11-05
+2022-01-12,,0,APHA,2021-11-05
+2022-01-24,"Advanced Micro Devices, Inc.",6.97,AMD,2021-11-05
+2020-11-16,Sphere 3D Corp.,2.18,ANY,2021-11-05
+2021-04-19,Aptorum Group Limited,0.97,APM,2021-11-05
+2021-01-04,Asia Pacific Wire & Cable Corpo,0.32,APWC,2021-11-05
+2021-10-27,American Tower Corporation (REI,0.97,AMT,2021-11-05
+2021-11-22,American Woodmark Corporation,1.04,AMWD,2021-11-05
+2020-10-29,Amerant Bancorp Inc.,0.02,AMTBB,2021-11-05
+2021-11-08,"Aptose Biosciences, Inc.",3.45,APTO,2021-11-05
+2021-03-16,"Aprea Therapeutics, Inc.",3.8,APRE,2021-11-05
+2021-03-11,"Aemetis, Inc",12.41,AMTX,2021-11-05
+2021-04-21,"Applied DNA Sciences, Inc.",7.89,APDN,2021-11-05
+2021-10-26,Antero Resources Corporation,8.27,AR,2021-11-05
+2021-02-22,"Agora, Inc.",7.3,API,2021-11-05
+2022-02-01,Angi Inc.,1.54,ANGI,2021-11-05
+2022-01-31,ArcBest Corporation,5.16,ARCB,2021-11-05
+2022-01-05,"AngioDynamics, Inc.",1.87,ANGO,2021-11-05
+2021-11-10,Aptinyx Inc.,0.91,APTX,2021-11-05
+2021-11-03,"Alpha Pro Tech, Ltd.",9.46,APT,2021-11-05
+2021-08-09,"ALJ Regional Holdings, Inc.",0.26,ALJJ,2021-11-05
+2021-05-07,"ANI Pharmaceuticals, Inc.",3.94,ANIP,2021-11-05
+2021-11-01,"Arista Networks, Inc.",1.81,ANET,2021-11-05
+2021-11-03,"Aravive, Inc.",3.86,ARAV,2021-11-05
+2021-11-08,"American Public Education, Inc.",1.28,APEI,2021-11-05
+2022-02-01,"Apollo Global Management, Inc.",9.06,APO,2021-11-05
+2021-05-06,"Blue Apron Holdings, Inc.",8.07,APRN,2021-11-05
+2021-11-02,"Aquestive Therapeutics, Inc.",8.15,AQST,2021-11-05
+2021-11-01,"Apellis Pharmaceuticals, Inc.",5.81,APLS,2021-11-05
+2021-05-06,Anika Therapeutics Inc.,7.38,ANIK,2021-11-05
+2021-03-09,"AquaBounty Technologies, Inc.",7.5,AQB,2021-11-05
+2021-11-02,"ANSYS, Inc.",0.92,ANSS,2021-11-05
+2021-08-09,"Applied Therapeutics, Inc.",5.76,APLT,2021-11-05
+2021-11-01,"The Andersons, Inc.",1.06,ANDE,2021-11-05
+2021-10-19,"AutoNation, Inc.",7.08,AN,2021-11-05
+2022-01-27,Amerant Bancorp Inc.,0.62,AMTB,2021-11-05
+2021-10-20,"Arch Resources, Inc.",24.18,ARCH,2021-11-05
+2021-11-08,Preferred Apartment Communities,1.9,APTS,2021-11-05
+2021-05-07,Ampco-Pittsburgh Corporation,3.28,AP,2021-11-05
+2020-11-10,Aptevo Therapeutics Inc.,1.23,APVO,2021-11-05
+2021-11-02,"American National Group, Inc.",0.99,ANAT,2021-11-05
+2021-12-16,"Apogee Enterprises, Inc.",4.52,APOG,2021-11-05
+2022-01-31,Artisan Partners Asset Manageme,3.72,APAM,2021-11-05
+2021-11-09,"Air Products and Chemicals, Inc",1.0,APD,2021-11-05
+2021-10-25,Ares Capital Corporation - Clos,1.05,ARCC,2021-11-05
+2022-01-25,"Anthem, Inc.",1.14,ANTM,2021-11-05
+2022-02-03,Aon plc,11.45,AON,2021-11-05
+2021-11-15,Evoqua Water Technologies Corp.,2.29,AQUA,2021-11-05
+2021-03-30,Aridis Pharmaceuticals Inc.,0.15,ARDS,2021-11-05
+2021-11-08,Apyx Medical Corporation,1.59,APYX,2021-11-05
+2021-11-10,Algonquin Power & Utilities Cor,1.17,AQN,2021-11-05
+2021-04-29,"Digital Turbine, Inc.",4.36,APPS,2021-11-05
+2021-10-20,"Aqua Metals, Inc.",10.48,AQMS,2021-11-05
+2021-05-10,Arcturus Therapeutics Holdings ,7.31,ARCT,2021-11-05
+2021-11-08,APi Group Corporation,2.19,APG,2021-11-05
+2022-01-31,"Amazon.com, Inc.",0.98,AMZN,2021-11-05
+2022-01-26,A.O. Smith Corporation,3.06,AOS,2021-11-05
+2020-11-05,"Ardelyx, Inc.",10.73,ARDX,2021-11-05
+2021-11-08,"AppFolio, Inc.",2.82,APPF,2021-11-05
+2021-11-22,Abercrombie & Fitch Company,11.33,ANF,2021-11-05
+2021-11-02,"ARC Document Solutions, Inc.",0.74,ARC,2021-11-05
+2021-02-25,"Apollo Endosurgery, Inc.",0.21,APEN,2021-11-05
+2021-11-03,Appian Corporation,8.81,APPN,2021-11-05
+2020-10-30,American Resources Corporation,3.55,AREC,2021-11-05
+2021-11-29,Arco Platform Limited,2.12,ARCE,2021-11-05
+2022-02-02,Alpha and Omega Semiconductor L,2.31,AOSL,2021-11-05
+2021-10-20,Ardagh Group S.A.,0.09,ARD,2021-11-05
+2022-01-25,Accuray Incorporated,10.6,ARAY,2021-11-05
+2022-02-01,Aptiv PLC,0.92,APTV,2021-11-05
+2022-01-25,Amphenol Corporation,0.54,APH,2021-11-05
+2021-11-09,Arcos Dorados Holdings Inc.,0.65,ARCO,2021-11-05
+2021-11-03,"Apple Hospitality REIT, Inc.",1.95,APLE,2021-11-05
+2022-01-31,Alexandria Real Estate Equities,2.64,ARE,2021-11-05
+2020-10-15,Atlantic Union Bankshares Corpo,0,AUBAP,2021-11-05
+2021-04-13,"Artelo Biosciences, Inc.",6.98,ARTL,2021-11-05
+2021-08-09,"Arcutis Biotherapeutics, Inc.",4.6,ARQT,2021-11-05
+2022-01-31,"Alliance Resource Partners, L.P",0.84,ARLP,2021-11-05
+2021-10-19,"ARMOUR Residential REIT, Inc.",5.63,ARR,2021-11-05
+2021-05-11,ASLAN Pharmaceuticals Limited,2.29,ASLN,2021-11-05
+2022-01-19,Associated Banc-Corp,4.0,ASB,2021-11-05
+2021-11-08,"Athersys, Inc.",5.65,ATHX,2021-11-05
+2019-09-19,ASA  Gold and Precious Metals L,0.09,ASA,2021-11-05
+2021-03-16,Aspen Group Inc.,3.45,ASPU,2021-11-05
+2021-10-25,"A10 Networks, Inc.",3.49,ATEN,2021-11-05
+2021-10-26,Ares Management Corporation,0.62,ARES,2021-11-05
+2021-11-01,Athene Holding Ltd.,3.05,ATH,2021-11-05
+2021-11-03,"Arvinas, Inc.",4.5,ARVN,2021-11-05
+2021-11-10,"Armata Pharmaceuticals, Inc.",0.16,ARMP,2021-11-05
+2020-11-12,"American Realty Investors, Inc.",0.35,ARL,2021-11-05
+2021-10-27,Atomera Incorporated,15.82,ATOM,2021-11-05
+2021-11-01,"Archrock, Inc.",2.03,AROC,2021-11-05
+2021-11-15,Aramark,3.2,ARMK,2021-11-05
+2019-07-30,ATIF Holdings Limited,1.58,ATIF,2021-11-05
+2021-04-20,AmeriServ Financial Inc.,0.08,ASRV,2021-11-05
+2021-11-01,"Ameresco, Inc.",3.09,AMRC,2021-11-05
+2021-02-16,Ark Restaurants Corp.,0.65,ARKR,2021-11-05
+2021-05-10,Asure Software Inc,2.17,ASUR,2021-11-05
+2021-05-04,Arconic Corporation,4.03,ARNC,2021-11-05
+2021-08-05,"Assertio Holdings, Inc.",2.1,ASRT,2021-11-05
+2021-05-13,Astrotech Corporation,0.96,ASTC,2021-11-05
+2021-10-28,AdvanSix Inc.,2.55,ASIX,2021-11-05
+2021-11-02,"Astec Industries, Inc.",1.08,ASTE,2021-11-05
+2021-11-22,"Arrowhead Pharmaceuticals, Inc.",2.78,ARWR,2021-11-05
+2021-05-05,Ardmore Shipping Corporation,1.28,ASC,2021-11-05
+2021-01-22,Ames National Corporation,0.37,ATLO,2021-11-05
+2020-06-29,"Actinium Pharmaceuticals, Inc. ",5.25,ATNM,2021-11-05
+2021-11-08,Ashland Global Holdings Inc.,8.42,ASH,2021-11-05
+2022-01-26,Allegheny Technologies Incorpor,11.36,ATI,2021-11-05
+2022-01-26,Arrow Financial Corporation,0.7,AROW,2021-11-05
+2021-05-06,"Air Transport Services Group, I",2.84,ATSG,2021-11-05
+2021-11-17,Atkore Inc.,2.5,ATKR,2021-11-05
+2022-02-03,"Art's-Way Manufacturing Co., In",0.15,ARTW,2021-11-05
+2021-11-09,Atmos Energy Corporation,1.6,ATO,2021-11-05
+2021-10-27,"Altice USA, Inc.",7.39,ATUS,2021-11-05
+2021-11-02,Artesian Resources Corporation,0.84,ARTNA,2021-11-05
+2022-02-02,"Arrow Electronics, Inc.",1.98,ARW,2021-11-05
+2021-10-26,ASGN Incorporated,1.24,ASGN,2021-11-05
+2021-10-25,Apollo Commercial Real Estate F,1.49,ARI,2021-11-05
+2021-10-27,"Aspen Aerogels, Inc.",2.18,ASPN,2021-11-05
+2021-10-26,"ATN International, Inc.",1.05,ATNI,2021-11-05
+2021-11-08,Atrion Corporation,3.74,ATRI,2021-11-05
+2022-01-31,Adtalem Global Education Inc.,3.26,ATGE,2021-11-05
+2021-08-03,"Assembly Biosciences, Inc.",2.52,ASMB,2021-11-05
+2021-08-04,Anterix Inc.,6.43,ATEX,2021-11-05
+2021-11-29,Autohome Inc.,2.23,ATHM,2021-11-05
+2021-11-08,Atlas Corp.,2.68,ATCO,2021-11-05
+2021-11-09,Atento S.A.,0.05,ATTO,2021-11-05
+2021-05-05,"Amtech Systems, Inc.",1.13,ASYS,2021-11-05
+2021-05-06,"Athenex, Inc.",8.6,ATNX,2021-11-05
+2020-08-14,"Avenue Therapeutics, Inc.",1.33,ATXI,2021-11-05
+2022-01-24,AudioCodes Ltd.,1.06,AUDC,2021-11-05
+2021-11-03,"Arlo Technologies, Inc.",5.28,ARLO,2021-11-05
+2020-05-15,Atlanticus Holdings Corporation,0.77,ATLC,2021-11-05
+2021-05-06,"Antares Pharma, Inc.",2.37,ATRS,2021-11-05
+2021-05-06,Astronics Corporation,3.17,ATRO,2021-11-05
+2021-11-08,"Arena Pharmaceuticals, Inc.",5.28,ARNA,2021-11-05
+2021-10-27,Altisource Portfolio Solutions ,3.65,ASPS,2021-11-05
+2021-11-11,"Atossa Therapeutics, Inc.",16.56,ATOS,2021-11-05
+2021-03-10,Ascendis Pharma A/S,4.23,ASND,2021-11-05
+2021-05-06,"Alphatec Holdings, Inc.",6.27,ATEC,2021-11-05
+2021-11-03,"AtriCure, Inc.",2.25,ATRC,2021-11-05
+2021-10-28,"AptarGroup, Inc.",0.95,ATR,2021-11-05
+2021-01-29,"Auburn National Bancorporation,",0.07,AUBN,2021-11-05
+2021-11-05,"Atlas Technical Consultants, In",1.64,ATCX,2021-11-05
+2021-05-04,"Atara Biotherapeutics, Inc.",13.83,ATRA,2021-11-05
+2022-02-02,"Activision Blizzard, Inc",1.8,ATVI,2021-11-05
+2021-11-01,Argo Group International Holdin,0.88,ARGO,2021-11-05
+2021-07-28,"Avinger, Inc.",2.1,AVGR,2021-11-05
+2021-08-09,Avino Silver & Gold Mines Ltd.,0.8,ASM,2021-11-05
+2022-01-25,"Avnet, Inc.",2.1,AVT,2021-11-05
+2022-02-01,"AvalonBay Communities, Inc.",1.67,AVB,2021-11-05
+2022-02-01,"Avantor, Inc.",2.7,AVTR,2021-11-05
+2022-02-01,"Aviat Networks, Inc.",5.1,AVNW,2021-11-05
+2021-08-04,Anavex Life Sciences Corp.,10.5,AVXL,2021-11-05
+2021-11-01,American States Water Company,1.4,AWR,2021-11-05
+2021-11-10,Aspira Women's Health Inc.,8.89,AWH,2021-11-05
+2021-11-08,Aurinia Pharmaceuticals Inc,14.2,AUPH,2021-11-05
+2021-11-03,Atlantica Sustainable Infrastru,2.85,AY,2021-11-05
+2021-11-25,Alliancebernstein Global High I,0.11,AWF,2021-11-05
+2021-03-31,"AYRO, Inc.",11.28,AYRO,2021-11-05
+2022-02-01,Avery Dennison Corporation,0.69,AVY,2021-11-05
+2021-11-02,Avista Corporation,1.9,AVA,2021-11-05
+2021-11-01,Avient Corporation,1.09,AVNT,2021-11-05
+2021-03-11,AMREP Corporation,0.31,AXR,2021-11-05
+2021-05-13,Avalon Holdings Corporation,0.19,AWX,2021-11-05
+2021-11-01,"Avanos Medical, Inc.",2.55,AVNS,2021-11-05
+2021-11-08,Azure Power Global Limited,2.54,AZRE,2021-11-05
+2021-05-06,Axcella Health Inc.,0.68,AXLA,2021-11-05
+2021-11-09,"Accelerate Diagnostics, Inc.",11.04,AXDX,2021-11-05
+2021-10-28,American Axle & Manufacturing H,3.95,AXL,2021-11-05
+2022-01-24,American Express Company,1.18,AXP,2021-11-05
+2021-11-02,"American Water Works Company, I",0.97,AWK,2021-11-05
+2021-10-25,Armstrong World Industries Inc,2.61,AWI,2021-11-05
+2021-05-06,Avaya Holdings Corp.,12.18,AVYA,2021-11-05
+2021-10-29,"Barnes Group, Inc.",1.4,B,2021-11-05
+2022-01-26,"Axos Financial, Inc.",3.16,AX,2021-11-05
+2021-10-25,"Aware, Inc.",0.24,AWRE,2021-11-05
+2021-05-05,"AxoGen, Inc.",2.28,AXGN,2021-11-05
+2022-01-25,Axis Capital Holdings Limited,1.26,AXS,2021-11-05
+2021-05-13,The AZEK Company Inc.,1.93,AZEK,2021-11-05
+2021-10-19,Axalta Coating Systems Ltd.,2.25,AXTA,2021-11-05
+2022-01-17,Bank of America Corporation,0.93,BAC,2021-11-05
+2022-01-31,Alibaba Group Holding Limited,1.64,BABA,2021-11-05
+2021-11-10,Alexco Resource Corp,3.68,AXU,2021-11-05
+2021-11-08,"Axsome Therapeutics, Inc.",9.99,AXSM,2021-11-05
+2021-11-10,"Aytu BioPharma, Inc.",7.74,AYTU,2021-11-05
+2021-10-26,AXT Inc,2.9,AXTI,2021-11-05
+2021-11-11,Brookfield Asset Management Inc,0.43,BAM,2021-11-05
+2021-05-06,"Axonics, Inc.",9.21,AXNX,2021-11-05
+2021-11-09,"Brickell Biotech, Inc.",3.12,BBI,2021-11-05
+2021-11-10,"Barings BDC, Inc.",0.62,BBDC,2021-11-05
+2022-01-27,Booz Allen Hamilton Holding Cor,1.15,BAH,2021-11-05
+2021-12-06,"AutoZone, Inc.",1.51,AZO,2021-11-05
+2021-11-03,Golden Minerals Company,4.65,AUMN,2021-11-05
+2021-03-25,"Ayala Pharmaceuticals, Inc.",0.94,AYLA,2021-11-05
+2022-02-02,Baxter International Inc.,1.37,BAX,2021-11-05
+2021-11-03,"Alteryx, Inc.",4.24,AYX,2021-11-05
+2021-11-03,"AVROBIO, Inc.",5.23,AVRO,2021-11-05
+2022-01-25,"Aspen Technology, Inc.",2.63,AZPN,2021-11-05
+2022-01-10,AZZ Inc.,1.0,AZZ,2021-11-05
+2021-12-06,"AeroVironment, Inc.",4.49,AVAV,2021-11-05
+2022-01-05,Bed Bath & Beyond Inc.,26.53,BBBY,2021-11-05
+2021-11-02,"Atreca, Inc.",10.53,BCEL,2021-11-05
+2021-11-10,Azul S.A.,8.83,AZUL,2021-11-05
+2021-10-28,"Bonanza Creek Energy, Inc.",15.35,BCEI,2021-11-05
+2021-12-21,BlackBerry Limited,7.0,BB,2021-11-05
+2021-12-01,"Build-A-Bear Workshop, Inc.",4.57,BBW,2021-11-05
+2021-11-08,"BBQ Holdings, Inc.",0.21,BBQ,2021-11-05
+2021-11-04,Credicorp Ltd.,1.16,BAP,2021-11-05
+2021-11-04,"BCE, Inc.",0.47,BCE,2021-11-05
+2021-11-01,"Boise Cascade, L.L.C.",2.23,BCC,2021-11-05
+2021-05-06,Autolus Therapeutics plc,2.71,AUTL,2021-11-05
+2021-11-02,Bright Horizons Family Solution,1.97,BFAM,2021-11-05
+2021-11-03,"AutoWeb, Inc.",1.38,AUTO,2021-11-05
+2022-01-26,Brunswick Corporation,3.16,BC,2021-11-05
+2021-11-03,"BioCryst Pharmaceuticals, Inc.",10.6,BCRX,2021-11-05
+2020-09-10,Broadcom Inc. - 8.00% Mandatory,0,AVGOP,2021-11-05
+2021-11-15,Brainstorm Cell Therapeutics In,2.31,BCLI,2021-11-05
+2021-10-27,Brinks Company (The),7.35,BCO,2021-11-05
+2021-11-08,Bandwidth Inc.,15.34,BAND,2021-11-05
+2021-10-27,"Heartbeam, Inc. Common Stock",0,BEAT,2021-11-05
+2021-10-27,Brightcove Inc.,2.4,BCOV,2021-11-05
+2021-11-22,"Best Buy Co., Inc.",3.29,BBY,2021-11-05
+2022-01-31,"Franklin Resources, Inc.",3.61,BEN,2021-11-05
+2021-05-06,American Vanguard Corporation,0.87,AVD,2021-11-05
+2021-11-03,"BGC Partners, Inc.",2.13,BGCP,2021-11-05
+2021-11-03,BioDelivery Sciences Internatio,1.94,BDSI,2021-11-05
+2020-11-25,Birks Group Inc.,0.4,BGI,2021-11-05
+2021-05-05,"Avid Technology, Inc.",3.33,AVID,2021-11-05
+2021-11-18,"Berry Global Group, Inc.",2.16,BERY,2021-11-05
+2021-10-28,Yamana Gold Inc.,1.57,AUY,2021-11-05
+2021-11-03,"Avalara, Inc.",2.07,AVLR,2021-11-05
+2021-11-08,Avadel Pharmaceuticals plc,6.05,AVDL,2021-11-05
+2021-05-10,"AVEO Pharmaceuticals, Inc.",4.49,AVEO,2021-11-05
+2021-11-04,Bloom Energy Corporation,10.57,BE,2021-11-05
+2021-12-08,Broadcom Inc.,1.08,AVGO,2021-11-05
+2021-11-22,"Beacon Roofing Supply, Inc.",2.85,BECN,2021-11-05
+2021-11-02,Big 5 Sporting Goods Corporatio,37.81,BGFV,2021-11-05
+2021-11-04,"Becton, Dickinson and Company",0.77,BDX,2021-11-05
+2021-11-04,"B&G Foods, Inc. B&G Foods, Inc.",22.08,BGS,2021-11-05
+2020-10-30,Bel Fuse Inc.,0.34,BELFB,2021-11-05
+2021-11-17,BEST Inc.,3.48,BEST,2021-11-05
+2021-11-02,Bausch Health Companies Inc.,3.87,BHC,2021-11-05
+2021-10-27,Bunge Limited Bunge Limited,2.36,BG,2021-11-05
+2021-11-05,Brookfield Renewable Corporatio,0.76,BEPC,2021-11-05
+2021-11-03,Bicycle Therapeutics plc,1.8,BCYC,2021-11-05
+2021-11-19,"Buckle, Inc. (The)",9.58,BKE,2021-11-05
+2021-10-20,Biogen Inc.,1.63,BIIB,2021-11-05
+2021-10-28,"Bio-Rad Laboratories, Inc.",1.45,BIO,2021-11-05
+2021-11-10,"Biocept, Inc.",3.31,BIOC,2021-11-05
+2021-11-08,Brookfield Infrastructure Partn,6.23,BIPC,2021-11-05
+2021-11-03,Brookfield Infrastructure Partn,0.78,BIP,2021-11-05
+2021-11-10,"Biolase, Inc.",3.5,BIOL,2021-11-05
+2021-11-17,"Baidu, Inc.",2.56,BIDU,2021-11-05
+2022-01-12,"BlackRock, Inc.",1.13,BLK,2021-11-05
+2021-11-04,Brookdale Senior Living Inc.,5.7,BKD,2021-11-05
+2021-11-08,Biohaven Pharmaceutical Holding,4.8,BHVN,2021-11-05
+2021-11-04,"Brighthouse Financial, Inc.",2.23,BHF,2021-11-05
+2022-01-19,Baker Hughes Company,6.17,BKR,2021-11-05
+2022-01-13,"Biomerica, Inc.",6.35,BMRA,2021-11-05
+2022-02-02,Ball Corporation,3.39,BLL,2021-11-05
+2021-11-08,"Ballard Power Systems, Inc.",8.58,BLDP,2021-11-05
+2021-11-04,"Builders FirstSource, Inc.",4.93,BLDR,2021-11-05
+2021-12-02,"Big Lots, Inc.",17.38,BIG,2021-11-05
+2021-12-21,"Bridgeline Digital, Inc.",3.86,BLIN,2021-11-05
+2022-01-18,The Bank of New York Mellon Cor,1.18,BK,2021-11-05
+2021-11-17,Bilibili Inc.,5.44,BILI,2021-11-05
+2021-11-10,BELLUS Health Inc.,3.86,BLU,2021-11-05
+2021-10-21,"BJ's Restaurants, Inc.",9.46,BJRI,2021-11-05
+2021-11-02,Booking Holdings Inc. Common St,1.75,BKNG,2021-11-05
+2021-12-03,Bank Of Montreal,0.31,BMO,2021-11-05
+2022-02-02,"Bill.com Holdings, Inc.",7.93,BILL,2021-11-05
+2021-11-03,"Blackbaud, Inc.",4.64,BLKB,2021-11-05
+2021-11-02,TopBuild Corp.,2.48,BLD,2021-11-05
+2021-11-04,"Berkeley Lights, Inc.",9.89,BLI,2021-11-05
+2021-11-02,Blueknight Energy Partners L.P.,0.14,BKEP,2021-11-05
+2021-10-27,BioMarin Pharmaceutical Inc.,5.85,BMRN,2021-11-05
+2021-11-04,"Bionano Genomics, Inc.",15.06,BNGO,2021-11-05
+2021-11-05,"bluebird bio, Inc.",8.52,BLUE,2021-11-05
+2021-11-08,Boston Omaha Corporation,2.1,BOMN,2021-11-05
+2021-11-11,"Bio-Path Holdings, Inc.",0.95,BPTH,2021-11-05
+2022-01-24,"Boot Barn Holdings, Inc.",7.31,BOOT,2021-11-05
+2021-11-11,Blink Charging Co. Common Stock,30.82,BLNK,2021-11-05
+2022-01-31,"Broadridge Financial Solutions,",1.3,BR,2021-11-05
+2021-11-29,Bank Nova Scotia Halifax Pfd 3,0.28,BNS,2021-11-05
+2022-02-04,Bristol-Myers Squibb Company,0.94,BMY,2021-11-05
+2021-11-09,BioNTech SE,1.05,BNTX,2021-11-05
+2021-10-21,DMC Global Inc.,5.37,BOOM,2021-11-05
+2021-11-10,Boxlight Corporation,4.04,BOXL,2021-11-05
+2021-12-06,"Barnes & Noble Education, Inc",4.32,BNED,2021-11-05
+2021-11-17,"BJ's Wholesale Club Holdings, I",6.96,BJ,2021-11-05
+2021-11-05,BIMI International Medical Inc.,0.15,BIMI,2021-11-05
+2021-11-08,"Brooks Automation, Inc.",1.72,BRKS,2021-11-05
+2021-11-02,Berry Corporation (bry),1.24,BRY,2021-11-05
+2022-01-24,"Brown & Brown, Inc.",1.53,BRO,2021-11-05
+2021-11-01,Brixmor Property Group Inc.,4.43,BRX,2021-11-05
+2021-11-03,BP Midstream Partners LP,0.82,BPMP,2021-11-05
+2021-11-08,"BRP Group, Inc.",1.42,BRP,2021-11-05
+2021-11-02,"Bloomin' Brands, Inc.",17.13,BLMN,2021-11-05
+2021-11-01,Bruker Corporation,1.26,BRKR,2021-11-05
+2021-11-29,"Box, Inc.",6.86,BOX,2021-11-05
+2021-11-08,Broadmark Realty Capital Inc.,2.71,BRMK,2021-11-05
+2020-11-18,"BioSig Technologies, Inc.",5.2,BSGM,2021-11-05
+2021-11-01,"Black Stone Minerals, L.P.",0.8,BSM,2021-11-05
+2021-11-10,BSQUARE Corporation,5.69,BSQR,2021-11-05
+2022-01-24,BancorpSouth Bank,8.0,BXS,2021-11-05
+2021-11-02,B2Gold Corp,1.93,BTG,2021-11-05
+2021-10-27,"Blackstone Mortgage Trust, Inc.",3.96,BXMT,2021-11-05
+2021-11-01,"BWX Technologies, Inc.",1.86,BWXT,2021-11-05
+2021-10-28,"Betterware de Mexico, S.A.B de ",0.16,BWMX,2021-11-05
+2022-02-02,Peabody Energy Corporation,7.17,BTU,2021-11-05
+2021-10-21,Bank7 Corp.,0.2,BSVN,2021-11-05
+2022-01-25,"Meta Financial Group, Inc.",4.32,CASH,2021-11-05
+2021-11-22,Baozun Inc.,7.26,BZUN,2021-11-05
+2021-10-28,Carrier Global Corporation,1.07,CARR,2021-11-05
+2021-10-20,"Byline Bancorp, Inc.",0.99,BY,2021-11-05
+2022-01-24,Cadence Bank,8.0,CADE,2021-11-05
+2022-01-25,"Calix, Inc",4.11,CALX,2021-11-05
+2021-11-04,"Baudax Bio, Inc.",2.98,BXRX,2021-11-05
+2021-11-10,"Broadwind, Inc.",4.76,BWEN,2021-11-05
+2022-01-24,"Boston Properties, Inc.",3.38,BXP,2021-11-05
+2021-11-03,The Cheesecake Factory Incorpor,11.8,CAKE,2021-11-05
+2021-10-27,Camtek Ltd.,1.59,CAMT,2021-11-05
+2021-11-03,"Calithera Biosciences, Inc.",2.67,CALA,2021-11-05
+2021-11-15,"BeyondSpring, Inc.",11.84,BYSI,2021-11-05
+2021-11-02,"Casa Systems, Inc.",1.37,CASA,2021-11-05
+2021-11-29,Canaan Inc.,5.58,CAN,2021-11-05
+2022-01-31,Credit Acceptance Corporation,8.0,CACC,2021-11-05
+2022-01-05,"ConAgra Brands, Inc.",3.26,CAG,2021-11-05
+2021-10-28,Blueprint Medicines Corporation,4.78,BPMC,2021-11-05
+2022-02-01,Boston Scientific Corporation,1.58,BSX,2021-11-05
+2021-11-10,"BioXcel Therapeutics, Inc.",6.19,BTAI,2021-11-05
+2022-01-14,"Citigroup, Inc.",1.87,C,2021-11-05
+2021-11-09,"Cardinal Health, Inc.",2.41,CAH,2021-11-05
+2021-11-22,Cango Inc.,0.87,CANG,2021-11-05
+2022-01-27,"Caterpillar, Inc.",1.18,CAT,2021-11-05
+2021-11-15,"CBAK Energy Technology, Inc.",3.1,CBAT,2021-11-05
+2021-11-08,"Cabaletta Bio, Inc.",5.41,CABA,2021-11-05
+2021-11-08,"Cara Therapeutics, Inc.",4.22,CARA,2021-11-05
+2021-11-12,"CASI Pharmaceuticals, Inc.",1.97,CASI,2021-11-05
+2017-02-10,"Carver Bancorp, Inc.",1.7,CARV,2021-11-05
+2022-01-25,Blackstone Inc.,1.15,BX,2021-11-05
+2021-10-29,"Cboe Global Markets, Inc.",2.28,CBOE,2021-11-05
+2021-11-10,CymaBay Therapeutics Inc.,3.1,CBAY,2021-11-05
+2021-11-09,"Capricor Therapeutics, Inc.",4.47,CAPR,2021-11-05
+2022-01-31,Chubb Limited,0.75,CB,2021-11-05
+2021-11-01,"Avis Budget Group, Inc.",20.17,CAR,2021-11-05
+2022-01-26,Celanese Corporation Celanese C,1.08,CE,2021-11-05
+2021-11-10,"Babcock & Wilcox Enterprises, I",3.13,BW,2021-11-05
+2021-11-03,"Cross Country Healthcare, Inc.",2.47,CCRN,2021-11-05
+2021-11-10,"Beazer Homes USA, Inc.",5.77,BZH,2021-11-05
+2021-10-28,CBRE Group Inc,1.85,CBRE,2021-11-05
+2022-01-10,Carnival Corporation,5.83,CCL,2021-11-05
+2021-11-29,Cracker Barrel Old Country Stor,7.71,CBRL,2021-11-05
+2021-10-28,"CareDx, Inc.",8.23,CDNA,2021-11-05
+2021-10-25,"Crown Holdings, Inc.",1.7,CCK,2021-11-05
+2021-11-08,Celcuity Inc.,1.97,CELC,2021-11-05
+2021-11-04,"Cedar Realty Trust, Inc.",0.44,CDR,2021-11-05
+2020-06-29,Code Chain New Continent Limite,0.09,CCNC,2021-11-05
+2021-11-03,"Cidara Therapeutics, Inc.",1.37,CDTX,2021-11-05
+2021-11-03,ChromaDex Corporation,4.91,CDXC,2021-11-05
+2021-11-03,Centennial Resource Development,10.62,CDEV,2021-11-05
+2021-11-09,"Clear Channel Outdoor Holdings,",5.71,CCO,2021-11-05
+2021-10-29,Cameco Corporation,2.85,CCJ,2021-11-05
+2021-11-04,"Codexis, Inc.",10.04,CDXS,2021-11-05
+2020-08-14,"Camber Energy, Inc.",12.55,CEI,2021-11-05
+2021-11-30,"Avid Bioservices, Inc.",8.15,CDMO,2021-11-05
+2021-10-27,"Coeur Mining, Inc.",2.64,CDE,2021-11-05
+2021-10-15,Concord Medical Services Holdin,0,CCM,2021-11-05
+2021-11-04,Chemours Company (The),5.08,CC,2021-11-05
+2021-11-04,"Chembio Diagnostics, Inc.",9.12,CEMI,2021-11-05
+2021-10-29,Cerner Corporation,4.66,CERN,2021-11-05
+2021-11-02,"Cardlytics, Inc. Common Stock",11.09,CDLX,2021-11-05
+2021-11-03,"Conformis, Inc.",1.72,CFMS,2021-11-05
+2022-01-19,"Citizens Financial Group, Inc.",2.31,CFG,2021-11-05
+2021-10-25,"Cadence Design Systems, Inc.",0.98,CDNS,2021-11-05
+2021-11-09,"ChemoCentryx, Inc.",7.84,CCXI,2021-11-05
+2021-11-05,Canopy Growth Corporation,8.08,CGC,2021-11-05
+2022-02-02,The Carlyle Group Inc.,3.3,CG,2021-11-05
+2021-11-03,Ceridian HCM Holding Inc.,4.65,CDAY,2021-11-05
+2021-11-03,Century Aluminum Company,4.96,CENX,2021-11-05
+2022-01-27,"Church & Dwight Company, Inc.",2.27,CHD,2021-11-05
+2021-11-12,Compugen Ltd.,6.73,CGEN,2021-11-05
+2021-11-10,"Cypress Environmental Partners,",0.17,CELP,2021-11-05
+2021-11-04,Cognex Corporation,1.38,CGNX,2021-11-05
+2021-11-03,Check-Cap Ltd.,5.56,CHEK,2021-11-05
+2021-10-28,Chemed Corp,1.57,CHE,2021-11-05
+2021-10-27,"The Chefs' Warehouse, Inc.",8.73,CHEF,2021-11-05
+2021-10-27,"Churchill Downs, Incorporated",2.56,CHDN,2021-11-05
+2022-01-25,Crown Castle International Corp,1.17,CCI,2021-11-05
+2022-01-25,"CACI International, Inc.",1.4,CACI,2021-11-05
+2021-10-18,Chemung Financial Corp,0.43,CHMG,2021-11-05
+2021-11-03,CDW Corporation,1.06,CDW,2021-11-05
+2021-11-08,Cherry Hill Mortgage Investment,2.7,CHMI,2021-11-05
+2022-02-01,Check Point Software Technologi,4.13,CHKP,2021-11-05
+2021-11-22,"Chico's FAS, Inc.",8.45,CHS,2021-11-05
+2022-01-27,"Charter Communications, Inc.",4.31,CHTR,2021-11-05
+2021-11-15,Cinedigm Corp,1.91,CIDM,2021-11-05
+2021-10-27,"Century Communities, Inc.",6.17,CCS,2021-11-05
+2021-11-02,CONSOL Energy Inc.,3.32,CEIX,2021-11-05
+2021-11-01,"Chegg, Inc.",7.95,CHGG,2021-11-05
+2022-01-24,"C.H. Robinson Worldwide, Inc.",7.99,CHRW,2021-11-05
+2021-10-27,ChampionX Corporation,1.63,CHX,2021-11-05
+2021-11-03,Chimera Investment Corporation,4.52,CIM,2021-11-05
+2021-12-06,"Chewy, Inc.",4.29,CHWY,2021-11-05
+2021-11-04,"Caladrius Biosciences, Inc.",1.95,CLBS,2021-11-05
+2022-01-03,Cemtrex Inc.,0.08,CETX,2021-11-05
+2022-01-28,Colgate-Palmolive Company,0.86,CL,2021-11-05
+2021-11-03,"CIRCOR International, Inc.",2.3,CIR,2021-11-05
+2021-10-22,Cleveland-Cliffs Inc.,11.36,CLF,2021-11-05
+2021-10-26,Crestwood Equity Partners LP,3.23,CEQP,2021-11-05
+2021-02-12,"China Jo-Jo Drugstores, Inc.",1.0,CJJD,2021-11-05
+2021-11-02,Cerus Corporation,6.31,CERS,2021-11-05
+2021-12-01,"Cloudera, Inc.",5.11,CLDR,2021-11-05
+2022-02-02,Cigna Corporation,1.41,CI,2021-11-05
+2021-11-03,"CF Industries Holdings, Inc.",1.71,CF,2021-11-05
+2022-01-26,"Clearfield, Inc.",2.24,CLFD,2021-11-05
+2021-11-29,CollPlant Biotechnologies Ltd.,0.13,CLGN,2021-11-05
+2022-01-25,Core Laboratories N.V.,6.36,CLB,2021-11-05
+2021-05-13,"ClearOne, Inc.",0.61,CLRO,2021-11-05
+2021-10-27,Cincinnati Financial Corporatio,3.12,CINF,2021-11-05
+2021-11-04,"Calyxt, Inc.",1.33,CLXT,2021-11-05
+2021-10-15,CLPS Incorporation,0.85,CLPS,2021-11-05
+2021-11-02,"Checkpoint Therapeutics, Inc.",2.09,CKPT,2021-11-05
+2021-11-03,"Continental Resources, Inc.",2.95,CLR,2021-11-05
+2022-01-26,Cimpress PLC,2.68,CMPR,2021-11-05
+2021-11-04,Cambium Networks Corporation,2.48,CMBM,2021-11-05
+2021-12-15,"CleanSpark, Inc.",12.82,CLSK,2021-11-05
+2021-11-02,Cummins Inc.,1.6,CMI,2021-11-05
+2022-01-26,Comcast Corporation,1.62,CMCSA,2021-11-05
+2021-11-02,Compass Minerals Intl Inc,3.32,CMP,2021-11-05
+2021-11-02,Clearwater Paper Corporation,3.07,CLW,2021-11-05
+2021-11-08,Clipper Realty Inc.,0.78,CLPR,2021-11-05
+2021-11-08,"Cellectar Biosciences, Inc.",0.26,CLRB,2021-11-05
+2021-12-08,Ciena Corporation,2.52,CIEN,2021-11-05
+2021-10-27,Columbus McKinnon Corporation,1.81,CMCO,2021-11-05
+2020-02-29,111422,0.25,CLM,2021-11-05
+2021-11-10,"Clearside Biomedical, Inc.",2.03,CLSD,2021-11-05
+2022-01-31,"Chipotle Mexican Grill, Inc.",2.31,CMG,2021-11-05
+2021-10-26,Centene Corporation,1.73,CNC,2021-11-05
+2021-10-28,"ConnectOne Bancorp, Inc.",1.2,CNOB,2021-11-05
+2022-01-10,Commercial Metals Company,2.17,CMC,2021-11-05
+2021-11-04,"Chimerix, Inc.",3.17,CMRX,2021-11-05
+2020-11-24,Central Garden & Pet Company,1.34,CENTA,2021-11-05
+2021-05-20,ZW Data Action Technologies Inc,2.07,CNET,2021-11-05
+2021-11-04,Conduent Incorporated,2.28,CNDT,2021-11-05
+2021-12-07,Comtech Telecommunications Corp,2.09,CMTL,2021-11-05
+2021-11-05,Cinemark Holdings Inc Cinemark ,20.74,CNK,2021-11-05
+2022-02-02,Clorox Company (The),5.81,CLX,2021-11-05
+2021-10-26,Capstead Mortgage Corporation,2.98,CMO,2021-11-05
+2021-11-15,Celsion Corporation,2.65,CLSN,2021-11-05
+2021-11-10,"Celsius Holdings, Inc.",3.8,CELH,2021-11-05
+2021-11-04,"CenterPoint Energy, Inc (Holdin",2.85,CNP,2021-11-05
+2021-11-09,"Cornerstone Building Brands, In",1.99,CNR,2021-11-05
+2022-01-25,Canadian National Railway Compa,0.51,CNI,2021-11-05
+2021-11-05,Calumet Specialty Products Part,0.27,CLMT,2021-11-05
+2021-11-08,"Celldex Therapeutics, Inc.",6.36,CLDX,2021-11-05
+2022-01-26,CNX Resources Corporation,11.09,CNX,2021-11-05
+2021-11-04,Clean Energy Fuels Corp.,7.07,CLNE,2021-11-05
+2021-10-28,CMS Energy Corporation,1.17,CMS,2021-11-05
+2021-08-13,"CNS Pharmaceuticals, Inc.",1.63,CNSP,2021-11-05
+2021-10-27,CME Group Inc.,1.27,CME,2021-11-05
+2021-11-03,"Clovis Oncology, Inc.",21.47,CLVS,2021-11-05
+2021-10-28,"Cohu, Inc.",2.63,COHU,2021-11-05
+2021-11-04,Americold Realty Trust,3.02,COLD,2021-11-05
+2021-11-22,CNFinance Holdings Limited,0.11,CNF,2021-11-05
+2021-11-22,Global Cord Blood Corporation,0.19,CO,2021-11-05
+2021-10-28,Columbia Sportswear Company,1.37,COLM,2021-11-05
+2021-10-27,Cabot Oil & Gas Corporation,9.8,COG,2021-11-05
+2021-11-09,"Coca-Cola Consolidated, Inc.",1.62,COKE,2021-11-05
+2021-10-27,CyrusOne Inc,4.08,CONE,2021-11-05
+2021-11-11,"Co-Diagnostics, Inc.",7.22,CODX,2021-11-05
+2021-10-28,"Columbia Banking System, Inc.",2.81,COLB,2021-11-05
+2021-10-28,Consolidated Communications Hol,2.05,CNSL,2021-11-05
+2021-11-04,Canadian Natural Resources Limi,0.98,CNQ,2021-11-05
+2021-10-28,D/B/A Compass Diversified Holdi,0.52,CODI,2021-11-05
+2021-10-28,Mr. Cooper Group Inc.,5.92,COOP,2021-11-05
+2022-01-24,Capital One Financial Corporati,1.05,COF,2021-11-05
+2021-11-08,Coty Inc.,2.12,COTY,2021-11-05
+2021-11-01,"CorEnergy Infrastructure Trust,",2.8,CORR,2021-11-05
+2021-12-09,Costco Wholesale Corporation,1.05,COST,2021-11-05
+2022-01-31,ConocoPhillips,1.57,COP,2021-11-05
+2021-10-27,CPS Technologies Corp.,2.59,CPSH,2021-11-05
+2021-11-10,"Beyond Meat, Inc.",24.5,BYND,2021-11-05
+2022-01-25,Canadian Pacific Railway Limite,9.03,CP,2021-11-05
+2021-12-01,"The Cooper Companies, Inc.",3.27,COO,2021-11-05
+2021-11-08,Corbus Pharmaceuticals Holdings,5.31,CRBP,2021-11-05
+2021-12-06,Coupa Software Incorporated,10.24,COUP,2021-11-05
+2021-11-04,"CommScope Holding Company, Inc.",3.55,COMM,2021-11-05
+2021-05-14,"China Pharma Holdings, Inc.",0.47,CPHI,2021-11-05
+2021-11-16,"Copart, Inc.",0.81,CPRT,2021-11-05
+2021-11-03,Callon Petroleum Company,13.8,CPE,2021-11-05
+2021-11-29,Salesforce.com Inc,1.6,CRM,2021-11-05
+2021-11-01,Ceragon Networks Ltd.,2.58,CRNT,2021-11-05
+2021-12-07,Campbell Soup Company,4.66,CPB,2021-11-05
+2021-12-06,"Conn's, Inc.",5.41,CONN,2021-11-05
+2021-04-15,China Recycling Energy Corporat,0.97,CREG,2021-11-05
+2021-10-26,"Cree, Inc.",10.71,CREE,2021-11-05
+2022-01-31,Costamare Inc.,0.74,CMRE,2021-11-05
+2021-11-15,Cerence Inc.,13.79,CRNC,2021-11-05
+2022-01-24,Crane Co.,0.75,CR,2021-11-05
+2021-11-10,"Creative Realities, Inc.",0.59,CREX,2021-11-05
+2021-10-29,"Carter's, Inc.",5.59,CRI,2021-11-05
+2021-11-03,CRISPR Therapeutics AG,6.33,CRSP,2021-11-05
+2021-11-22,Cheetah Mobile Inc.,0.52,CMCM,2021-11-05
+2021-11-01,Capital Product Partners L.P.,0.29,CPLP,2021-11-05
+2021-10-21,"Crocs, Inc.",8.49,CROX,2021-11-05
+2021-11-04,Cooper-Standard Holdings Inc.,4.62,CPS,2021-11-05
+2021-11-10,"Cortexyme, Inc.",8.65,CRTX,2021-11-05
+2022-01-31,"Cirrus Logic, Inc.",1.53,CRUS,2021-11-05
+2021-10-26,"CoStar Group, Inc.",1.01,CSGP,2021-11-05
+2021-11-09,CorMedix Inc.,5.29,CRMD,2021-11-05
+2021-11-02,"Comstock Resources, Inc.",2.06,CRK,2021-11-05
+2021-12-20,Cintas Corporation,0.97,CTAS,2021-11-05
+2021-11-15,Casper Sleep Inc.,6.88,CSPR,2021-11-05
+2021-11-02,CorVel Corp.,0.88,CRVL,2021-11-05
+2021-11-03,Cronos Group Inc. Common Share,4.81,CRON,2021-11-05
+2021-11-03,Charles River Laboratories Inte,1.29,CRL,2021-11-05
+2021-10-28,Crescent Point Energy Corporati,1.46,CPG,2021-11-05
+2021-11-22,China Online Education Group,2.28,COE,2021-11-05
+2021-10-21,Carlisle Companies Incorporated,1.68,CSL,2021-11-05
+2021-11-09,"Curis, Inc.",10.25,CRIS,2021-11-05
+2022-02-01,Capri Holdings Limited,3.46,CPRI,2021-11-05
+2021-10-28,Carpenter Technology Corporatio,4.01,CRS,2021-11-05
+2021-12-13,CooTek (Cayman) Inc.,0.85,CTK,2021-11-05
+2021-11-09,"Catalyst Pharmaceuticals, Inc.",4.28,CPRX,2021-11-05
+2022-02-01,Cognizant Technology Solutions ,1.3,CTSH,2021-11-05
+2021-12-01,"CrowdStrike Holdings, Inc.",5.04,CRWD,2021-11-05
+2021-11-01,"Corvus Pharmaceuticals, Inc.",4.19,CRVS,2021-11-05
+2021-11-09,Castor Maritime Inc.,4.64,CTRM,2021-11-05
+2021-11-04,"Cheniere Energy Partners, LP Ch",0.19,CQP,2021-11-05
+2022-01-19,CSX Corporation,1.25,CSX,2021-11-05
+2021-10-18,"Computer Task Group, Incorporat",0.2,CTG,2021-11-05
+2021-11-03,"CSW Industrials, Inc.",1.04,CSWI,2021-11-05
+2021-10-20,Criteo S.A.,6.07,CRTO,2021-11-05
+2021-11-10,"Cisco Systems, Inc.",0.94,CSCO,2021-11-05
+2021-10-27,Constellium SE,2.84,CSTM,2021-11-05
+2021-11-04,Cytosorbents Corporation,3.5,CTSO,2021-11-05
+2021-11-08,Cumberland Pharmaceuticals Inc.,0.72,CPIX,2021-11-05
+2021-11-04,"CatchMark Timber Trust, Inc.",1.31,CTT,2021-11-05
+2021-11-03,Capital Senior Living Corporati,3.44,CSU,2021-11-05
+2021-11-03,"CytomX Therapeutics, Inc.",6.91,CTMX,2021-11-05
+2021-11-04,"Cardiff Oncology, Inc.",6.77,CRDF,2021-11-05
+2021-11-29,"Citi Trends, Inc.",21.03,CTRN,2021-11-05
+2021-11-04,Charles & Colvard Ltd.,0.31,CTHR,2021-11-05
+2021-11-03,CVS Health Corporation,0.98,CVS,2021-11-05
+2021-12-28,Cel-Sci Corporation,20.96,CVM,2021-11-05
+2022-01-31,"Catalent, Inc.",1.32,CTLT,2021-11-05
+2021-11-03,"CareTrust REIT, Inc.",2.62,CTRE,2021-11-05
+2022-01-31,Capital Southwest Corporation,1.34,CSWC,2021-11-05
+2021-11-03,Coterra Energy Inc.,2.14,CTRA,2021-11-05
+2021-11-04,"Crinetics Pharmaceuticals, Inc.",3.77,CRNX,2021-11-05
+2022-01-25,"Commvault Systems, Inc.",2.14,CVLT,2021-11-05
+2020-12-18,Carnival Plc,0.17,CUK,2021-11-05
+2021-11-08,CTI BioPharma Corp.,5.24,CTIC,2021-11-05
+2020-11-23,Yunhong CTI Ltd.,0.2,CTIB,2021-11-05
+2021-10-27,Cenovus Energy Inc,0.49,CVE,2021-11-05
+2021-11-04,CubeSmart,1.64,CUBE,2021-11-05
+2022-01-25,"Customers Bancorp, Inc",2.37,CUBI,2021-11-05
+2021-11-04,"Citrix Systems, Inc.",3.31,CTXS,2021-11-05
+2021-11-04,Carvana Co.,16.14,CVNA,2021-11-05
+2022-02-01,"Corteva, Inc.",1.53,CTVA,2021-11-05
+2022-01-27,Chevron Corporation,1.03,CVX,2021-11-05
+2020-02-26,"Clearway Energy, Inc.",2.81,CWEN,2021-11-05
+2021-10-27,CTS Corporation,1.75,CTS,2021-11-05
+2021-10-27,"Carriage Services, Inc.",1.92,CSV,2021-11-05
+2021-11-08,Avalon GloboCare Corp.,2.23,AVCO,2021-11-05
+2021-10-28,Diebold Nixdorf Incorporated,8.47,DBD,2021-11-05
+2021-11-02,"Camping World Holdings, Inc.",16.38,CWH,2021-11-05
+2021-11-08,"Covetrus, Inc.",2.48,CVET,2021-11-05
+2022-01-24,"Covenant Logistics Group, Inc.",1.6,CVLG,2021-11-05
+2021-11-17,Dada Nexus Limited,1.44,DADA,2021-11-05
+2021-08-16,CYREN Ltd.,3.35,CYRN,2021-11-05
+2021-12-14,"Citius Pharmaceuticals, Inc.",9.71,CTXR,2021-11-05
+2021-11-03,"CryoPort, Inc.",5.76,CYRX,2021-11-05
+2021-10-26,Dana Incorporated,2.3,DAN,2021-11-05
+2021-11-15,"CohBar, Inc.",3.66,CWBR,2021-11-05
+2021-02-25,"Cyclerion Therapeutics, Inc.",2.84,CYCN,2021-11-05
+2021-11-01,CVR Energy Inc.,2.35,CVI,2021-11-05
+2021-11-04,CyberArk Software Ltd.,6.59,CYBR,2021-11-05
+2021-11-18,Canadian Solar Inc.,7.94,CSIQ,2021-11-05
+2021-11-05,"Dominion Energy, Inc.",0.71,D,2021-11-05
+2021-10-27,"Community Health Systems, Inc.",3.37,CYH,2021-11-05
+2021-12-07,Designer Brands Inc.,11.6,DBI,2021-11-05
+2021-11-23,Dell Technologies Inc.,1.47,DELL,2021-11-05
+2021-11-03,"Donnelley Financial Solutions, ",1.63,DFIN,2021-11-05
+2021-11-02,"Deciphera Pharmaceuticals, Inc.",4.02,DCPH,2021-11-05
+2021-12-02,Dollar General Corporation,2.02,DG,2021-11-05
+2022-01-12,"Delta Air Lines, Inc.",3.44,DAL,2021-11-05
+2021-12-01,"Donaldson Company, Inc.",0.7,DCI,2021-11-05
+2021-11-02,"Castlight Health, Inc.",3.22,CSLT,2021-11-05
+2022-01-18,Discover Financial Services,2.01,DFS,2021-11-05
+2021-11-10,"Dare Bioscience, Inc.",1.88,DARE,2021-11-05
+2021-11-04,"Datadog, Inc.",4.68,DDOG,2021-11-05
+2021-11-02,"Cytokinetics, Incorporated",12.8,CYTK,2021-11-05
+2021-11-02,Denny's Corporation,5.95,DENN,2021-11-05
+2021-11-10,Walt Disney Company (The),1.35,DIS,2021-11-05
+2021-11-09,Darling Ingredients Inc.,1.74,DAR,2021-11-05
+2021-11-10,Digi International Inc.,1.98,DGII,2021-11-05
+2021-11-04,"Dine Brands Global, Inc. Common",6.14,DIN,2021-11-05
+2020-02-17,"Donegal Group, Inc.",0.01,DGICB,2021-11-05
+2021-11-10,Endava plc,0.32,DAVA,2021-11-05
+2021-11-03,"Discovery, Inc. - Series A",5.62,DISCA,2021-11-05
+2021-10-28,Data I/O Corporation,1.16,DAIO,2021-11-05
+2021-11-04,"Delek US Holdings, Inc.",4.44,DK,2021-11-05
+2020-11-05,"Discovery, Inc. - Series C",2.56,DISCK,2021-11-05
+2021-12-15,Daily Journal Corp. (S.C.),0.77,DJCO,2021-11-05
+2021-11-08,"CoreCivic, Inc.",5.06,CXW,2021-11-05
+2021-11-09,"D.R. Horton, Inc.",2.81,DHI,2021-11-05
+2021-11-10,"Despegar.com, Corp.",1.38,DESP,2021-11-05
+2021-11-02,"Caesars Entertainment, Inc.",3.91,CZR,2021-11-05
+2022-02-02,Quest Diagnostics Incorporated,3.5,DGX,2021-11-05
+2021-11-04,DISH Network Corporation,4.97,DISH,2021-11-05
+2021-11-10,"Digital Ally, Inc.",14.86,DGLY,2021-11-05
+2021-10-29,Dogness (International) Corpora,1.2,DOGZ,2021-11-05
+2021-11-04,"Dropbox, Inc.",4.98,DBX,2021-11-05
+2021-11-02,"DHT Holdings, Inc.",3.8,DHT,2021-11-05
+2021-11-10,DiaMedica Therapeutics Inc.,0.36,DMAC,2021-11-05
+2022-02-02,Deckers Outdoor Corporation,4.02,DECK,2021-11-05
+2021-10-25,"Dorman Products, Inc.",1.48,DORM,2021-11-05
+2021-11-09,"Digital Media Solutions, Inc.",0.76,DMS,2021-11-05
+2021-11-09,"DermTech, Inc.",15.42,DMTK,2021-11-05
+2021-10-26,"Digital Realty Trust, Inc.",3.53,DLR,2021-11-05
+2021-12-23,"DNP Select Income Fund, Inc.",0.09,DNP,2021-11-05
+2021-11-10,Diffusion Pharmaceuticals Inc.,0.6,DFFN,2021-11-05
+2021-11-22,"Dollar Tree, Inc.",3.63,DLTR,2021-11-05
+2021-11-22,Dick's Sporting Goods Inc,12.72,DKS,2021-11-05
+2021-11-16,DouYu International Holdings Li,1.89,DOYU,2021-11-05
+2021-11-04,"Dun & Bradstreet Holdings, Inc.",1.49,DNB,2021-11-05
+2021-11-24,Deere & Company,0.53,DE,2021-11-05
+2022-02-02,Deluxe Corporation,6.93,DLX,2021-11-05
+2021-11-10,"Dillard's, Inc.",6.91,DDS,2021-11-05
+2021-11-10,DarioHealth Corp.,5.45,DRIO,2021-11-05
+2021-10-14,Domino's Pizza Inc,3.61,DPZ,2021-11-05
+2021-11-03,Denali Therapeutics Inc.,5.3,DNLI,2021-11-05
+2021-11-02,"DHI Group, Inc.",0.17,DHX,2021-11-05
+2021-11-04,Diamondrock Hospitality Company,2.61,DRH,2021-11-05
+2022-01-25,Duke Realty Corporation,1.36,DRE,2021-11-05
+2021-11-08,Drive Shack Inc.,4.21,DS,2021-11-05
+2021-10-28,DAQO New Energy Corp.,4.4,DQ,2021-11-05
+2022-01-24,"Celestica, Inc.",0.38,CLS,2021-11-05
+2022-02-01,"Dynatrace, Inc.",1.61,DT,2021-11-05
+2022-01-26,Dow Inc.,2.07,DOW,2021-11-05
+2021-11-02,Devon Energy Corporation,3.1,DVN,2021-11-05
+2021-12-16,"Darden Restaurants, Inc.",3.46,DRI,2021-11-05
+2021-11-17,"Ault Global Holdings, Inc.",8.66,DPW,2021-11-05
+2021-11-03,"DSS, Inc.",0.77,DSS,2021-11-05
+2021-11-18,Fangdd Network Group Ltd.,0.1,DUO,2021-11-05
+2021-11-04,Dynavax Technologies Corporatio,17.19,DVAX,2021-11-05
+2021-11-15,"Dolphin Entertainment, Inc.",1.72,DLPN,2021-11-05
+2021-11-05,DraftKings Inc.,8.19,DKNG,2021-11-05
+2021-11-17,Diana Shipping inc.,2.7,DSX,2021-11-05
+2021-11-15,Digimarc Corporation,13.04,DMRC,2021-11-05
+2021-11-03,Duke Energy Corporation (Holdin,0.82,DUK,2021-11-05
+2021-11-08,"Precision BioSciences, Inc.",4.01,DTIL,2021-11-05
+2021-11-18,"Destination XL Group, Inc.",1.29,DXLG,2021-11-05
+2021-10-22,"Daseke, Inc.",3.64,DSKE,2021-11-05
+2021-11-02,DURECT Corporation,3.14,DRRX,2021-11-05
+2021-10-28,"DexCom, Inc.",3.59,DXCM,2021-11-05
+2021-11-03,NOW Inc.,2.39,DNOW,2021-11-05
+2021-11-03,Diodes Incorporated,1.57,DIOD,2021-11-05
+2021-09-14,DAVIDsTEA Inc.,2.51,DTEA,2021-11-05
+2022-02-02,"Dynex Capital, Inc.",2.6,DX,2021-11-05
+2022-01-26,Dover Corporation,1.35,DOV,2021-11-05
+2021-11-22,"Dycom Industries, Inc.",3.75,DY,2021-11-05
+2021-11-02,DIRTT Environmental Solutions L,0.92,DRTT,2021-11-05
+2021-11-02,Ellington Residential Mortgage ,0.9,EARN,2021-11-05
+2021-11-05,"US Ecology, Inc.",2.03,ECOL,2021-11-05
+2021-10-01,Ebang International Holdings In,5.29,EBON,2021-11-05
+2021-11-03,"Brinker International, Inc.",6.42,EAT,2021-11-05
+2021-11-09,"Ebix, Inc.",11.42,EBIX,2021-11-05
+2021-11-04,"Emergent Biosolutions, Inc.",5.99,EBS,2021-11-05
+2021-04-29,"Dover Motorsports, Inc.",0.05,DVD,2021-11-05
+2021-11-01,DZS Inc.,0.91,DZSI,2021-11-05
+2021-11-04,Eagle Bulk Shipping Inc.,7.42,EGLE,2021-11-05
+2021-11-04,New Oriental Education & Techno,6.21,EDU,2021-11-05
+2021-10-27,"Dril-Quip, Inc.",4.51,DRQ,2021-11-05
+2021-10-20,"Euronet Worldwide, Inc.",2.2,EEFT,2021-11-05
+2021-10-26,Ecolab Inc.,0.84,ECL,2021-11-05
+2021-11-04,"electroCore, Inc.",1.17,ECOR,2021-11-05
+2021-11-03,Encore Capital Group Inc,13.57,ECPG,2021-11-05
+2021-11-08,Ellington Financial Inc.,1.41,EFC,2021-11-05
+2022-02-02,"e.l.f. Beauty, Inc.",6.01,ELF,2021-11-05
+2022-01-26,8x8 Inc,12.82,EGHT,2021-11-05
+2021-11-08,"Editas Medicine, Inc.",14.88,EDIT,2021-11-05
+2021-11-04,"Eiger BioPharmaceuticals, Inc.",2.22,EIGR,2021-11-05
+2021-11-01,"Emerald Holding, Inc.",0.54,EEX,2021-11-05
+2021-11-03,"VAALCO Energy, Inc.",0.29,EGY,2021-11-05
+2021-11-04,"Consolidated Edison, Inc.",2.05,ED,2021-11-05
+2022-02-03,"Estee Lauder Companies, Inc. (T",0.55,EL,2021-11-05
+2021-11-10,eMagin Corporation,3.71,EMAN,2021-11-05
+2021-11-02,Edison International,1.25,EIX,2021-11-05
+2022-01-26,8x8 Inc,12.82,EGHT,2021-11-05
+2021-10-26,"Enphase Energy, Inc.",3.47,ENPH,2021-11-05
+2021-11-03,Emerson Electric Company,1.11,EMR,2021-11-05
+2021-12-06,"Edesa Biotech, Inc.",4.48,EDSA,2021-11-05
+2021-11-17,Entera Bio Ltd.,1.3,ENTX,2021-11-05
+2021-11-05,Elanco Animal Health Incorporat,1.78,ELAN,2021-11-05
+2021-11-04,ENGlobal Corporation,6.53,ENG,2021-11-05
+2021-10-20,"eHealth, Inc.",10.39,EHTH,2021-11-05
+2021-11-02,"EnLink Midstream, LLC",2.48,ENLC,2021-11-05
+2021-12-07,"Enzo Biochem, Inc.",1.29,ENZ,2021-11-05
+2021-11-10,Enservco Corporation,7.74,ENSV,2021-11-05
+2021-11-03,EPR Properties,2.58,EPR,2021-11-05
+2021-11-22,"Enanta Pharmaceuticals, Inc.",7.86,ENTA,2021-11-05
+2021-10-28,"Enova International, Inc.",3.97,ENVA,2021-11-05
+2021-11-04,"EOG Resources, Inc.",1.43,EOG,2021-11-05
+2022-02-01,Enterprise Products Partners L.,1.67,EPD,2021-11-05
+2021-11-09,Callaway Golf Company,5.28,ELY,2021-11-05
+2021-11-03,"Bottomline Technologies, Inc.",6.44,EPAY,2021-11-05
+2022-01-31,"Entegris, Inc.",2.92,ENTG,2021-11-05
+2021-11-03,Equinox Gold Corp.,4.03,EQX,2021-11-05
+2021-10-20,"Equifax, Inc.",2.21,EFX,2021-11-05
+2021-11-02,"Evolus, Inc. Common Stock",4.57,EOLS,2021-11-05
+2021-10-28,Eldorado Gold Corporation,3.7,EGO,2021-11-05
+2021-10-27,"The Ensign Group, Inc.",3.54,ENSG,2021-11-05
+2021-11-17,"Youdao, Inc.",0.74,DAO,2021-11-05
+2021-11-02,"Elevate Credit, Inc.",2.39,ELVT,2021-11-05
+2021-10-27,"Empire State Realty Trust, Inc.",6.32,ESRT,2021-11-05
+2021-11-09,"Epizyme, Inc.",8.4,EPZM,2021-11-05
+2021-11-04,Endo International plc,8.38,ENDP,2021-11-05
+2021-11-05,Enbridge Inc,0.44,ENB,2021-11-05
+2020-05-11,"Enochian Biosciences, Inc.",1.59,ENOB,2021-11-05
+2021-11-02,"Esperion Therapeutics, Inc.",29.75,ESPR,2021-11-05
+2021-11-01,"Enable Midstream Partners, LP",0.76,ENBL,2021-11-05
+2021-11-15,"Eton Pharmaceuticals, Inc.",1.98,ETON,2021-11-05
+2021-11-03,"Equinix, Inc.",1.56,EQIX,2021-11-05
+2021-05-14,"Equus Total Return, Inc.",0.03,EQS,2021-11-05
+2021-11-02,Equitrans Midstream Corporation,2.54,ETRN,2021-11-05
+2022-01-31,"Eaton Corporation, PLC",0.73,ETN,2021-11-05
+2021-11-04,"Earthstone Energy, Inc.",0.74,ESTE,2021-11-05
+2021-10-26,"Essex Property Trust, Inc.",1.78,ESS,2021-11-05
+2021-11-03,Energy Transfer LP,2.7,ET,2021-11-05
+2021-11-03,"Etsy, Inc.",8.14,ETSY,2021-11-05
+2021-11-02,"DuPont de Nemours, Inc.",1.49,DD,2021-11-05
+2021-11-04,Enerplus Corporation,1.24,ERF,2021-11-05
+2021-10-26,Equity Residential,1.6,EQR,2021-11-05
+2021-11-01,Eversource Energy (D/B/A),1.1,ES,2021-11-05
+2021-11-04,Entasis Therapeutics Holdings I,0.72,ETTX,2021-11-05
+2021-11-15,"Evofem Biosciences, Inc.",17.75,EVFM,2021-11-05
+2021-11-30,Elastic N.V.,8.19,ESTC,2021-11-05
+2021-11-08,"Evoke Pharma, Inc.",1.71,EVOK,2021-11-05
+2021-10-27,EQT Corporation,5.31,EQT,2021-11-05
+2021-12-01,EHang Holdings Limited,8.54,EH,2021-11-05
+2021-11-01,"EverQuote, Inc.",3.5,EVER,2021-11-05
+2021-11-01,Exterran Corporation,5.77,EXTN,2021-11-05
+2021-11-08,"Eyegate Pharmaceuticals, Inc.",8.32,EYEG,2021-11-05
+2019-01-25,"Farmmi, Inc. Ordinary Shares",6.48,FAMI,2021-11-05
+2021-11-09,Endeavour Silver Corporation,2.2,EXK,2021-11-05
+2022-01-25,Edwards Lifesciences Corporatio,1.05,EW,2021-11-05
+2022-01-26,Danaher Corporation,0.74,DHR,2021-11-05
+2021-11-17,Euroseas Ltd.,1.0,ESEA,2021-11-05
+2021-11-02,"Exelixis, Inc.",3.36,EXEL,2021-11-05
+2021-11-03,"Evolent Health, Inc",10.39,EVH,2021-11-05
+2021-10-27,Extra Space Storage Inc,1.86,EXR,2021-11-05
+2021-11-08,"Fortress Biotech, Inc.",0.76,FBIO,2021-11-05
+2022-01-25,"Meta Platforms, Inc.",0.86,FB,2021-11-05
+2021-11-04,Entravision Communications Corp,1.78,EVC,2021-11-05
+2021-12-01,"Express, Inc.",5.13,EXPR,2021-11-05
+2021-11-03,"National Vision Holdings, Inc.",8.14,EYE,2021-11-05
+2022-01-26,Eastman Chemical Company,1.55,EMN,2021-11-05
+2021-11-04,"Fate Therapeutics, Inc.",11.3,FATE,2021-11-05
+2021-10-27,Element Solutions Inc.,1.34,ESI,2021-11-05
+2021-11-11,"Eyenovia, Inc.",0.8,EYEN,2021-11-05
+2021-11-03,Exelon Corporation,1.21,EXC,2021-11-05
+2022-02-02,Ford Motor Company,2.13,F,2021-11-05
+2021-11-03,"EyePoint Pharmaceuticals, Inc.",4.81,EYPT,2021-11-05
+2021-11-04,"Expedia Group, Inc.",5.9,EXPE,2021-11-05
+2022-01-19,Fastenal Company,2.36,FAST,2021-11-05
+2021-11-02,Expeditors International of Was,2.15,EXPD,2021-11-05
+2021-11-03,Entergy Corporation,2.04,ETR,2021-11-05
+2022-02-01,Evercore Inc.,2.85,EVR,2021-11-05
+2020-06-26,"Second Sight Medical Products, ",4.79,EYES,2021-11-05
+2021-12-13,"EZCORP, Inc.",9.68,EZPW,2021-11-05
+2021-11-01,"Diamondback Energy, Inc. - Comm",3.04,FANG,2021-11-05
+2021-10-28,Four Seasons Education (Cayman),0.29,FEDU,2021-11-05
+2021-11-03,"Evergy, Inc.",0.98,EVRG,2021-11-05
+2022-01-25,"Extreme Networks, Inc.",4.75,EXTR,2021-11-05
+2022-01-19,"FuelCell Energy, Inc.",14.64,FCEL,2021-11-05
+2021-10-26,"Fortune Brands Home & Security,",1.89,FBHS,2021-11-05
+2021-11-04,"FireEye, Inc.",6.04,FEYE,2021-11-05
+2021-12-16,FedEx Corporation,1.63,FDX,2021-11-05
+2021-10-25,First BanCorp. New,2.52,FBP,2021-11-05
+2021-12-20,FactSet Research Systems Inc.,1.32,FDS,2021-11-05
+2022-01-24,"Freeport-McMoRan, Inc.",1.99,FCX,2021-11-05
+2021-11-09,FutureFuel Corp.,1.55,FF,2021-11-05
+2021-11-03,"eXp World Holdings, Inc.",2.92,EXPI,2021-11-05
+2022-01-24,First,2.11,FCF,2021-11-05
+2021-10-28,FirstEnergy Corp.,2.83,FE,2021-11-05
+2022-01-24,"F5 Networks, Inc.",5.11,FFIV,2021-11-05
+2021-11-10,Fair Isaac Corproation,1.88,FICO,2021-11-05
+2021-11-09,"FibroGen, Inc",6.71,FGEN,2021-11-05
+2021-10-26,"FARO Technologies, Inc.",1.21,FARO,2021-11-05
+2021-10-27,"Comfort Systems USA, Inc.",2.02,FIX,2021-11-05
+2021-10-27,"Fiserv, Inc.",1.53,FISV,2021-11-05
+2021-11-04,FAT Brands Inc.,0.3,FAT,2021-11-05
+2021-11-04,Fidelity National Information S,0.89,FIS,2021-11-05
+2021-11-08,"Five9, Inc.",8.03,FIVN,2021-11-05
+2021-11-30,"Five Below, Inc.",3.56,FIVE,2021-11-05
+2022-01-20,Fifth Third Bancorp,1.21,FITB,2021-11-05
+2021-11-10,"Flux Power Holdings, Inc.",4.57,FLUX,2021-11-05
+2021-11-08,"Forte Biosciences, Inc.",8.56,FBRX,2021-11-05
+2021-11-15,FinVolution Group,1.22,FINV,2021-11-05
+2021-11-08,"Homology Medicines, Inc.",4.15,FIXX,2021-11-05
+2021-11-03,"Flowers Foods, Inc.",5.03,FLO,2021-11-05
+2021-11-02,"Flexion Therapeutics, Inc.",6.98,FLXN,2021-11-05
+2021-11-19,"Foot Locker, Inc.",5.01,FL,2021-11-05
+2022-01-26,"1-800-FLOWERS.COM, Inc.",6.36,FLWS,2021-11-05
+2022-01-26,Flex Ltd.,1.57,FLEX,2021-11-05
+2021-11-01,Frank's International N.V.,1.23,FI,2021-11-05
+2021-11-03,Everi Holdings Inc.,3.24,EVRI,2021-11-05
+2021-11-02,FMC Corporation,1.72,FMC,2021-11-05
+2021-11-03,Franco-Nevada Corporation,1.53,FNV,2021-11-05
+2021-12-13,"Forward Industries, Inc.",3.43,FORD,2021-11-05
+2022-01-20,First Horizon Corporation,1.78,FHN,2021-11-05
+2021-11-05,Fluor Corporation,9.16,FLR,2021-11-05
+2021-11-09,"Fulgent Genetics, Inc.",10.05,FLGT,2021-11-05
+2021-11-04,"Funko, Inc.",7.79,FNKO,2021-11-05
+2021-10-27,Farmland Partners Inc.,2.54,FPI,2021-11-05
+2021-11-02,FNF Group of Fidelity National ,2.0,FNF,2021-11-05
+2021-10-27,Flowserve Corporation,2.34,FLS,2021-11-05
+2021-11-03,"Fastly, Inc.",14.37,FSLY,2021-11-05
+2021-11-09,"Amicus Therapeutics, Inc.",11.1,FOLD,2021-11-05
+2021-11-09,"Fossil Group, Inc.",9.3,FOSL,2021-11-05
+2021-11-10,"Shift4 Payments, Inc.",11.46,FOUR,2021-11-05
+2022-01-31,Fabrinet,1.02,FN,2021-11-05
+2022-01-12,FIRST REPUBLIC BANK,1.27,FRC,2021-11-05
+2021-11-04,Federal Realty Investment Trust,4.4,FRT,2021-11-05
+2021-11-08,"Freshpet, Inc.",3.83,FRPT,2021-11-05
+2021-11-04,"First Solar, Inc.",3.48,FSLR,2021-11-05
+2021-11-04,"Floor & Decor Holdings, Inc.",2.22,FND,2021-11-05
+2021-10-28,"frontdoor, inc.",2.83,FTDR,2021-11-05
+2021-11-18,Farfetch Limited,5.25,FTCH,2021-11-05
+2021-10-20,TechnipFMC plc,2.74,FTI,2021-11-05
+2021-11-15,"Flotek Industries, Inc.",2.83,FTK,2021-11-05
+2021-10-27,"FormFactor, Inc.",1.4,FORM,2021-11-05
+2022-01-17,Fulton Financial Corporation,2.39,FULT,2021-11-05
+2021-11-08,FS KKR Capital Corp.,0.52,FSK,2021-11-05
+2021-11-15,"Arcimoto, Inc.",26.23,FUV,2021-11-05
+2021-11-09,"Fuel Tech, Inc.",2.6,FTEK,2021-11-05
+2021-11-02,Gladstone Investment Corporatio,1.13,GAIN,2021-11-05
+2021-11-10,Fiverr International Ltd.,8.32,FVRR,2021-11-05
+2022-02-02,"Fortinet, Inc.",1.37,FTNT,2021-11-05
+2021-11-17,Futu Holdings Limited,4.19,FUTU,2021-11-05
+2021-11-02,"DCP Midstream,  LP",1.8,DCP,2021-11-05
+2021-11-29,"Golub Capital BDC, Inc.",0.83,GBDC,2021-11-05
+2021-08-12,"Evolving Systems, Inc.",1.68,EVOL,2021-11-05
+2021-11-03,"Cedar Fair, L.P.",8.37,FUN,2021-11-05
+2021-11-08,Galectin Therapeutics Inc.,4.13,GALT,2021-11-05
+2022-01-25,General Dynamics Corporation,0.79,GD,2021-11-05
+2021-10-28,Fortive Corporation,1.87,FTV,2021-11-05
+2021-11-11,GAN Limited,6.09,GAN,2021-11-05
+2021-11-04,"Genesis Energy, L.P.",2.52,GEL,2021-11-05
+2021-11-04,"Grid Dynamics Holdings, Inc.",1.98,GDYN,2021-11-05
+2021-11-10,Fortuna Silver Mines Inc,3.52,FSM,2021-11-05
+2021-11-04,Geo Group Inc (The) REIT,21.23,GEO,2021-11-05
+2021-11-04,"Global Blood Therapeutics, Inc.",9.93,GBT,2021-11-05
+2022-01-04,"Greenbrier Companies, Inc. (The",12.3,GBX,2021-11-05
+2021-11-08,Fusion Pharmaceuticals Inc.,0.28,FUSN,2021-11-05
+2022-01-24,General Electric Company,1.05,GE,2021-11-05
+2021-11-15,Future FinTech Group Inc.,8.66,FTFT,2021-11-05
+2021-11-04,"Gamco Investors, Inc.",0.19,GBL,2021-11-05
+2021-11-05,"Gannett Co., Inc.",11.51,GCI,2021-11-05
+2021-11-02,Green Dot Corporation,5.55,GDOT,2021-11-05
+2021-11-15,GDS Holdings Limited,5.94,GDS,2021-11-05
+2021-11-10,"Gevo, Inc.",17.0,GEVO,2021-11-05
+2021-11-17,Geospace Technologies Corporati,0.7,GEOS,2021-11-05
+2021-11-02,Exact Sciences Corporation,7.42,EXAS,2021-11-05
+2021-12-15,"General Mills, Inc.",2.9,GIS,2021-11-05
+2021-12-07,Greif Inc.,1.43,GEF,2021-11-05
+2022-02-02,"Gilead Sciences, Inc.",1.91,GILD,2021-11-05
+2021-11-10,"Guardion Health Sciences, Inc.",1.57,GHSI,2021-11-05
+2021-10-27,"Gildan Activewear, Inc.",0.79,GIL,2021-11-05
+2021-11-04,Geron Corporation,6.08,GERN,2021-11-05
+2021-12-01,"DocuSign, Inc.",3.41,DOCU,2021-11-05
+2021-11-04,Denison Mines Corp,2.75,DNN,2021-11-05
+2021-10-20,Globe Life Inc.,0.78,GL,2021-11-05
+2021-11-10,Globant S.A.,2.11,GLOB,2021-11-05
+2021-10-28,"Gaming and Leisure Properties, ",1.17,GLPI,2021-11-05
+2021-06-04,"TD Holdings, Inc.",0.14,GLG,2021-11-05
+2021-11-15,"New Concept Energy, Inc",1.83,GBR,2021-11-05
+2021-11-29,Golar LNG Limited,2.35,GLNG,2021-11-05
+2021-10-27,GasLog Partners LP,2.64,GLOP,2021-11-05
+2021-11-15,Esports Entertainment Group Inc,6.03,GMBL,2021-11-05
+2021-11-04,Glaukos Corporation,2.9,GKOS,2021-11-05
+2021-11-05,Physicians Realty Trust,2.96,DOC,2021-11-05
+2021-10-27,General Motors Company,2.04,GM,2021-11-05
+2020-03-20,"Genius Brands International, In",15.31,GNUS,2021-11-05
+2021-11-09,Gilat Satellite Networks Ltd.,0.24,GILT,2021-11-05
+2022-01-25,Corning Incorporated,1.71,GLW,2021-11-05
+2021-11-17,Golden Ocean Group Limited,0.55,GOGL,2021-11-05
+2021-11-04,"Guardant Health, Inc.",4.25,GH,2021-11-05
+2021-11-02,Generac Holdlings Inc.,2.44,GNRC,2021-11-05
+2021-11-08,Gamida Cell Ltd.,2.59,GMDA,2021-11-05
+2021-10-28,"Genocea Biosciences, Inc.",2.6,GNCA,2021-11-05
+2021-11-03,Global Partners LP Global Partn,0.12,GLP,2021-11-05
+2021-12-02,Globus Maritime Limited,2.47,GLBS,2021-11-05
+2021-11-04,Barrick Gold Corporation,1.1,GOLD,2021-11-05
+2021-11-04,Genie Energy Ltd.,0.35,GNE,2021-11-05
+2021-11-03,Great Panther Mining Limited,1.04,GPL,2021-11-05
+2021-11-05,Canada Goose Holdings Inc. Subo,3.49,GOOS,2021-11-05
+2021-11-08,"Gossamer Bio, Inc.",11.89,GOSS,2021-11-05
+2021-11-15,"Greenlane Holdings, Inc.",2.1,GNLN,2021-11-05
+2021-10-28,"Group 1 Automotive, Inc.",10.65,GPI,2021-11-05
+2021-10-22,Gentex Corporation,2.22,GNTX,2021-11-05
+2022-02-02,"GoPro, Inc.",10.91,GPRO,2021-11-05
+2021-11-08,Granite Point Mortgage Trust In,1.38,GPMT,2021-11-05
+2020-08-20,"Muscle Maker, Inc",0.79,GRIL,2021-11-05
+2021-11-02,Genworth Financial Inc,2.55,GNW,2021-11-05
+2022-01-31,Alphabet Inc.,0.42,GOOGL,2021-11-05
+2021-11-04,Barrick Gold Corporation,1.1,GOLD,2021-11-05
+2021-11-02,"Green Plains, Inc.",18.77,GPRE,2021-11-05
+2021-11-02,"Green Brick Partners, Inc.",2.74,GRBK,2021-11-05
+2021-11-15,1847 Goedeker Inc. Commom Stock,10.4,GOED,2021-11-05
+2021-11-22,"Gap, Inc. (The)",7.28,GPS,2021-11-05
+2021-12-06,GameStop Corporation,10.03,GME,2021-11-05
+2021-11-04,"Global Net Lease, Inc.",1.63,GNL,2021-11-05
+2021-11-08,Grocery Outlet Holding Corp.,6.73,GO,2021-11-05
+2021-10-21,Genuine Parts Company,0.95,GPC,2021-11-05
+2021-10-27,Gold Resource Corporation,2.64,GORO,2021-11-05
+2021-11-03,"Gritstone bio, Inc.",2.73,GRTS,2021-11-05
+2021-11-04,Gogo Inc.,13.41,GOGO,2021-11-05
+2022-01-17,"Goldman Sachs Group, Inc. (The)",1.3,GS,2021-11-05
+2022-02-01,Just Eat Takeaway.com N.V.,0.44,GRUB,2021-11-05
+2021-11-01,Gladstone Commercial Corporatio,1.01,GOOD,2021-11-05
+2021-11-22,Ferroglobe PLC,0.77,GSM,2021-11-05
+2021-11-03,Genco Shipping & Trading Limite,1.9,GNK,2021-11-05
+2021-11-11,"GRAVITY Co., Ltd.",0.47,GRVY,2021-11-05
+2021-10-28,"GSI Technology, Inc.",0.66,GSIT,2021-11-05
+2021-10-27,"Goosehead Insurance, Inc.",2.41,GSHD,2021-11-05
+2021-11-02,Geopark Ltd,0.32,GPRK,2021-11-05
+2021-11-05,"Groupon, Inc.",14.6,GRPN,2021-11-05
+2021-11-08,Galmed Pharmaceuticals Ltd.,1.3,GLMD,2021-11-05
+2021-11-08,"GreenSky, Inc.",1.73,GSKY,2021-11-05
+2021-11-01,"Golden Star Resources, Ltd",1.0,GSS,2021-11-05
+2021-10-27,Garmin Ltd.,1.04,GRMN,2021-11-05
+2021-11-05,The Goodyear Tire & Rubber Comp,2.51,GT,2021-11-05
+2021-11-11,GrowGeneration Corp.,8.19,GRWG,2021-11-05
+2021-11-10,Global Ship Lease Inc New,3.28,GSL,2021-11-05
+2021-11-02,Global Payments Inc.,1.81,GPN,2021-11-05
+2021-08-18,Grindrod Shipping Holdings Ltd.,0.32,GRIN,2021-11-05
+2021-12-06,"Guidewire Software, Inc.",3.97,GWRE,2021-11-05
+2021-11-08,"Galera Therapeutics, Inc.",0.63,GRTX,2021-11-05
+2021-10-29,"W.W. Grainger, Inc.",1.52,GWW,2021-11-05
+2020-05-14,"Genprex, Inc.",4.7,GNPX,2021-11-05
+2021-10-21,"Chart Industries, Inc.",11.66,GTLS,2021-11-05
+2021-11-08,"The Hain Celestial Group, Inc.",6.27,HAIN,2021-11-05
+2022-01-17,Halliburton Company,2.04,HAL,2021-11-05
+2021-11-05,"Harpoon Therapeutics, Inc.",2.73,HARP,2021-11-05
+2017-02-01,GlaxoSmithKline PLC,0.67,GSK,2021-11-05
+2021-11-03,Hyatt Hotels Corporation,2.44,H,2021-11-05
+2021-11-02,"Halozyme Therapeutics, Inc.",4.23,HALO,2021-11-05
+2021-11-01,"Harbor Custom Development, Inc.",6.9,HCDI,2021-11-05
+2022-01-25,"Horizon Bancorp, Inc.",0.45,HBNC,2021-11-05
+2021-10-27,"Huttig Building Products, Inc.",0.89,HBP,2021-11-05
+2021-10-26,"Hasbro, Inc.",3.74,HAS,2021-11-05
+2021-11-04,"Goldman Sachs BDC, Inc.",0.4,GSBD,2021-11-05
+2021-11-03,"HCI Group, Inc.",10.39,HCI,2021-11-05
+2021-10-26,"H&E Equipment Services, Inc.",2.22,HEES,2021-11-05
+2021-11-16,"Home Depot, Inc. (The)",0.95,HD,2021-11-05
+2021-11-03,Hamilton Beach Brands Holding C,1.5,HBB,2021-11-05
+2021-08-16,"Gulf Resources, Inc.",0.04,GURE,2021-11-05
+2021-11-03,HollyFrontier Corporation,3.64,HFC,2021-11-05
+2021-11-03,"G1 Therapeutics, Inc.",19.94,GTHX,2021-11-05
+2021-11-04,Hanesbrands Inc.,8.25,HBI,2021-11-05
+2021-11-04,"Gray Television, Inc.",2.82,GTN,2021-11-05
+2022-01-31,"HCA Healthcare, Inc.",0.82,HCA,2021-11-05
+2021-10-20,"Heritage-Crystal Clean, Inc.",1.08,HCCI,2021-11-05
+2021-11-04,"Huntington Ingalls Industries, ",1.99,HII,2021-11-05
+2022-01-25,Hess Corporation,2.15,HES,2021-11-05
+2022-01-05,Helen of Troy Limited,9.36,HELE,2021-11-05
+2021-10-28,Hartford Financial Services Gro,1.12,HIG,2021-11-05
+2021-11-02,"Holly Energy Partners, L.P.",0.85,HEP,2021-11-05
+2021-10-26,Hess Midstream LP,2.7,HESM,2021-11-05
+2021-11-03,Hudbay Minerals Inc.,1.05,HBM,2021-11-05
+2021-10-20,"Helix Energy Solutions Group, I",4.94,HLX,2021-11-05
+2021-12-13,HEXO Corp.,10.02,HEXO,2021-11-05
+2021-10-20,"Healthcare Services Group, Inc.",10.22,HCSG,2021-11-05
+2021-11-04,Houghton Mifflin Harcourt Compa,2.92,HMHC,2021-11-05
+2021-11-05,Hollysys Automation Technologie,0.38,HOLI,2021-11-05
+2022-01-20,Huntington Bancshares Incorpora,1.84,HBAN,2021-11-05
+2021-11-02,Herbalife Nutrition Ltd.,4.76,HLF,2021-11-05
+2022-01-25,"Hologic, Inc.",1.46,HOLX,2021-11-05
+2021-11-18,HeadHunter Group PLC,0.02,HHR,2021-11-05
+2021-11-23,HP Inc.,4.77,HPQ,2021-11-05
+2021-11-04,Hecla Mining Company,1.41,HL,2021-11-05
+2021-11-10,Hall of Fame Resort & Entertain,7.39,HOFV,2021-11-05
+2021-11-17,"Helmerich & Payne, Inc.",5.63,HP,2021-11-05
+2022-01-26,"Houlihan Lokey, Inc.",2.43,HLI,2021-11-05
+2021-10-27,Hilton Worldwide Holdings Inc.,2.77,HLT,2021-11-05
+2022-01-27,Honeywell International Inc.,0.82,HON,2021-11-05
+2021-11-17,Hoegh LNG Partners LP,0.38,HMLP,2021-11-05
+2021-11-02,"Henry Schein, Inc.",2.74,HSIC,2021-11-05
+2021-11-03,"Heron Therapeutics, Inc.",27.74,HRTX,2021-11-05
+2021-10-21,Herc Holdings Inc.,2.98,HRI,2021-11-05
+2021-12-07,"Hovnanian Enterprises, Inc.",5.65,HOV,2021-11-05
+2021-11-02,Harsco Corporation,3.93,HSC,2021-11-05
+2021-11-04,Heska Corporation,2.55,HSKA,2021-11-05
+2022-02-02,The Hershey Company,1.53,HSY,2021-11-05
+2021-10-29,Huntsman Corporation,2.06,HUN,2021-11-05
+2021-10-26,Horizon Technology Finance Corp,2.28,HRZN,2021-11-05
+2021-11-01,Hallador Energy Company,1.78,HNRG,2021-11-05
+2021-11-08,Hormel Foods Corporation,2.85,HRL,2021-11-05
+2021-10-28,"Hercules Capital, Inc.",3.95,HTGC,2021-11-05
+2020-12-21,Xiaobai Maimai Inc.,4.52,HX,2021-11-05
+2022-01-31,Harmonic Inc.,9.18,HLIT,2021-11-05
+2021-11-03,Humana Inc.,1.48,HUM,2021-11-05
+2021-10-26,"Warrior Met Coal, Inc.",5.05,HCC,2021-11-05
+2021-11-08,"Heat Biologics, Inc.",8.21,HTBX,2021-11-05
+2021-11-03,"HubSpot, Inc.",4.44,HUBS,2021-11-05
+2022-02-02,"Himax Technologies, Inc.",14.16,HIMX,2021-11-05
+2021-11-04,Howmet Aerospace Inc.,2.21,HWM,2021-11-05
+2021-11-02,Integra LifeSciences Holdings C,5.83,IART,2021-11-05
+2021-10-26,Hersha Hospitality Trust,2.59,HT,2021-11-05
+2022-01-31,"Harley-Davidson, Inc.",11.01,HOG,2021-11-05
+2022-01-24,International Business Machines,2.84,IBM,2021-11-05
+2021-11-09,HUYA Inc.,4.22,HUYA,2021-11-05
+2021-11-09,HyreCar Inc.,7.89,HYRE,2021-11-05
+2021-11-15,"iBio, Inc.",6.75,IBIO,2021-11-05
+2022-01-17,"Interactive Brokers Group, Inc.",2.94,IBKR,2021-11-05
+2021-10-28,"Haverty Furniture Companies, In",14.68,HVT,2021-11-05
+2022-01-18,Hancock Whitney Corporation,1.6,HWC,2021-11-05
+2021-11-03,Horizon Therapeutics Public Lim,1.47,HZNP,2021-11-05
+2021-11-03,Iamgold Corporation,2.12,IAG,2021-11-05
+2021-11-02,"IAA, Inc.",2.22,IAA,2021-11-05
+2021-11-03,IAC/InterActiveCorp,1.27,IAC,2021-11-05
+2022-01-26,"MarineMax, Inc.  (FL)",13.51,HZO,2021-11-05
+2022-02-03,Intercontinental Exchange Inc.,0.92,ICE,2021-11-05
+2022-01-31,"IDEXX Laboratories, Inc.",0.86,IDXX,2021-11-05
+2022-02-01,Ichor Holdings,2.23,ICHR,2021-11-05
+2021-10-27,"Idera Pharmaceuticals, Inc.",1.03,IDRA,2021-11-05
+2021-11-08,Internationa Flavors & Fragranc,2.26,IFF,2021-11-05
+2021-11-15,"Ideanomics, Inc.",8.77,IDEX,2021-11-05
+2021-10-28,"IDACORP, Inc.",2.06,IDA,2021-11-05
+2021-11-03,Corcept Therapeutics Incorporat,7.25,CORT,2021-11-05
+2021-11-03,Falcon Minerals Corporation,1.56,FLMN,2021-11-05
+2021-11-22,India Globalization Capital Inc,3.36,IGC,2021-11-05
+2021-05-17,InnSuites Hospitality Trust Sha,1.37,IHT,2021-11-05
+2021-11-02,Icahn Enterprises L.P. - Deposi,0.09,IEP,2021-11-05
+2021-11-03,Immersion Corporation,3.33,IMMR,2021-11-05
+2021-11-03,Innovative Industrial Propertie,5.33,IIPR,2021-11-05
+2021-11-09,International Game Technology,1.86,IGT,2021-11-05
+2022-01-19,Independent Bank Corp.,5.88,INDB,2021-11-05
+2021-10-29,"ImmunoGen, Inc.",8.61,IMGN,2021-11-05
+2021-11-03,Infinera Corporation,10.79,INFN,2021-11-05
+2021-11-04,"Illumina, Inc.",1.18,ILMN,2021-11-05
+2021-11-08,"iHeartMedia, Inc.",1.55,IHRT,2021-11-05
+2022-01-11,IHS Markit Ltd.,3.77,INFO,2021-11-05
+2021-11-04,InflaRx N.V.,0.91,IFRX,2021-11-05
+2021-10-28,Imax Corporation,4.88,IMAX,2021-11-05
+2021-10-28,"Insmed, Inc.",7.97,INSM,2021-11-05
+2021-11-03,Inseego Corp.,13.08,INSG,2021-11-05
+2021-11-09,"Inovio Pharmaceuticals, Inc.",21.87,INO,2021-11-05
+2022-01-19,Intel Corporation,1.57,INTC,2021-11-05
+2021-11-02,"Inspire Medical Systems, Inc.",2.83,INSP,2021-11-05
+2021-11-04,"International Seaways, Inc.",2.99,INSW,2021-11-05
+2021-11-10,Inpixon,2.92,INPX,2021-11-05
+2021-11-18,Intuit Inc.,0.62,INTU,2021-11-05
+2021-11-08,"Inuvo, Inc.",3.32,INUV,2021-11-05
+2021-11-02,"Infinity Pharmaceuticals, Inc.",4.95,INFI,2021-11-05
+2021-11-10,"Inozyme Pharma, Inc.",0.96,INZY,2021-11-05
+2021-10-27,"Innoviva, Inc.",13.18,INVA,2021-11-05
+2021-11-02,"Identiv, Inc.",3.48,INVE,2021-11-05
+2021-11-02,Incyte Corporation,2.3,INCY,2021-11-05
+2021-11-03,Ion Geophysical Corporation,8.02,IO,2021-11-05
+2021-05-17,"Professional Diversity Network,",1.76,IPDN,2021-11-05
+2022-02-02,International Paper Company,2.02,IP,2021-11-05
+2021-11-04,"Iovance Biotherapeutics, Inc.",9.8,IOVA,2021-11-05
+2021-11-09,II-VI Incorporated,16.72,IIVI,2021-11-05
+2021-10-21,"Interpublic Group of Companies,",4.1,IPG,2021-11-05
+2021-11-17,"iQIYI, Inc.",7.56,IQ,2021-11-05
+2021-11-01,"Intrepid Potash, Inc",1.88,IPI,2021-11-05
+2021-11-02,IPG Photonics Corporation,3.36,IPGP,2021-11-05
+2021-10-21,"IQVIA Holdings, Inc.",1.35,IQV,2021-11-05
+2021-11-17,"i3 Verticals, Inc.",3.26,IIIV,2021-11-05
+2022-01-31,Imperial Oil Limited,0.76,IMO,2021-11-05
+2021-11-10,"IsoRay, Inc.",0.92,ISR,2021-11-05
+2021-10-19,Iridium Communications Inc,5.42,IRDM,2021-11-05
+2021-11-04,Iron Mountain Incorporated (Del,10.03,IRM,2021-11-05
+2022-01-11,IHS Markit Ltd.,3.77,INFO,2021-11-05
+2021-11-03,"Immunic, Inc.",3.54,IMUX,2021-11-05
+2021-11-02,"Gartner, Inc.",1.43,IT,2021-11-05
+2022-02-03,Illinois Tool Works Inc.,1.4,ITW,2021-11-05
+2021-11-10,InMode Ltd.,3.49,INMD,2021-11-05
+2021-11-01,"Independence Contract Drilling,",1.84,ICD,2021-11-05
+2021-11-16,Ituran Location and Control Ltd,0.27,ITRN,2021-11-05
+2021-11-01,"IVERIC bio, Inc.",12.3,ISEE,2021-11-05
+2021-11-09,Intra-Cellular Therapies Inc.,6.57,ITCI,2021-11-05
+2021-11-10,"Immunovant, Inc.",3.15,IMVT,2021-11-05
+2021-11-03,INVESCO MORTGAGE CAPITAL INC,9.78,IVR,2021-11-05
+2021-11-04,"iRhythm Technologies, Inc.",4.11,IRTC,2021-11-05
+2021-11-29,Jiayin Group Inc.,0.06,JFIN,2021-11-05
+2021-11-05,Johnson Controls International ,1.18,JCI,2021-11-05
+2022-01-18,"J.B. Hunt Transport Services, I",1.22,JBHT,2021-11-05
+2021-11-23,Jacobs Engineering Group Inc.,1.09,J,2021-11-05
+2021-10-27,Invacare Corporation,26.11,IVC,2021-11-05
+2021-11-10,"IT Tech Packaging, Inc.",1.92,ITP,2021-11-05
+2021-11-03,"Intercept Pharmaceuticals, Inc.",26.98,ICPT,2021-11-05
+2021-11-09,Jazz Pharmaceuticals plc,6.23,JAZZ,2021-11-05
+2022-01-26,JetBlue Airways Corporation,3.71,JBLU,2021-11-05
+2020-08-11,"JD.com, Inc.",1.62,JD,2021-11-05
+2021-11-01,"j2 Global, Inc.",4.81,JCOM,2021-11-05
+2021-11-08,Innodata Inc.,0.57,INOD,2021-11-05
+2022-01-24,Invesco Ltd,1.26,IVZ,2021-11-05
+2021-11-01,"JELD-WEN Holding, Inc.",2.55,JELD,2021-11-05
+2021-10-28,"Communications Systems, Inc.",9.77,JCS,2021-11-05
+2022-01-18,First Internet Bancorp,0.78,INBK,2021-11-05
+2021-10-27,"JAKKS Pacific, Inc.",3.18,JAKK,2021-11-05
+2021-12-15,Jabil Inc.,1.53,JBL,2021-11-05
+2021-10-27,John Bean Technologies Corporat,3.76,JBT,2021-11-05
+2021-12-08,"J. Jill, Inc.",0.72,JILL,2021-11-05
+2021-11-10,"IZEA Worldwide, Inc.",1.65,IZEA,2021-11-05
+2021-11-17,"51job, Inc.",2.13,JOBS,2021-11-05
+2021-11-08,Jumia Technologies AG,8.81,JMIA,2021-11-05
+2022-01-25,Johnson & Johnson,0.62,JNJ,2021-11-05
+2021-11-15,Iterum Therapeutics plc,1.75,ITRM,2021-11-05
+2021-11-04,"Jounce Therapeutics, Inc.",3.15,JNCE,2021-11-05
+2021-12-01,IDT Corporation,2.23,IDT,2021-11-05
+2021-11-15,"Jaguar Health, Inc.",3.87,JAGX,2021-11-05
+2021-12-06,JinkoSolar Holding Company Limi,10.41,JKS,2021-11-05
+2021-11-03,Jones Lang LaSalle Incorporated,2.77,JLL,2021-11-05
+2022-01-14,JP Morgan Chase & Co.,0.62,JPM,2021-11-05
+2021-11-04,Kellogg Company,5.18,K,2021-11-05
+2021-08-16,GEE Group Inc.,0.34,JOB,2021-11-05
+2021-11-22,Jupai Holdings Limited,0.04,JP,2021-11-05
+2021-10-20,Kaiser Aluminum Corporation,1.99,KALU,2021-11-05
+2021-12-27,China Finance Online Co. Limite,0.32,JRJC,2021-11-05
+2021-11-03,INmune Bio Inc.,5.72,INMB,2021-11-05
+2021-11-16,Kingsoft Cloud Holdings Limited,2.22,KC,2021-11-05
+2021-11-11,Houston American Energy Corpora,3.26,HUSA,2021-11-05
+2020-02-11,"Kelly Services, Inc.",0,KELYB,2021-11-05
+2021-11-03,"Kimball Electronics, Inc.",1.53,KE,2021-11-05
+2021-10-27,The Kraft Heinz Company,2.17,KHC,2021-11-05
+2021-11-03,"Kadmon Holdings, Inc.",13.63,KDMN,2021-11-05
+2021-10-28,Keurig Dr Pepper Inc.,1.77,KDP,2021-11-05
+2021-11-01,"Kiniksa Pharmaceuticals, Ltd.",4.66,KNSA,2021-11-05
+2022-01-24,Kimberly-Clark Corporation,2.23,KMB,2021-11-05
+2021-12-06,"KLX Energy Services Holdings, I",11.05,KLXE,2021-11-05
+2021-11-22,"Nordstrom, Inc.",12.46,JWN,2021-11-05
+2021-11-17,"Kulicke and Soffa Industries, I",8.17,KLIC,2021-11-05
+2021-11-03,"Kala Pharmaceuticals, Inc.",13.54,KALA,2021-11-05
+2020-03-23,Jianpu Technology Inc.,0.89,JT,2021-11-05
+2021-12-01,"Kirkland's, Inc.",25.29,KIRK,2021-11-05
+2021-11-02,KKR & Co. Inc.,1.39,KKR,2021-11-05
+2021-08-09,Akerna Corp.,7.17,KERN,2021-11-05
+2021-11-10,Kinross Gold Corporation,1.03,KGC,2021-11-05
+2022-01-25,Knight-Swift Transportation Hol,4.61,KNX,2021-11-05
+2021-11-22,Keysight Technologies Inc.,2.72,KEYS,2021-11-05
+2021-11-03,Karyopharm Therapeutics Inc.,17.68,KPTI,2021-11-05
+2021-10-27,Knowles Corporation,4.52,KN,2021-11-05
+2021-12-01,Kroger Company (The),4.75,KR,2021-11-05
+2021-11-01,"Kforce, Inc.",2.42,KFRC,2021-11-05
+2021-11-03,Kirkland Lake Gold Ltd.,1.57,KL,2021-11-05
+2022-01-26,"Juniper Networks, Inc.",4.73,JNPR,2021-11-05
+2022-01-31,Kemper Corporation,0.96,KMPR,2021-11-05
+2022-01-19,"Intuitive Surgical, Inc.",0.95,ISRG,2021-11-05
+2022-01-19,KeyCorp,2.8,KEY,2021-11-05
+2021-11-09,"Kaleyra, Inc.",4.61,KLR,2021-11-05
+2021-10-28,"Kinsale Capital Group, Inc.",2.7,KNSL,2021-11-05
+2021-11-05,Kimco Realty Corporation,3.61,KIM,2021-11-05
+2021-05-11,Kelso Technologies Inc,1.55,KIQ,2021-11-05
+2022-01-26,Koss Corporation,6.25,KOSS,2021-11-05
+2021-11-01,"Kaleido Biosciences, Inc.",6.17,KLDO,2021-11-05
+2021-10-27,Coca-Cola Company (The),0.78,KO,2021-11-05
+2021-11-02,"KAR Auction Services, Inc",8.34,KAR,2021-11-05
+2021-10-28,DaVita Inc.,2.87,DVA,2021-11-05
+2021-11-03,The Joint Corp.,7.53,JYNT,2021-11-05
+2021-11-08,Kosmos Energy Ltd.,5.13,KOS,2021-11-05
+2022-01-20,Kansas City Southern,3.02,KSU,2021-11-05
+2021-11-02,Kopin Corporation,5.74,KOPN,2021-11-05
+2022-01-18,"Kinder Morgan, Inc.",1.47,KMI,2021-11-05
+2021-11-01,Loews Corporation,0.66,L,2021-11-05
+2021-11-08,Eastman Kodak Company,8.36,KODK,2021-11-05
+2022-01-10,KB Home,5.55,KBH,2021-11-05
+2021-11-04,"KVH Industries, Inc.",0.71,KVHI,2021-11-05
+2022-01-24,Luther Burbank Corporation,0.3,LBC,2021-11-05
+2021-11-03,Quaker Chemical Corporation,7.62,KWR,2021-11-05
+2021-11-03,"Kezar Life Sciences, Inc.",4.31,KZR,2021-11-05
+2021-11-04,Kimbell Royalty Partners,0.48,KRP,2021-11-05
+2021-11-18,Kohl's Corporation,12.02,KSS,2021-11-05
+2021-10-29,"Lazard LTD. Lazard, LTD.",1.85,LAZ,2021-11-05
+2020-12-30,Kaixin Auto Holdings,0.26,KXIN,2021-11-05
+2021-11-18,KNOT Offshore Partners LP,0.34,KNOP,2021-11-05
+2021-11-09,Gladstone Land Corporation,1.57,LAND,2021-11-05
+2022-02-01,Lannett Co Inc,14.02,LCI,2021-11-05
+2021-11-11,Jamf Holding Corp.,5.01,JAMF,2021-11-05
+2021-10-26,Liberty Oilfield Services Inc.,4.69,LBRT,2021-11-05
+2021-11-04,"Laureate Education, Inc.",1.48,LAUR,2021-11-05
+2020-10-30,Liberty Broadband Corporation,2.94,LBRDK,2021-11-05
+2021-12-22,CarMax Inc,2.98,KMX,2021-11-05
+2021-10-28,Ladder Capital Corp,1.62,LADR,2021-11-05
+2021-11-24,LAIX Inc.,0.93,LAIX,2021-11-05
+2022-02-01,"Lithia Motors, Inc.",4.3,LAD,2021-11-05
+2021-10-25,KKR Real Estate Finance Trust I,3.21,KREF,2021-11-05
+2021-10-27,LendingClub Corporation,4.31,LC,2021-11-05
+2021-12-14,Lennar Corporation,2.51,LEN,2021-11-05
+2021-11-10,"Lineage Cell Therapeutics, Inc.",4.9,LCTX,2021-11-05
+2021-11-08,Centrus Energy Corp.,3.97,LEU,2021-11-05
+2021-11-02,"Leidos Holdings, Inc.",1.49,LDOS,2021-11-05
+2021-11-09,Ligand Pharmaceuticals Incorpor,9.98,LGND,2021-11-05
+2021-12-06,"LightInTheBox Holding Co., Ltd.",1.74,LITB,2021-11-05
+2021-11-15,Legend Biotech Corporation,1.27,LEGN,2021-11-05
+2021-10-27,Dawson Geophysical Company,0.36,DWSN,2021-11-05
+2021-05-17,Live Ventures Incorporated,0.82,LIVE,2021-11-05
+2021-11-03,Kratos Defense & Security Solut,2.34,KTOS,2021-11-05
+2021-11-04,Lumentum Holdings Inc.,8.33,LITE,2021-11-05
+2021-11-02,"LGI Homes, Inc.",9.26,LGIH,2021-11-05
+2021-11-03,"Lumber Liquidators Holdings, In",5.44,LL,2021-11-05
+2021-11-01,Luokung Technology Corp,2.79,LKCO,2021-11-05
+2021-10-28,Laboratory Corporation of Ameri,1.48,LH,2021-11-05
+2021-11-08,"Lemonade, Inc.",22.0,LMND,2021-11-05
+2021-09-30,Lion Group Holding Ltd.,2.7,LGHL,2021-11-05
+2021-10-28,"Lawson Products, Inc.",0.57,LAWS,2021-11-05
+2021-11-03,LivaNova PLC,3.86,LIVN,2021-11-05
+2022-02-03,Eli Lilly and Company,0.69,LLY,2021-11-05
+2021-11-01,"Leggett & Platt, Incorporated",5.18,LEG,2021-11-05
+2021-08-31,I-MAB,2.76,IMAB,2021-11-05
+2021-08-30,Leju Holdings Limited,0.02,LEJU,2021-11-05
+2021-11-04,"Lantheus Holdings, Inc.",3.95,LNTH,2021-11-05
+2021-11-11,Li Auto Inc.,2.31,LI,2021-11-05
+2022-01-27,"L3Harris Technologies, Inc.",1.23,LHX,2021-11-05
+2021-10-28,Linde plc,0.61,LIN,2021-11-05
+2021-10-28,LKQ Corporation,1.99,LKQ,2021-11-05
+2021-11-04,"Limelight Networks, Inc.",4.76,LLNW,2021-11-05
+2021-10-25,"Lennox International, Inc.",4.1,LII,2021-11-05
+2021-11-03,"Loral Space and Communications,",1.78,LORL,2021-11-05
+2022-01-25,Levi Strauss & Co,0.96,LEVI,2021-11-05
+2022-01-25,Lam Research Corporation,1.7,LRCX,2021-11-05
+2021-11-04,Liquidia Corporation,1.39,LQDA,2021-11-05
+2021-12-07,The Lovesac Company,16.65,LOVE,2021-11-05
+2021-11-04,"Cheniere Energy, Inc.",2.17,LNG,2021-11-05
+2021-10-28,"Grand Canyon Education, Inc.",1.77,LOPE,2021-11-05
+2021-11-17,"Lowe's Companies, Inc.",1.15,LOW,2021-11-05
+2022-01-25,"Live Oak Bancshares, Inc.",4.18,LOB,2021-11-05
+2021-10-20,"Manhattan Bridge Capital, Inc",0.15,LOAN,2021-11-05
+2021-10-27,"El Pollo Loco Holdings, Inc.",4.4,LOCO,2021-11-05
+2021-11-02,Lattice Semiconductor Corporati,3.04,LSCC,2021-11-05
+2022-01-25,Las Vegas Sands Corp.,1.54,LVS,2021-11-05
+2021-11-02,Louisiana-Pacific Corporation,5.51,LPX,2021-11-05
+2021-12-07,"Luby's, Inc.",0.49,LUB,2021-11-05
+2021-12-08,lululemon athletica inc.,1.57,LULU,2021-11-05
+2022-01-05,"Lamb Weston Holdings, Inc.",1.79,LW,2021-11-05
+2021-11-02,"Laredo Petroleum, Inc.",16.86,LPI,2021-11-05
+2021-11-08,Lipocine Inc.,4.35,LPCN,2021-11-05
+2022-01-24,"Stride, Inc.",6.07,LRN,2021-11-05
+2021-11-11,"Lantronix, Inc.",0.39,LTRX,2021-11-05
+2021-11-04,Livent Corporation,15.6,LTHM,2021-11-05
+2021-12-06,"Liquidity Services, Inc.",4.26,LQDT,2021-11-05
+2021-11-10,"Leap Therapeutics, Inc.",12.28,LPTX,2021-11-05
+2022-01-12,"Loop Industries, Inc.",4.61,LOOP,2021-11-05
+2021-10-28,LPL Financial Holdings Inc.,1.61,LPLA,2021-11-05
+2021-11-03,"Lexicon Pharmaceuticals, Inc.",2.36,LXRX,2021-11-05
+2021-10-28,"LTC Properties, Inc.",3.39,LTC,2021-11-05
+2022-01-27,LyondellBasell Industries NV,1.49,LYB,2021-11-05
+2021-11-04,"Live Nation Entertainment, Inc.",5.73,LYV,2021-11-05
+2021-11-02,Pulmonx Corporation,3.85,LUNG,2021-11-05
+2021-10-21,"Mattel, Inc.",6.95,MAT,2021-11-05
+2021-11-03,"Matson, Inc.",3.44,MATX,2021-11-05
+2021-11-08,Open Lending Corporation,3.19,LPRO,2021-11-05
+2021-10-20,"Landstar System, Inc.",2.92,LSTR,2021-11-05
+2021-11-08,Lightbridge Corporation,3.72,LTBR,2021-11-05
+2021-11-03,MBIA Inc.,5.3,MBI,2021-11-05
+2021-11-02,"Lyft, Inc.",8.1,LYFT,2021-11-05
+2021-05-14,"LM Funding America, Inc.",7.84,LMFA,2021-11-05
+2021-11-15,"Comstock Mining, Inc.",5.06,LODE,2021-11-05
+2021-11-05,"Liberty TripAdvisor Holdings, I",2.15,LTRPA,2021-11-05
+2021-11-11,MAG Silver Corporation,1.88,MAG,2021-11-05
+2021-11-04,"EPAM Systems, Inc.",1.07,EPAM,2021-11-05
+2021-11-03,Marriott International,1.48,MAR,2021-11-05
+2021-10-26,"Manhattan Associates, Inc.",1.51,MANH,2021-11-05
+2020-11-19,3273,0.04,MARPS,2021-11-05
+2021-11-02,ManTech International Corporati,0.89,MANT,2021-11-05
+2021-11-11,"Moleculin Biotech, Inc.",2.42,MBRX,2021-11-05
+2021-10-26,Masimo Corporation,2.88,MASI,2021-11-05
+2022-01-27,Southwest Airlines Company,2.6,LUV,2021-11-05
+2022-01-24,Lockheed Martin Corporation,0.92,LMT,2021-11-05
+2021-10-21,Metropolitan Bank Holding Corp.,2.41,MCB,2021-11-05
+2021-11-10,LexinFintech Holdings Ltd.,0.96,LX,2021-11-05
+2021-11-15,"Remark Holdings, Inc.",10.46,MARK,2021-11-05
+2021-11-01,"LSB Industries, Inc.",0.91,LXU,2021-11-05
+2021-11-11,Manchester,0.38,MANU,2021-11-05
+2022-02-02,Microchip Technology Incorporat,2.3,MCHP,2021-11-05
+2021-11-10,"Marathon Digital Holdings, Inc.",15.3,MARA,2021-11-05
+2021-11-04,"Mustang Bio, Inc.",3.29,MBIO,2021-11-05
+2021-11-10,"Seres Therapeutics, Inc.",8.89,MCRB,2021-11-05
+2021-11-03,Maxar Technologies Inc.,6.99,MAXR,2021-11-05
+2021-11-02,"Marchex, Inc.",1.46,MCHX,2021-11-05
+2021-11-04,"Madrigal Pharmaceuticals, Inc.",8.14,MDGL,2021-11-05
+2021-11-02,"LivePerson, Inc.",17.19,LPSN,2021-11-05
+2021-10-27,Moelis & Company,1.48,MC,2021-11-05
+2022-01-26,"Mondelez International, Inc.",0.92,MDLZ,2021-11-05
+2021-11-08,Contango Oil & Gas Company,6.53,MCF,2021-11-05
+2022-01-26,McDonald's Corporation,0.78,MCD,2021-11-05
+2021-11-23,Medtronic plc.,0.61,MDT,2021-11-05
+2021-03-30,Mediaco Holding Inc.,2.54,MDIA,2021-11-05
+2021-10-27,Masco Corporation,3.24,MAS,2021-11-05
+2022-01-31,McKesson Corporation,1.29,MCK,2021-11-05
+2021-11-08,"MEI Pharma, Inc.",8.14,MEIP,2021-11-05
+2021-11-04,Allscripts Healthcare Solutions,11.08,MDRX,2021-11-05
+2021-10-19,ManpowerGroup,1.91,MAN,2021-11-05
+2021-11-04,MEDIFAST INC,4.97,MED,2021-11-05
+2021-11-18,Macy's Inc,16.67,M,2021-11-05
+2022-01-25,Methanex Corporation,1.69,MEOH,2021-11-05
+2021-11-03,Meredith Corporation,2.31,MDP,2021-11-05
+2021-11-03,Manulife Financial Corporation,0.53,MFC,2021-11-05
+2021-12-02,Meten Holding Group Ltd.,4.06,METX,2021-11-05
+2022-02-01,"MetLife, Inc.",1.14,MET,2021-11-05
+2022-02-01,"MDU Resources Group, Inc.",1.05,MDU,2021-11-05
+2021-11-03,Macerich Company (The),12.95,MAC,2021-11-05
+2021-11-01,Medallion Financial Corp.,0.53,MFIN,2021-11-05
+2022-01-31,"M.D.C. Holdings, Inc.",1.9,MDC,2021-11-05
+2021-11-04,Main Street Capital Corporation,2.48,MAIN,2021-11-05
+2022-02-03,"Magnite, Inc.",8.66,MGNI,2021-11-05
+2021-11-05,"MFA Financial, Inc.",1.56,MFA,2021-11-05
+2021-11-03,MeiraGTx Holdings plc,0.98,MGTX,2021-11-05
+2021-11-02,Mistras Group Inc,1.26,MG,2021-11-05
+2021-11-02,Mimecast Limited,3.99,MIME,2021-11-05
+2021-10-28,Moody's Corporation,1.09,MCO,2021-11-05
+2021-10-28,"Mednax, Inc.",2.34,MD,2021-11-05
+2021-11-15,Magic Software Enterprises Ltd.,0.06,MGIC,2021-11-05
+2021-10-28,"Moneygram International, Inc.",4.22,MGI,2021-11-05
+2021-11-02,"Ramaco Resources, Inc.",0.92,METC,2021-11-05
+2021-10-27,"M/I Homes, Inc.",3.05,MHO,2021-11-05
+2021-11-01,Magnolia Oil & Gas Corporation,9.15,MGY,2021-11-05
+2021-11-04,"AG Mortgage Investment Trust, I",1.06,MITT,2021-11-05
+2021-11-04,"MercadoLibre, Inc.",2.27,MELI,2021-11-05
+2021-10-28,"Mohawk Industries, Inc.",1.83,MHK,2021-11-05
+2020-03-25,Molecular Data Inc.,1.72,MKD,2021-11-05
+2021-11-02,"Martin Marietta Materials, Inc.",0.9,MLM,2021-11-05
+2021-12-01,"Medallia, Inc.",5.91,MDLA,2021-11-05
+2022-01-26,"Mitek Systems, Inc.",8.24,MITK,2021-11-05
+2021-11-02,Magellan Midstream Partners L.P,3.91,MMP,2021-11-05
+2021-11-03,MGM Resorts International,2.96,MGM,2021-11-05
+2021-11-09,Melco Resorts & Entertainment L,1.23,MLCO,2021-11-05
+2021-11-10,"Mirum Pharmaceuticals, Inc.",1.34,MIRM,2021-11-05
+2021-11-08,Macquarie Infrastructure Holdin,5.65,MIC,2021-11-05
+2022-01-26,MakeMyTrip Limited,2.08,MMYT,2021-11-05
+2021-11-16,"MICT, Inc.",7.11,MICT,2021-11-05
+2019-11-20,Mercurity Fintech Holding Inc.,1.41,MFH,2021-11-05
+2021-12-07,"Mesa Air Group, Inc.",3.41,MESA,2021-11-05
+2021-11-02,"Miller Industries, Inc.",1.05,MLR,2021-11-05
+2021-10-19,"Mueller Industries, Inc.",1.16,MLI,2021-11-05
+2021-11-03,"Brigham Minerals, Inc.",1.93,MNRL,2021-11-05
+2022-01-25,"MKS Instruments, Inc.",2.19,MKSI,2021-11-05
+2021-10-28,"Evelo Biosciences, Inc.",10.13,EVLO,2021-11-05
+2022-01-31,Markel Corporation,0.72,MKL,2021-11-05
+2021-10-20,"MarketAxess Holdings, Inc.",2.7,MKTX,2021-11-05
+2021-10-25,"Medpace Holdings, Inc.",2.5,MEDP,2021-11-05
+2022-01-26,"McCormick & Company, Incorporat",1.84,MKC,2021-11-05
+2022-02-02,Monmouth Real Estate Investment,3.63,MNR,2021-11-05
+2021-11-15,"Milestone Scientific, Inc.",2.28,MLSS,2021-11-05
+2021-11-10,Mogo Inc.,1.85,MOGO,2021-11-05
+2022-01-26,"Altria Group, Inc.",0.76,MO,2021-11-05
+2021-11-04,Monster Beverage Corporation,0.87,MNST,2021-11-05
+2021-11-01,Mosaic Company (The),1.88,MOS,2021-11-05
+2022-01-24,3M Company,1.7,MMM,2021-11-05
+2021-10-28,"Merit Medical Systems, Inc.",2.89,MMSI,2021-11-05
+2021-11-29,Hello Group Inc.,3.77,MOMO,2021-11-05
+2021-11-02,MannKind Corporation,10.73,MNKD,2021-11-05
+2021-10-27,Molina Healthcare Inc,2.17,MOH,2021-11-05
+2022-02-02,"Medical Properties Trust, Inc.",4.49,MPW,2021-11-05
+2021-11-29,ECMOHO Limited,0.07,MOHO,2021-11-05
+2021-11-04,"MoSys, Inc.",1.79,MOSY,2021-11-05
+2022-01-31,Marathon Petroleum Corporation,3.63,MPC,2021-11-05
+2022-02-02,"Monolithic Power Systems, Inc.",1.82,MPWR,2021-11-05
+2021-10-25,Meridian Corporation,0.11,MRBK,2021-11-05
+2022-01-31,MPLX LP,1.56,MPLX,2021-11-05
+2021-11-08,"Morphic Holding, Inc.",2.61,MORF,2021-11-05
+2022-01-24,Microsoft Corporation,0.65,MSFT,2021-11-05
+2021-12-01,"Marvell Technology, Inc.",1.84,MRVL,2021-11-05
+2021-11-08,Madison Square Garden Sports Co,2.72,MSGS,2021-11-05
+2021-11-04,"Moderna, Inc.",3.67,MRNA,2021-11-05
+2021-05-11,"Mannatech, Incorporated",0.03,MTEX,2021-11-05
+2021-11-04,Marin Software Incorporated,9.18,MRIN,2021-11-05
+2021-12-22,"MSC Industrial Direct Company, ",1.68,MSM,2021-11-05
+2021-11-08,"Mersana Therapeutics, Inc.",7.31,MRSN,2021-11-05
+2022-01-19,M&T Bank Corporation,3.76,MTB,2021-11-05
+2021-10-26,Matador Resources Company,9.62,MTDR,2021-11-05
+2021-11-08,"Marker Therapeutics, Inc.",1.44,MRKR,2021-11-05
+2022-01-31,"Match Group, Inc.",5.45,MTCH,2021-11-05
+2021-10-19,"Marten Transport, Ltd.",1.77,MRTN,2021-11-05
+2021-11-15,Madison Square Garden Entertain,7.47,MSGE,2021-11-05
+2021-12-07,Mesabi Trust,1.42,MSB,2021-11-05
+2022-01-18,Morgan Stanley,0.77,MS,2021-11-05
+2021-11-04,"Mettler-Toledo International, I",1.69,MTD,2021-11-05
+2021-12-08,"Vail Resorts, Inc.",2.44,MTN,2021-11-05
+2021-11-08,MRC Global Inc.,4.61,MRC,2021-11-05
+2021-11-08,"Matinas Biopharma Holdings, Inc",1.36,MTNB,2021-11-05
+2021-11-17,"Meritor, Inc.",3.58,MTOR,2021-11-05
+2021-11-02,Matrix Service Company,2.6,MTRX,2021-11-05
+2022-01-26,MACOM Technology Solutions Hold,4.12,MTSI,2021-11-05
+2022-01-26,MicroStrategy Incorporated,17.36,MSTR,2021-11-05
+2021-11-03,Merus N.V.,5.46,MRUS,2021-11-05
+2022-02-03,"Merck & Company, Inc.",0.86,MRK,2021-11-05
+2022-01-25,Meritage Homes Corporation,3.28,MTH,2021-11-05
+2022-02-01,"MaxLinear, Inc.",3.48,MXL,2021-11-05
+2021-10-28,Materialise NV,1.67,MTLS,2021-11-05
+2017-02-21,Arcelor Mittal NY Registry Shar,0.52,MT,2021-11-05
+2021-12-22,"Micron Technology, Inc.",2.22,MU,2021-11-05
+2021-11-02,Materion Corporation,1.67,MTRN,2021-11-05
+2021-11-08,"Mirati Therapeutics, Inc.",7.91,MRTX,2021-11-05
+2021-10-25,Magnachip Semiconductor Corpora,3.09,MX,2021-11-05
+2021-11-12,"Motus GI Holdings, Inc.",5.93,MOTS,2021-11-05
+2021-08-16,"Northern Dynasty Minerals, Ltd.",3.42,NAK,2021-11-05
+2021-10-27,"Microvision, Inc.",18.82,MVIS,2021-11-05
+2021-11-03,McEwen Mining Inc.,3.64,MUX,2021-11-05
+2021-11-04,Murphy Oil Corporation,8.53,MUR,2021-11-05
+2018-12-20,Naked Brand Group Limited,1.61,NAKD,2021-11-05
+2022-01-26,MSCI Inc,1.03,MSCI,2021-11-05
+2021-10-26,Myovant Sciences Ltd.,4.26,MYOV,2021-11-05
+2021-11-08,Myomo Inc.,8.86,MYO,2021-11-05
+2022-02-02,"Motorola Solutions, Inc.",1.3,MSI,2021-11-05
+2021-11-03,Marathon Oil Corporation,3.47,MRO,2021-11-05
+2021-11-09,"Inari Medical, Inc.",3.15,NARI,2021-11-05
+2021-11-09,Nabriva Therapeutics plc,1.8,NBRV,2021-11-05
+2021-11-08,"National CineMedia, Inc.",4.7,NCMI,2021-11-05
+2019-03-12,MV Oil Trust,0.24,MVO,2021-11-05
+2022-01-24,Navient Corporation,3.36,NAVI,2021-11-05
+2022-01-03,National Instruments Corporatio,2.26,NATI,2021-11-05
+2021-11-10,"NovaBay Pharmaceuticals, Inc.",4.75,NBY,2021-11-05
+2021-11-03,Norwegian Cruise Line Holdings ,13.53,NCLH,2021-11-05
+2021-10-28,Newmont Corporation,1.13,NEM,2021-11-05
+2021-11-15,"NanoVibronix, Inc.",5.67,NAOV,2021-11-05
+2021-10-26,NCR Corporation,5.87,NCR,2021-11-05
+2022-01-24,"NextEra Energy Partners, LP",3.54,NEP,2021-11-05
+2022-01-24,"NextEra Energy, Inc.",1.19,NEE,2021-11-05
+2021-11-09,"NewAge, Inc.",5.35,NBEV,2021-11-05
+2021-11-30,Nordic American Tankers Limited,2.73,NAT,2021-11-05
+2021-11-08,NexTier Oilfield Solutions Inc.,3.56,NEX,2021-11-05
+2021-11-03,Norwegian Cruise Line Holdings ,13.53,NCLH,2021-11-05
+2021-11-10,"Navidea Biopharmaceuticals, Inc",0.58,NAVB,2021-11-05
+2021-12-07,"nCino, Inc.",4.88,NCNO,2021-11-05
+2021-11-03,"NACCO Industries, Inc.",0.32,NC,2021-11-05
+2021-11-17,Puxin Limited,2.87,NEW,2021-11-05
+2021-10-28,Nexa Resources S.A.,0.09,NEXA,2021-11-05
+2021-03-29,The9 Limited - American Deposit,5.15,NCTY,2021-11-05
+2022-01-25,"Nasdaq, Inc.",1.59,NDAQ,2021-11-05
+2021-11-15,Neptune Wellness Solutions Inc.,2.57,NEPT,2021-11-05
+2021-10-25,NewMarket Corp,0.63,NEU,2021-11-05
+2021-11-08,"New Relic, Inc.",7.37,NEWR,2021-11-05
+2021-11-08,Neonode Inc.,2.02,NEON,2021-11-05
+2021-10-27,Noodles & Company,3.17,NDLS,2021-11-05
+2021-11-03,New Fortress Energy Inc.,2.3,NFE,2021-11-05
+2021-11-01,"Minerva Neurosciences, Inc",4.8,NERV,2021-11-05
+2021-11-04,"Cloudflare, Inc.",3.91,NET,2021-11-05
+2021-11-09,NGL ENERGY PARTNERS LP,1.7,NGL,2021-11-05
+2021-11-17,NuCana plc,2.9,NCNA,2021-11-05
+2021-11-08,"National Health Investors, Inc.",2.43,NHI,2021-11-05
+2022-01-17,"Netflix, Inc.",2.14,NFLX,2021-11-05
+2021-11-04,"Nine Energy Service, Inc.",3.87,NINE,2021-11-05
+2021-11-04,Nektar Therapeutics,8.73,NKTR,2021-11-05
+2021-11-10,"Nkarta, Inc.",4.24,NKTX,2021-11-05
+2021-10-26,Nabors Industries Ltd.,6.85,NBR,2021-11-05
+2022-02-02,"Neurocrine Biosciences, Inc.",3.8,NBIX,2021-11-05
+2021-11-22,Navios Maritime Holdings Inc.,2.07,NM,2021-11-05
+2021-11-22,Niu Technologies,2.13,NIU,2021-11-05
+2021-11-15,"Natural Gas Services Group, Inc",0.15,NGS,2021-11-05
+2021-11-09,"Nautilus, Inc.",14.37,NLS,2021-11-05
+2021-11-10,Nano Dimension Ltd.,6.74,NNDM,2021-11-05
+2021-10-18,Navios Maritime Acquisition Cor,1.24,NNA,2021-11-05
+2021-11-09,NIO Inc.,3.39,NIO,2021-11-05
+2021-11-04,National Fuel Gas Company,2.19,NFG,2021-11-05
+2021-11-02,National Retail Properties,2.44,NNN,2021-11-05
+2022-01-26,Northrop Grumman Corporation,1.12,NOC,2021-11-05
+2021-11-03,NiSource Inc,4.97,NI,2021-11-05
+2022-01-25,"ServiceNow, Inc.",1.73,NOW,2021-11-05
+2021-11-04,Nikola Corporation,14.89,NKLA,2021-11-05
+2021-11-03,"NantHealth, Inc.",0.89,NH,2021-11-05
+2021-10-27,Annaly Capital Management Inc,2.59,NLY,2021-11-05
+2021-10-27,Sunnova Energy International In,11.94,NOVA,2021-11-05
+2020-11-16,"NanoViricides, Inc.",6.75,NNVC,2021-11-05
+2021-11-03,Navios Maritime Partners LP,0.39,NMM,2021-11-05
+2021-11-03,Nomad Foods Limited,1.32,NOMD,2021-11-05
+2020-08-12,"9 Meters Biopharma, Inc.",3.36,NMTR,2021-11-05
+2021-11-02,NextDecade Corporation,0.62,NEXT,2021-11-05
+2021-11-29,Noah Holdings Limited,1.73,NOAH,2021-11-05
+2021-09-29,Novagold Resources Inc.,1.99,NG,2021-11-05
+2022-02-02,Nustar Energy L.P.,2.62,NS,2021-11-05
+2021-10-27,"NETGEAR, Inc.",12.09,NTGR,2021-11-05
+2021-11-04,NeoPhotonics Corporation,1.98,NPTN,2021-11-05
+2021-11-17,"NetEase, Inc.",1.34,NTES,2021-11-05
+2021-11-02,New Residential Investment Corp,1.99,NRZ,2021-11-05
+2021-11-30,"NetApp, Inc.",4.4,NTAP,2021-11-05
+2021-11-03,"NN, Inc.",2.4,NNBR,2021-11-05
+2021-11-10,"Novan, Inc.",1.93,NOVN,2021-11-05
+2021-11-04,"NeoGenomics, Inc.",4.94,NEO,2021-11-05
+2022-02-02,NOV Inc.,2.93,NOV,2021-11-05
+2021-11-04,"NRG Energy, Inc.",4.85,NRG,2021-11-05
+2021-11-05,"Northern Oil and Gas, Inc.",9.98,NOG,2021-11-05
+2021-11-04,"NetScout Systems, Inc.",3.55,NTCT,2021-11-05
+2021-10-14,"Nurix Therapeutics, Inc.",6.74,NRIX,2021-11-05
+2021-11-04,"NexPoint Real Estate Finance, I",0.23,NREF,2021-11-05
+2021-11-03,"Nu Skin Enterprises, Inc.",4.6,NUS,2021-11-05
+2022-01-26,Nucor Corporation,2.39,NUE,2021-11-05
+2021-11-01,Nutrien Ltd.,0.55,NTR,2021-11-05
+2021-11-18,"Nuance Communications, Inc.",11.51,NUAN,2021-11-05
+2021-10-28,NovoCure Limited,5.14,NVCR,2021-11-05
+2021-11-17,NVIDIA Corporation,0.92,NVDA,2021-11-05
+2022-01-24,"Northwest Bancshares, Inc.",2.91,NWBI,2021-11-05
+2021-10-27,North American Construction Gro,0.74,NOA,2021-11-05
+2021-11-03,"NextCure, Inc.",2.41,NXTC,2021-11-05
+2022-01-26,"NeuroMetrix, Inc.",9.28,NURO,2021-11-05
+2021-11-09,"NanoString Technologies, Inc.",8.52,NSTG,2021-11-05
+2021-11-04,"Intellia Therapeutics, Inc.",5.02,NTLA,2021-11-05
+2022-01-26,"NVR, Inc.",1.19,NVR,2021-11-05
+2021-11-04,"Novavax, Inc.",8.27,NVAX,2021-11-05
+2021-11-01,Nam Tai Property Inc.,1.9,NTP,2021-11-05
+2021-11-02,"Nexstar Media Group, Inc.",3.53,NXST,2021-11-05
+2021-11-04,Nova Ltd.,3.19,NVMI,2021-11-05
+2021-11-08,Newtek Business Services Corp.,2.62,NEWT,2021-11-05
+2021-11-02,Northwest Pipe Company,1.28,NWPX,2021-11-05
+2022-01-25,"NextGen Healthcare, Inc.",1.98,NXGN,2021-11-05
+2021-11-03,ObsEva SA,1.31,OBSV,2021-11-05
+2021-11-09,InspireMD Inc.,7.86,NSPR,2021-11-05
+2022-01-25,Norfolk Southern Corporation,1.24,NSC,2021-11-05
+2021-11-08,Nexgen Energy Ltd.,2.01,NXE,2021-11-05
+2021-11-03,Neovasc Inc.,0.76,NVCN,2021-11-05
+2020-05-15,Nymox Pharmaceutical Corporatio,2.83,NYMX,2021-11-05
+2021-11-22,"Nutanix, Inc.",3.19,NTNX,2021-11-05
+2021-11-12,NXT-ID Inc.,11.93,NXTD,2021-11-05
+2021-11-02,"New York Mortgage Trust, Inc.",1.21,NYMT,2021-11-05
+2021-10-29,Newell Brands Inc.,2.62,NWL,2021-11-05
+2021-11-08,Invitae Corporation,12.37,NVTA,2021-11-05
+2022-01-25,"New York Community Bancorp, Inc",9.3,NYCB,2021-11-05
+2021-11-01,Realty Income Corporation,6.45,O,2021-11-05
+2021-11-08,"Ocular Therapeutix, Inc.",6.17,OCUL,2021-11-05
+2021-11-18,OneConnect Financial Technology,0.95,OCFT,2021-11-05
+2021-11-09,"Ocugen, Inc.",28.67,OCGN,2021-11-05
+2021-11-09,Oasis Petroleum Inc.,4.59,OAS,2021-11-05
+2021-10-20,OFG Bancorp,1.02,OFG,2021-11-05
+2021-11-23,Organigram Holdings Inc.,4.88,OGI,2021-11-05
+2022-02-02,New York Times Company (The),7.12,NYT,2021-11-05
+2022-01-31,NXP Semiconductors N.V.,1.78,NXPI,2021-11-05
+2021-11-01,"Oil States International, Inc.",3.81,OIS,2021-11-05
+2021-12-01,"Okta, Inc.",4.61,OKTA,2021-11-05
+2021-11-16,Oaktree Specialty Lending Corpo,0.66,OCSL,2021-11-05
+2021-10-25,"O-I Glass, Inc.",2.83,OI,2021-11-05
+2022-02-02,"Old Dominion Freight Line, Inc.",1.46,ODFL,2021-11-05
+2021-08-16,Oragenics Inc.,2.06,OGEN,2021-11-05
+2021-11-25,"Natuzzi, S.p.A.",0.14,NTZ,2021-11-05
+2022-02-02,"Omega Healthcare Investors, Inc",4.63,OHI,2021-11-05
+2022-01-26,Olin Corporation,2.59,OLN,2021-11-05
+2021-10-28,"Opko Health, Inc.",7.09,OPK,2021-11-05
+2021-11-15,"Orbital Energy Group, Inc.",7.95,OEG,2021-11-05
+2021-11-04,OGE Energy Corp,1.12,OGE,2021-11-05
+2021-10-28,Opera Limited,0.43,OPRA,2021-11-05
+2022-01-26,"Marsh & McLennan Companies, Inc",1.09,MMC,2021-11-05
+2021-11-22,OneSmart International Educatio,2.01,ONE,2021-11-05
+2021-11-03,"1Life Healthcare, Inc.",6.5,ONEM,2021-11-05
+2021-11-03,"Owens & Minor, Inc.",9.18,OMI,2021-11-05
+2021-11-02,"ONEOK, Inc.",1.89,OKE,2021-11-05
+2021-11-05,Oncolytics Biotech Inc.,0.49,ONCY,2021-11-05
+2021-12-08,Oracle Corporation,1.12,ORCL,2021-11-05
+2022-01-31,ON Semiconductor Corporation,4.7,ON,2021-11-05
+2021-11-02,"Oncternal Therapeutics, Inc.",3.45,ONCT,2021-11-05
+2021-12-01,Ollie's Bargain Outlet Holdings,17.1,OLLI,2021-11-05
+2021-11-03,"OptiNose, Inc.",5.91,OPTN,2021-11-05
+2021-10-27,"Oceaneering International, Inc.",1.86,OII,2021-11-05
+2021-10-24,NorthWestern Corporation,1.9,NWE,2021-11-05
+2021-10-19,Omnicom Group Inc.,6.67,OMC,2021-11-05
+2021-11-09,Organogenesis Holdings Inc.,4.74,ORGO,2021-11-05
+2021-11-03,Oasis Midstream Partners LP,1.05,OMP,2021-11-05
+2021-11-04,Orchard Therapeutics plc,4.63,ORTX,2021-11-05
+2021-10-27,"O'Reilly Automotive, Inc.",1.22,ORLY,2021-11-05
+2021-11-03,Owl Rock Capital Corporation,0.23,ORCC,2021-11-05
+2021-10-27,"Orion Group Holdings, Inc.",0.95,ORN,2021-11-05
+2021-11-17,"Ooma, Inc.",4.52,OOMA,2021-11-05
+2021-12-06,"Ocean Power Technologies, Inc.",5.14,OPTT,2021-11-05
+2022-01-25,Oshkosh Corporation (Holding Co,2.57,OSK,2021-11-05
+2021-11-04,"Ontrak, Inc.",14.31,OTRK,2021-11-05
+2021-11-08,Osmotica Pharmaceuticals plc,0.89,OSMT,2021-11-05
+2021-10-28,"Overstock.com, Inc.",11.84,OSTK,2021-11-05
+2021-12-21,"Outlook Therapeutics, Inc.",3.48,OTLK,2021-11-05
+2021-11-09,OptimizeRx Corporation,9.78,OPRX,2021-11-05
+2021-11-03,"OraSure Technologies, Inc.",4.92,OSUR,2021-11-05
+2022-01-31,Oxford Lane Capital Corp.,0.12,OXLC,2021-11-05
+2021-08-16,Oxbridge Re Holdings Limited,0.25,OXBR,2021-11-05
+2021-11-03,"Oyster Point Pharma, Inc.",2.7,OYST,2021-11-05
+2022-01-31,Otis Worldwide Corporation,1.3,OTIS,2021-11-05
+2021-11-02,"Plains All American Pipeline, L",2.62,PAA,2021-11-05
+2021-11-02,Ovintiv Inc. (DE),2.97,OVV,2021-11-05
+2021-10-26,Oxford Square Capital Corp.,0.36,OXSQ,2021-11-05
+2022-01-19,Bank OZK,1.79,OZK,2021-11-05
+2021-11-09,Pan American Silver Corp.,1.23,PAAS,2021-11-05
+2021-11-04,Occidental Petroleum Corporatio,3.83,OXY,2021-11-05
+2021-11-04,PAE Incorporated,3.21,PAE,2021-11-05
+2021-11-10,"Onconova Therapeutics, Inc.",4.44,ONTX,2021-11-05
+2021-11-02,Pacific Biosciences of Californ,7.08,PACB,2021-11-05
+2021-11-04,Universal Display Corporation,2.31,OLED,2021-11-05
+2021-10-27,"Penske Automotive Group, Inc.",2.3,PAG,2021-11-05
+2021-11-11,PagSeguro Digital Ltd.,4.57,PAGS,2021-11-05
+2021-11-01,"Option Care Health, Inc.",2.41,OPCH,2021-11-05
+2021-11-15,PAVmed Inc.,6.95,PAVM,2021-11-05
+2021-11-04,PAR Technology Corporation,12.56,PAR,2021-11-05
+2021-10-20,"OneMain Holdings, Inc.",2.19,OMF,2021-11-05
+2022-01-26,Old Republic International Corp,0.97,ORI,2021-11-05
+2021-11-09,Pangaea Logistics Solutions Ltd,0.6,PANL,2021-11-05
+2021-11-11,"OpGen, Inc.",4.58,OPGN,2021-11-05
+2021-11-03,"Oric Pharmaceuticals, Inc.",7.66,ORIC,2021-11-05
+2021-10-28,"Orchid Island Capital, Inc.",6.64,ORC,2021-11-05
+2021-11-02,"Paycom Software, Inc.",1.86,PAYC,2021-11-05
+2021-11-03,Oportun Financial Corporation,0.74,OPRT,2021-11-05
+2021-11-09,"Paysign, Inc.",1.32,PAYS,2021-11-05
+2021-10-28,PBF Energy Inc.,12.81,PBF,2021-11-05
+2021-11-03,"PDC Energy, Inc.",7.49,PDCE,2021-11-05
+2021-11-15,"Palo Alto Networks, Inc.",6.62,PANW,2021-11-05
+2022-01-31,Pitney Bowes Inc.,5.89,PBI,2021-11-05
+2021-11-04,"Passage Bio, Inc.",5.09,PASG,2021-11-05
+2021-10-28,PBF Logistics LP,2.17,PBFX,2021-11-05
+2022-01-19,People's,3.08,PBCT,2021-11-05
+2021-12-21,"Paychex, Inc.",2.58,PAYX,2021-11-05
+2022-01-18,PacWest Bancorp,2.71,PACW,2021-11-05
+2022-01-24,PACCAR Inc.,1.48,PCAR,2021-11-05
+2021-10-27,"Pacira BioSciences, Inc.",15.57,PCRX,2021-11-05
+2021-12-01,"PagerDuty, Inc.",11.08,PD,2021-11-05
+2021-11-02,"Otonomy, Inc.",0.8,OTIC,2021-11-05
+2020-02-28,PIMCO Dynamic Income Fund,2.01,PDI,2021-11-05
+2021-11-10,Pinduoduo Inc.,1.94,PDD,2021-11-05
+2021-10-21,Precision Drilling Corporation,1.68,PDS,2021-11-05
+2021-11-04,Puma Biotechnology Inc,6.14,PBYI,2021-11-05
+2021-11-10,"Vaxcyte, Inc.",2.45,PCVX,2021-11-05
+2021-11-01,Pacific Gas & Electric Co.,4.25,PCG,2021-11-05
+2022-02-02,"Penn National Gaming, Inc.",10.39,PENN,2021-11-05
+2021-11-04,Pennsylvania Real Estate Invest,14.67,PEI,2021-11-05
+2021-11-09,Omeros Corporation,18.13,OMER,2021-11-05
+2021-08-17,Pedevco Corp.,1.15,PED,2021-11-05
+2021-11-02,Public Service Enterprise Group,0.9,PEG,2021-11-05
+2021-10-26,Perion Network Ltd,0.93,PERI,2021-11-05
+2021-11-10,"Opiant Pharmaceuticals, Inc.",0.51,OPNT,2021-11-05
+2020-02-28,PIMCO Dynamic Credit and Mortga,0.13,PCI,2021-11-05
+2021-11-09,Performant Financial Corporatio,2.14,PFMT,2021-11-05
+2021-11-08,"Precigen, Inc.",7.25,PGEN,2021-11-05
+2022-01-31,"Pfizer, Inc.",0.97,PFE,2021-11-05
+2022-01-26,Principal Financial Group Inc,1.54,PFG,2021-11-05
+2021-12-08,PHX Minerals Inc.,0.41,PHX,2021-11-05
+2017-11-06,Permian Basin Royalty Trust,0.38,PBT,2021-11-05
+2021-11-03,"PetIQ, Inc.",10.83,PETQ,2021-11-05
+2021-11-10,PDS Biotechnology Corporation,2.86,PDSB,2021-11-05
+2021-04-26,"TDH Holdings, Inc.",0.04,PETZ,2021-11-05
+2021-10-05,"Pepsico, Inc.",0.81,PEP,2021-11-05
+2021-10-27,"Impinj, Inc.",6.98,PI,2021-11-05
+2021-11-04,"Progyny, Inc.",5.91,PGNY,2021-11-05
+2021-11-03,Ping Identity Holding Corp.,7.3,PING,2021-11-05
+2022-02-03,Parker-Hannifin Corporation,0.97,PH,2021-11-05
+2022-01-26,"PulteGroup, Inc.",2.1,PHM,2021-11-05
+2022-01-18,Procter & Gamble Company (The),0.57,PG,2021-11-05
+2021-11-08,"Phathom Pharmaceuticals, Inc.",5.65,PHAT,2021-11-05
+2021-10-27,Pegasystems Inc.,1.85,PEGA,2021-11-05
+2021-11-17,Progressive Corporation (The),1.77,PGR,2021-11-05
+2021-11-02,"Pieris Pharmaceuticals, Inc.",2.41,PIRS,2021-11-05
+2022-02-02,"Pinterest, Inc.",2.76,PINS,2021-11-05
+2021-10-27,"Paramount Group, Inc.",2.07,PGRE,2021-11-05
+2021-10-26,PJT Partners Inc.,2.04,PJT,2021-11-05
+2019-10-31,Puhui Wealth Investment Managem,0.29,PHCF,2021-11-05
+2021-11-03,Park Hotels & Resorts Inc.,5.07,PK,2021-11-05
+2021-11-17,"Children's Place, Inc. (The)",20.99,PLCE,2021-11-05
+2021-12-08,"Dave & Buster's Entertainment, ",11.72,PLAY,2021-11-05
+2020-11-10,Phio Pharmaceuticals Corp.,0,PHIOW,2021-11-05
+2022-01-31,"PerkinElmer, Inc.",1.97,PKI,2021-11-05
+2021-11-11,"Phunware, Inc.",2.88,PHUN,2021-11-05
+2021-11-17,PennantPark Floating Rate Capit,0.88,PFLT,2021-11-05
+2021-11-08,"Plug Power, Inc.",10.32,PLUG,2021-11-05
+2021-11-08,"Profire Energy, Inc.",0.23,PFIE,2021-11-05
+2022-01-25,Packaging Corporation of Americ,2.03,PKG,2021-11-05
+2022-01-24,"Prologis, Inc.",1.26,PLD,2021-11-05
+2021-11-05,"Protalix BioTherapeutics, Inc. ",16.58,PLX,2021-11-05
+2021-11-22,"Anaplan, Inc.",5.76,PLAN,2021-11-05
+2021-11-23,Platinum Group Metals Ltd.,1.03,PLG,2021-11-05
+2021-11-04,PennyMac Mortgage Investment Tr,4.18,PMT,2021-11-05
+2021-01-14,"ShiftPixy, Inc.",1.01,PIXY,2021-11-05
+2021-11-04,"Planet Fitness, Inc.",5.4,PLNT,2021-11-05
+2021-10-12,"Pinnacle Financial Partners, In",1.7,PNFP,2021-11-05
+2021-10-21,Pool Corporation,3.52,POOL,2021-11-05
+2021-10-25,PotlatchDeltic Corporation - Co,1.24,PCH,2021-11-05
+2021-11-08,"The Pennant Group, Inc.",2.85,PNTG,2021-11-05
+2021-11-15,Predictive Oncology Inc.,2.23,POAI,2021-11-05
+2022-02-02,Philip Morris International Inc,0.57,PM,2021-11-05
+2018-11-08,"Pioneer Power Solutions, Inc.",0.15,PPSI,2021-11-05
+2021-10-28,"Perficient, Inc.",6.95,PRFT,2021-11-05
+2021-11-12,PLx Pharma Inc.,7.78,PLXP,2021-11-05
+2022-01-26,Pentair plc.,4.0,PNR,2021-11-05
+2021-11-02,Perrigo Company plc,3.68,PRGO,2021-11-05
+2021-10-28,"Power Integrations, Inc.",2.78,POWI,2021-11-05
+2022-01-18,"PNC Financial Services Group, I",1.59,PNC,2021-11-05
+2021-11-08,"Purple Innovation, Inc.",11.27,PRPL,2021-11-05
+2021-11-10,"Progenity, Inc.",17.25,PROG,2021-11-05
+2021-11-04,Primo Water Corporation,1.28,PRMW,2021-11-05
+2021-10-28,"Proto Labs, Inc.",10.73,PRLB,2021-11-05
+2021-11-04,Prothena Corporation plc,3.28,PRTA,2021-11-05
+2021-11-04,PPL Corporation,1.26,PPL,2021-11-05
+2021-11-15,ProQR Therapeutics N.V.,2.76,PRQR,2021-11-05
+2021-11-02,"CarParts.com, Inc.",17.83,PRTS,2021-11-05
+2020-06-29,"Polar Power, Inc.",6.55,POLA,2021-11-05
+2021-11-09,Party City Holdco Inc.,7.32,PRTY,2021-11-05
+2021-11-08,Prospect Capital Corporation,2.04,PSEC,2021-11-05
+2022-02-02,"Prudential Financial, Inc.",1.77,PRU,2021-11-05
+2020-12-11,OncoSec Medical Incorporated,2.21,ONCS,2021-11-05
+2021-11-04,"Provention Bio, Inc.",4.14,PRVB,2021-11-05
+2022-01-05,"PriceSmart, Inc.",1.24,PSMT,2021-11-05
+2022-01-17,"PetMed Express, Inc.",25.34,PETS,2021-11-05
+2021-11-03,Playa Hotels & Resorts N.V.,3.65,PLYA,2021-11-05
+2022-01-18,Plexus Corp.,2.32,PLXS,2021-11-05
+2019-02-16,"Pluristem Therapeutics, Inc.",1.01,PSTI,2021-11-05
+2022-01-24,Polaris Inc.,7.44,PII,2021-11-05
+2021-10-28,"PTC Therapeutics, Inc.",6.66,PTCT,2021-11-05
+2021-10-21,"PLUS THERAPEUTICS, Inc.",0.74,PSTV,2021-11-05
+2022-01-27,Phillips 66 Partners LP,1.62,PSXP,2021-11-05
+2021-11-23,"Pure Storage, Inc.",7.44,PSTG,2021-11-05
+2021-11-02,"Protagonist Therapeutics, Inc.",7.87,PTGX,2021-11-05
+2021-11-05,Pinnacle West Capital Corporati,2.55,PNW,2021-11-05
+2022-02-02,"Peloton Interactive, Inc.",9.57,PTON,2021-11-05
+2022-01-25,PTC Inc.,2.04,PTC,2021-11-05
+2021-11-10,"Poseida Therapeutics, Inc.",2.3,PSTX,2021-11-05
+2021-11-03,Penn Virginia Corporation,7.36,PVAC,2021-11-05
+2022-01-27,Phillips 66,1.76,PSX,2021-11-05
+2022-01-19,"PPG Industries, Inc.",1.25,PPG,2021-11-05
+2021-11-10,"Pulmatrix, Inc.",2.07,PULM,2021-11-05
+2021-11-11,Pyxis Tankers Inc.,0.37,PXS,2021-11-05
+2021-11-02,ProPetro Holding Corp.,2.12,PUMP,2021-11-05
+2021-11-15,"Palatin Technologies, Inc.",2.19,PTN,2021-11-05
+2021-11-04,Permianville Royalty Trust Trus,0.24,PVL,2021-11-05
+2021-11-08,"PolarityTE, Inc.",2.31,PTE,2021-11-05
+2021-11-15,"Precipio, Inc.",1.89,PRPO,2021-11-05
+2021-11-04,Primo Water Corporation,1.28,PRMW,2021-11-05
+2021-10-28,"Patterson-UTI Energy, Inc.",4.6,PTEN,2021-11-05
+2021-11-04,"Quanta Services, Inc.",1.98,PWR,2021-11-05
+2021-11-03,Pioneer Natural Resources Compa,3.09,PXD,2021-11-05
+2021-10-26,Power REIT (MD),0.79,PW,2021-11-05
+2021-11-11,"Pretium Resources, Inc.",3.86,PVG,2021-11-05
+2021-11-09,"Pixelworks, Inc.",4.2,PXLW,2021-11-05
+2022-02-01,"QuinStreet, Inc.",2.09,QNST,2021-11-05
+2021-11-09,"PayPal Holdings, Inc.",1.0,PYPL,2021-11-05
+2021-12-13,Qudian Inc.,1.22,QD,2021-11-05
+2021-11-03,"Qualys, Inc.",10.07,QLYS,2021-11-05
+2021-11-03,Quotient Technology Inc.,3.68,QUOT,2021-11-05
+2021-11-02,"Quad Graphics, Inc",3.22,QUAD,2021-11-05
+2021-10-25,uniQure N.V.,5.36,QURE,2021-11-05
+2021-11-04,Liberty Interactive Corporation,5.41,QRTEA,2021-11-05
+2021-12-14,Qutoutiao Inc.,1.42,QTT,2021-11-05
+2022-01-24,"Q2 Holdings, Inc.",5.89,QTWO,2021-11-05
+2020-02-25,Liberty Interactive Corporation,0,QRTEB,2021-11-05
+2022-02-01,"Qorvo, Inc.",2.07,QRVO,2021-11-05
+2022-02-01,QUALCOMM Incorporated,1.31,QCOM,2021-11-05
+2021-12-15,Rite Aid Corporation,19.29,RAD,2021-11-05
+2021-11-03,RADA Electronic Industries Ltd.,1.8,RADA,2021-11-05
+2018-01-31,Ferrari N.V.,0.53,RACE,2021-11-05
+2021-11-04,"Papa John's International, Inc.",3.66,PZZA,2021-11-05
+2021-11-15,"360 DigiTech, Inc.",5.06,QFIN,2021-11-05
+2021-10-27,"Ryder System, Inc.",2.49,R,2021-11-05
+2021-10-29,D/B/A Royal Caribbean Cruises L,5.62,RCL,2021-11-05
+2021-11-15,"Net Element, Inc.",5.74,NETE,2021-11-05
+2021-04-05,"Recon Technology, Ltd.",5.84,RCON,2021-11-05
+2021-11-08,"Freightcar America, Inc.",5.75,RAIL,2021-11-05
+2021-11-03,"Arcus Biosciences, Inc.",9.95,RCUS,2021-11-05
+2022-01-18,"P.A.M. Transportation Services,",0.44,PTSI,2021-11-05
+2021-11-04,Ready Capital Corproation,2.66,RC,2021-11-05
+2021-11-15,"RAPT Therapeutics, Inc.",4.41,RAPT,2021-11-05
+2021-09-08,153389,0.2,RCG,2021-11-05
+2021-11-03,Rent-A-Center Inc.,3.45,RCII,2021-11-05
+2021-10-27,Ribbon Communications Inc.,0.8,RBBN,2021-11-05
+2021-11-02,R1 RCM Inc.,1.82,RCM,2021-11-05
+2021-11-04,Redfin Corporation,11.74,RDFN,2021-11-05
+2021-10-27,"Everest Re Group, Ltd.",1.8,RE,2021-11-05
+2020-04-01,Pimco Corporate & Income Opport,0.44,PTY,2021-11-05
+2021-11-08,"Radius Health, Inc.",9.38,RDUS,2021-11-05
+2022-01-26,"Rogers Communication, Inc.",0.41,RCI,2021-11-05
+2021-11-08,"Rekor Systems, Inc.",16.8,REKR,2021-11-05
+2022-02-03,"Regeneron Pharmaceuticals, Inc.",1.65,REGN,2021-11-05
+2021-11-02,"LiveRamp Holdings, Inc.",2.59,RAMP,2021-11-05
+2022-01-20,Regions Financial Corporation,1.78,RF,2021-11-05
+2021-11-03,Quanterix Corporation,3.28,QTRX,2021-11-05
+2021-11-08,"Reeds, Inc.",0.71,REED,2021-11-05
+2021-11-08,"RadNet, Inc.",2.96,RDNT,2021-11-05
+2021-11-03,"Sturm, Ruger & Company, Inc.",4.93,RGR,2021-11-05
+2021-10-27,"RPC, Inc.",3.62,RES,2021-11-05
+2021-11-03,"Renewable Energy Group, Inc.",8.84,REGI,2021-11-05
+2018-05-14,Renren Inc.,0.3,RENN,2021-11-05
+2021-11-04,Resolute Forest Products Inc.,2.89,RFP,2021-11-05
+2021-11-03,Regulus Therapeutics Inc.,5.54,RGLS,2021-11-05
+2021-11-03,"Replimune Group, Inc.",4.45,REPL,2021-11-05
+2021-11-10,RISE Education Cayman Ltd,0.06,REDU,2021-11-05
+2021-10-28,Realogy Holdings Corp.,11.68,RLGY,2021-11-05
+2022-01-04,"Richardson Electronics, Ltd.",0.13,RELL,2021-11-05
+2021-11-09,"Ring Energy, Inc.",12.9,REI,2021-11-05
+2021-11-10,Redhill Biopharma Ltd.,5.31,RDHL,2021-11-05
+2021-10-28,"B. Riley Financial, Inc.",5.4,RILY,2021-11-05
+2021-11-02,"Rigel Pharmaceuticals, Inc.",10.03,RIGL,2021-11-05
+2021-11-03,"Royal Gold, Inc.",2.57,RGLD,2021-11-05
+2021-10-25,Restaurant Brands International,2.4,QSR,2021-11-05
+2021-11-03,"Resideo Technologies, Inc.",2.05,REZI,2021-11-05
+2022-01-04,"Resources Connection, Inc.",1.09,RGP,2021-11-05
+2021-10-20,RLI Corp.,2.13,RLI,2021-11-05
+2022-01-26,ResMed Inc.,0.66,RMD,2021-11-05
+2022-02-02,Ralph Lauren Corporation,5.23,RL,2021-11-05
+2021-11-08,"Rockwell Medical, Inc.",2.91,RMTI,2021-11-05
+2022-01-25,"Raymond James Financial, Inc.",1.14,RJF,2021-11-05
+2021-11-10,"Arcadia Biosciences, Inc.",4.02,RKDA,2021-11-05
+2021-10-28,Repligen Corporation,2.94,RGEN,2021-11-05
+2021-12-13,"Rafael Holdings, Inc.",16.65,RFL,2021-11-05
+2021-11-01,Transocean Ltd (Switzerland),8.26,RIG,2021-11-05
+2021-12-07,RH,10.86,RH,2021-11-05
+2021-11-08,"Riot Blockchain, Inc",18.08,RIOT,2021-11-05
+2021-11-10,"Ra Medical Systems, Inc.",5.53,RMED,2021-11-05
+2022-01-24,"Rockwell Automation, Inc.",2.58,ROK,2021-11-05
+2021-11-03,"Rimini Street, Inc.",2.86,RMNI,2021-11-05
+2022-01-24,RenaissanceRe Holdings Ltd.,1.76,RNR,2021-11-05
+2021-10-27,RiceBran Technologies,0.76,RIBT,2021-11-05
+2021-11-03,"RealNetworks, Inc.",0.87,RNWK,2021-11-05
+2022-01-31,"Rambus, Inc.",4.76,RMBS,2021-11-05
+2021-11-17,"Ross Stores, Inc.",1.35,ROST,2021-11-05
+2021-10-27,"Gibraltar Industries, Inc.",1.95,ROCK,2021-11-05
+2022-02-01,Regis Corporation,19.0,RGS,2021-11-05
+2021-11-03,R.R. Donnelley & Sons Company,3.83,RRD,2021-11-05
+2021-11-02,"Red Rock Resorts, Inc.",3.97,RRR,2021-11-05
+2021-11-03,"Rapid7, Inc.",9.53,RPD,2021-11-05
+2021-11-03,"Roku, Inc.",3.18,ROKU,2021-11-05
+2022-01-04,RPM International Inc.,1.07,RPM,2021-11-05
+2021-11-10,Resonant Inc.,7.54,RESN,2021-11-05
+2021-11-10,"Red Robin Gourmet Burgers, Inc.",11.65,RRGB,2021-11-05
+2021-11-09,"Revance Therapeutics, Inc.",4.79,RVNC,2021-11-05
+2021-11-02,Rogers Corporation,1.67,ROG,2021-11-05
+2021-11-08,Sachem Capital Corp.,0.53,SACH,2021-11-05
+2021-11-08,"RumbleOn, Inc.",0.54,RMBL,2021-11-05
+2021-10-20,"Rush Enterprises, Inc.",0.87,RUSHA,2021-11-05
+2021-11-04,Sunrun Inc.,16.96,RUN,2021-11-05
+2021-10-28,Reliance Steel & Aluminum Co.,1.12,RS,2021-11-05
+2020-10-30,"ReTo Eco-Solutions, Inc.",0.14,RETO,2021-11-05
+2022-01-25,"Rollins, Inc.",1.93,ROL,2021-11-05
+2021-12-01,Royal Bank Of Canada,0.37,RY,2021-11-05
+2021-10-28,"Republic Services, Inc.",0.58,RSG,2021-11-05
+2021-11-03,"Revolve Group, Inc.",6.86,RVLV,2021-11-05
+2021-11-09,"Ringcentral, Inc.",8.45,RNG,2021-11-05
+2021-11-03,Retail Value Inc.,1.99,RVI,2021-11-05
+2021-10-29,"Ruth's Hospitality Group, Inc.",3.49,RUTH,2021-11-05
+2021-11-09,Repare Therapeutics Inc.,1.99,RPTX,2021-11-05
+2021-11-10,Royalty Pharma plc,1.83,RPRX,2021-11-05
+2021-11-03,R.R. Donnelley & Sons Company,3.83,RRD,2021-11-05
+2021-11-02,"Sage Therapeutics, Inc.",4.25,SAGE,2021-11-05
+2021-11-08,ReWalk Robotics Ltd.,4.63,RWLK,2021-11-05
+2021-10-28,"Saia, Inc.",3.8,SAIA,2021-11-05
+2021-10-26,Ryerson Holding Corporation,1.63,RYI,2021-11-05
+2021-11-02,REGENXBIO Inc.,7.69,RGNX,2021-11-05
+2022-01-04,Saratoga Investment Corp New,0.74,SAR,2021-11-05
+2021-11-16,"Retractable Technologies, Inc.",8.37,RVP,2021-11-05
+2021-11-15,"Rackspace Technology, Inc.",4.62,RXT,2021-11-05
+2021-12-06,"RYB Education, Inc.",0.47,RYB,2021-11-05
+2021-10-27,"Redwood Trust, Inc.",3.71,RWT,2021-11-05
+2022-01-24,Raytheon Technologies Corporati,0.83,RTX,2021-11-05
+2021-10-21,Robert Half International Inc.,2.54,RHI,2021-11-05
+2021-10-28,"Sonic Automotive, Inc.",9.41,SAH,2021-11-05
+2021-10-21,"Boston Beer Company, Inc. (The)",8.07,SAM,2021-11-05
+2021-11-04,"Salem Media Group, Inc.",0.57,SALM,2021-11-05
+2021-10-21,Safehold Inc.,2.06,SAFE,2021-11-05
+2021-10-27,"Spirit Airlines, Inc.",5.94,SAVE,2021-11-05
+2021-11-08,"Cassava Sciences, Inc.",23.54,SAVA,2021-11-05
+2022-01-19,Signature Bank,2.65,SBNY,2021-11-05
+2021-11-10,"Revolution Medicines, Inc.",14.0,RVMD,2021-11-05
+2021-11-16,Star Bulk Carriers Corp.,1.57,SBLK,2021-11-05
+2022-01-27,"Roper Technologies, Inc.",1.21,ROP,2021-11-05
+2021-10-26,Range Resources Corporation,10.4,RRC,2021-11-05
+2017-01-25,"Banco Santander, S.A. Sponsored",0.03,SAN,2021-11-05
+2021-11-03,"Safe Bulkers, Inc",1.27,SB,2021-11-05
+2021-11-11,"Sally Beauty Holdings, Inc. (Na",9.05,SBH,2021-11-05
+2021-11-09,SciPlay Corporation,3.32,SCPL,2021-11-05
+2021-11-04,"Selecta Biosciences, Inc.",6.35,SELB,2021-11-05
+2021-11-03,"Sabra Health Care REIT, Inc.",1.82,SBRA,2021-11-05
+2021-11-10,L.S. Starrett Company (The),0.23,SCX,2021-11-05
+2021-11-03,Sandstorm Gold Ltd.,2.81,SAND,2021-11-05
+2019-07-16,Origin Agritech Limited,5.72,SEED,2021-11-05
+2021-10-28,Stellus Capital Investment Corp,0.45,SCM,2021-11-05
+2021-11-04,"Superior Drilling Products, Inc",1.18,SDPI,2021-11-05
+2021-10-27,"Spirit Airlines, Inc.",5.94,SAVE,2021-11-05
+2021-11-03,"Sculptor Capital Management, In",1.42,SCU,2021-11-05
+2021-11-09,"Senseonics Holdings, Inc.",18.61,SENS,2021-11-05
+2021-11-04,"SCYNEXIS, Inc.",15.14,SCYX,2021-11-05
+2021-11-16,Sea Limited,3.96,SE,2021-11-05
+2021-12-03,SecureWorks Corp.,0.61,SCWX,2021-11-05
+2021-11-10,"Schrodinger, Inc.",5.98,SDGR,2021-11-05
+2021-11-04,"SandRidge Energy, Inc.",3.7,SD,2021-11-05
+2021-11-30,SFL Corporation Ltd,1.0,SFL,2021-11-05
+2021-11-09,Scientific Games Corp,9.78,SGMS,2021-11-05
+2022-01-24,Southern Copper Corporation,0.56,SCCO,2021-11-05
+2021-10-21,"Socket Mobile, Inc.",1.23,SCKT,2021-11-05
+2022-01-05,"Schnitzer Steel Industries, Inc",3.58,SCHN,2021-11-05
+2022-01-17,Charles Schwab Corporation (The,0.7,SCHW,2021-11-05
+2021-12-01,SCIENCE APPLICATIONS INTERNATIO,1.21,SAIC,2021-11-05
+2021-11-04,"Sprouts Farmers Market, Inc.",16.45,SFM,2021-11-05
+2021-11-08,"Sesen Bio, Inc.",4.82,SESN,2021-11-05
+2021-11-11,Fang Holdings Limited,0.2,SFUN,2021-11-05
+2021-11-02,"Surgery Partners, Inc.",1.89,SGRY,2021-11-05
+2021-11-08,"Silk Road Medical, Inc.",5.4,SILK,2021-11-05
+2022-01-27,Stifel Financial Corporation,1.57,SF,2021-11-05
+2021-10-28,Seagen Inc.,1.84,SGEN,2021-11-05
+2021-11-02,Sealed Air Corporation,2.19,SEE,2021-11-05
+2022-01-18,Silvergate Capital Corporation,9.29,SI,2021-11-05
+2022-01-26,Sherwin-Williams Company (The),1.41,SHW,2021-11-05
+2021-11-03,"SilverBow Resorces, Inc.",1.09,SBOW,2021-11-05
+2021-10-27,Service Corporation Internation,2.73,SCI,2021-11-05
+2021-11-02,Seanergy Maritime Holdings Corp,2.71,SHIP,2021-11-05
+2022-01-20,SVB Financial Group,1.21,SIVB,2021-11-05
+2022-02-01,SiTime Corporation,2.12,SITM,2021-11-05
+2021-11-03,"Steven Madden, Ltd.",5.1,SHOO,2021-11-05
+2022-01-24,Starbucks Corporation,1.03,SBUX,2021-11-05
+2021-10-27,Six Flags Entertainment Corpora,6.15,SIX,2021-11-05
+2021-11-04,"Sangamo Therapeutics, Inc.",7.02,SGMO,2021-11-05
+2020-10-13,"Sino-Global Shipping America, L",4.67,SINO,2021-11-05
+2021-11-02,"SolarEdge Technologies, Inc.",3.35,SEDG,2021-11-05
+2021-10-28,Shopify Inc.,1.5,SHOP,2021-11-05
+2021-11-04,"Shake Shack, Inc.",10.21,SHAK,2021-11-05
+2021-10-29,"Shell Midstream Partners, L.P.",1.17,SHLX,2021-11-05
+2021-10-29,"U.S. Silica Holdings, Inc.",7.48,SLCA,2021-11-05
+2021-12-06,"Stitch Fix, Inc.",9.61,SFIX,2021-11-05
+2022-02-01,Silicon Motion Technology Corpo,3.17,SIMO,2021-11-05
+2022-01-31,Sirius XM Holdings Inc.,4.21,SIRI,2021-11-05
+2021-11-01,"Tanger Factory Outlet Centers, ",18.75,SKT,2021-11-05
+2021-11-15,San Juan Basin Royalty Trust,0.18,SJT,2021-11-05
+2021-10-29,Shaw Communications Inc.,0.18,SJR,2021-11-05
+2022-01-25,SL Green Realty Corp,8.32,SLG,2021-11-05
+2021-12-02,Signet Jewelers Limited,8.35,SIG,2021-11-05
+2022-01-03,"SMART Global Holdings, Inc.",9.06,SGH,2021-11-05
+2021-11-23,J.M. Smucker Company (The) New,7.84,SJM,2021-11-05
+2021-11-03,SEACOR Marine Holdings Inc.,0.97,SMHI,2021-11-05
+2021-11-15,"SG Blocks, Inc.",6.81,SGBX,2021-11-05
+2022-01-31,Skyline Champion Corporation,2.25,SKY,2021-11-05
+2022-01-26,Sify Technologies Limited - Ame,0.35,SIFY,2021-11-05
+2021-10-29,SM Energy Company,6.38,SM,2021-11-05
+2021-10-20,SLM Corporation,1.43,SLM,2021-11-05
+2021-11-08,"Synchronoss Technologies, Inc.",4.45,SNCR,2021-11-05
+2022-02-02,"Skechers U.S.A., Inc.",2.47,SKX,2021-11-05
+2021-11-04,"SelectQuote, Inc.",4.78,SLQT,2021-11-05
+2020-11-04,Seneca Foods Corp.,0.01,SENEB,2021-11-05
+2022-02-01,"Silicon Laboratories, Inc.",4.99,SLAB,2021-11-05
+2021-10-21,"Sigma Labs, Inc.",5.59,SGLB,2021-11-05
+2022-02-02,Snap-On Incorporated,7.88,SNA,2021-11-05
+2021-11-04,"The Shyft Group, Inc.",3.09,SHYF,2021-11-05
+2021-11-04,"Summit Midstream Partners, LP",0.56,SMLP,2021-11-05
+2021-11-03,"SiteOne Landscape Supply, Inc.",5.86,SITE,2021-11-05
+2022-02-02,Scotts Miracle-Gro Company (The,1.96,SMG,2021-11-05
+2021-11-08,"Sientra, Inc.",18.79,SIEN,2021-11-05
+2021-11-03,Solid Biosciences Inc.,6.41,SLDB,2021-11-05
+2021-10-28,"SkyWest, Inc.",2.18,SKYW,2021-11-05
+2022-01-26,Silicom Ltd,0.33,SILC,2021-11-05
+2022-01-20,Schlumberger N.V.,2.0,SLB,2021-11-05
+2021-11-09,"SenesTech, Inc.",0.7,SNES,2021-11-05
+2021-11-02,"Smith Micro Software, Inc.",4.39,SMSI,2021-11-05
+2021-08-11,SilverCrest Metals Inc.,2.51,SILV,2021-11-05
+2021-11-08,Sierra Metals Inc.,0.23,SMTS,2021-11-05
+2021-11-09,"Salarius Pharmaceuticals, Inc.",2.88,SLRX,2021-11-05
+2022-01-31,"Super Micro Computer, Inc.",1.38,SMCI,2021-11-05
+2022-01-04,The Simply Good Foods Company,2.26,SMPL,2021-11-05
+2021-11-15,"Super League Gaming, Inc.",3.84,SLGG,2021-11-05
+2021-08-10,"SuperCom, Ltd.",1.08,SPCB,2021-11-05
+2021-11-10,"Soligenix, Inc.",2.55,SNGX,2021-11-05
+2021-11-11,Sundial Growers Inc.,14.33,SNDL,2021-11-05
+2021-11-15,Evolve Transition Infrastructur,0.51,SNMP,2021-11-05
+2021-10-19,Synovus Financial Corp.,1.53,SNV,2021-11-05
+2021-11-08,"Virgin Galactic Holdings, Inc.",12.08,SPCE,2021-11-05
+2022-02-02,Snap Inc.,3.07,SNAP,2021-11-05
+2021-11-04,Southern Company (The),1.0,SO,2021-11-05
+2021-11-18,"Sonoma Pharmaceuticals, Inc.",11.74,SNOA,2021-11-05
+2021-11-30,"Synopsys, Inc.",1.29,SNPS,2021-11-05
+2021-11-17,"Sonos, Inc.",6.56,SONO,2021-11-05
+2021-11-11,"SELLAS Life Sciences Group, Inc",5.44,SLS,2021-11-05
+2021-10-26,S&P Global Inc.,7.23,SPGI,2021-11-05
+2021-11-08,Electrameccanica Vehicles Corp.,15.02,SOLO,2021-11-05
+2022-02-01,Spotify Technology S.A.,2.72,SPOT,2021-11-05
+2019-04-30,"SPI Energy Co., Ltd.",3.05,SPI,2021-11-05
+2021-11-02,Seritage Growth Properties,14.14,SRG,2021-11-05
+2021-11-29,Renesola Ltd. American Depsitar,1.67,SOL,2021-11-05
+2021-11-10,"Spectrum Pharmaceuticals, Inc.",10.8,SPPI,2021-11-05
+2021-11-09,"Surgalign Holdings, Inc.",4.01,SRGA,2021-11-05
+2021-11-15,Sohu.com Limited,1.27,SOHU,2021-11-05
+2021-09-10,SOS Limited,13.72,SOS,2021-11-05
+2021-11-11,"Suburban Propane Partners, L.P.",1.64,SPH,2021-11-05
+2021-11-03,"Spirit Aerosystems Holdings, In",3.95,SPR,2021-11-05
+2021-10-25,Sequans Communications S.A.,3.47,SQNS,2021-11-05
+2021-11-01,"Simon Property Group, Inc.",4.1,SPG,2021-11-05
+2021-11-02,"Stericycle, Inc.",1.36,SRCL,2021-11-05
+2021-10-28,"SPS Commerce, Inc.",1.83,SPSC,2021-11-05
+2021-11-04,"Square, Inc.",8.44,SQ,2021-11-05
+2021-10-27,Sleep Number Corporation,15.15,SNBR,2021-11-05
+2021-11-05,DBA Sempra,1.06,SRE,2021-11-05
+2021-11-02,"Sprout Social, Inc",3.61,SPT,2021-11-05
+2021-11-03,Stantec Inc,0.23,STN,2021-11-05
+2021-11-03,"Sarepta Therapeutics, Inc.",6.3,SRPT,2021-11-05
+2021-11-09,"Sonim Technologies, Inc.",5.38,SONM,2021-11-05
+2021-12-01,Splunk Inc.,4.23,SPLK,2021-11-05
+2021-11-11,"SunLink Health Systems, Inc.",3.07,SSY,2021-11-05
+2021-11-03,SSR Mining Inc.,2.2,SSRM,2021-11-05
+2021-11-04,"Stratasys, Ltd.",5.36,SSYS,2021-11-05
+2021-10-28,"Stag Industrial, Inc.",1.49,STAG,2021-11-05
+2021-10-26,"Spok Holdings, Inc.",3.41,SPOK,2021-11-05
+2021-11-04,Sprague Resources LP,0.1,SRLP,2021-11-05
+2021-12-09,"Steel Connect, Inc. Common Stoc",0.23,STCN,2021-11-05
+2021-11-03,SuRo Capital Corp.,2.26,SSSS,2021-11-05
+2021-10-26,"Shutterstock, Inc.",3.71,SSTK,2021-11-05
+2021-11-01,"Neuronetics, Inc.",8.33,STIM,2021-11-05
+2021-11-08,"Stereotaxis, Inc.",1.36,STXS,2021-11-05
+2021-11-08,"StarTek, Inc.",0.43,SRT,2021-11-05
+2021-11-11,Scorpio Tankers Inc.,4.44,STNG,2021-11-05
+2021-11-02,iStar Inc.,22.43,STAR,2021-11-05
+2021-10-27,Stewart Information Services Co,1.63,STC,2021-11-05
+2022-01-24,"Steel Dynamics, Inc.",2.19,STLD,2021-11-05
+2021-10-06,STERIS plc (Ireland),1.15,STE,2021-11-05
+2022-01-17,State Street Corporation,0.96,STT,2021-11-05
+2021-11-08,"Staffing 360 Solutions, Inc.",1.86,STAF,2021-11-05
+2021-10-27,Suncor Energy  Inc.,0.86,SU,2021-11-05
+2021-11-08,Scholar Rock Holding Corporatio,9.95,SRRK,2021-11-05
+2021-11-16,Sunlands Technology Group,0.07,STG,2021-11-05
+2021-11-09,"STARWOOD PROPERTY TRUST, INC. S",2.3,STWD,2021-11-05
+2021-11-11,"Sunworks, Inc.",18.63,SUNW,2021-11-05
+2021-11-02,Sterling Construction Company I,3.67,STRL,2021-11-05
+2016-11-28,STMicroelectronics N.V.,0.92,STM,2021-11-05
+2021-11-08,"Surface Oncology, Inc.",7.99,SURF,2021-11-05
+2021-11-10,"Stoke Therapeutics, Inc.",5.38,STOK,2021-11-05
+2021-11-10,"SunOpta, Inc.",1.1,STKL,2021-11-05
+2021-10-28,SolarWinds Corporation,3.64,SWI,2021-11-05
+2021-11-04,Silvercorp Metals Inc.,0.64,SVM,2021-11-05
+2021-11-03,Sunoco LP,1.18,SUN,2021-11-05
+2022-01-10,"Simulations Plus, Inc.",9.92,SLP,2021-11-05
+2021-11-04,"Switch, Inc.",9.74,SWCH,2021-11-05
+2021-11-03,"Southwest Gas Holdings, Inc.",2.2,SWX,2021-11-05
+2018-08-08,Grupo Supervielle S.A.,0.56,SUPV,2021-11-05
+2021-12-15,Sonnet BioTherapeutics Holdings,1.02,SONN,2021-11-05
+2021-11-03,SunPower Corporation,9.4,SPWR,2021-11-05
+2021-12-01,"Smith & Wesson Brands, Inc.",7.52,SWBI,2021-11-05
+2021-11-01,"Supernus Pharmaceuticals, Inc.",14.45,SUPN,2021-11-05
+2021-11-03,SPX Corporation,1.31,SPXC,2021-11-05
+2022-01-26,"Skyworks Solutions, Inc.",2.0,SWKS,2021-11-05
+2021-11-03,Stamps.com Inc.,6.11,STMP,2021-11-05
+2022-02-02,Synaptics Incorporated,6.09,SYNA,2021-11-05
+2021-11-01,Solaris Oilfield Infrastructure,0.9,SOI,2021-11-05
+2021-11-08,"ShockWave Medical, Inc.",4.36,SWAV,2021-11-05
+2022-02-02,"SunCoke Energy, Inc.",2.35,SXC,2021-11-05
+2021-11-10,"SpringWorks Therapeutics, Inc.",7.58,SWTX,2021-11-05
+2021-11-09,Sysco Corporation,1.6,SYY,2021-11-05
+2021-11-04,STORE Capital Corporation,2.26,STOR,2021-11-05
+2021-11-03,"Syros Pharmaceuticals, Inc.",6.54,SYRS,2021-11-05
+2021-10-15,Sensient Technologies Corporati,1.86,SXT,2021-11-05
+2021-11-04,Service Properties Trust - Shar,1.64,SVC,2021-11-05
+2022-01-25,Stryker Corporation,0.92,SYK,2021-11-05
+2022-01-17,Seagate Technology Holdings PLC,5.19,STX,2021-11-05
+2021-11-03,"Synthetic Biologics, Inc.",0.01,SYN,2021-11-05
+2021-11-05,TAL Education Group,4.14,TAL,2021-11-05
+2022-01-26,AT&T Inc.,1.54,T,2021-11-05
+2021-10-22,Tantech Holdings Ltd.,2.63,TANH,2021-11-05
+2021-11-03,"Talos Energy, Inc.",3.49,TALO,2021-11-05
+2021-10-14,"Del Taco Restaurants, Inc.",1.14,TACO,2021-11-05
+2022-01-26,"Stanley Black & Decker, Inc.",1.26,SWK,2021-11-05
+2022-01-27,Synchrony Financial,1.98,SYF,2021-11-05
+2022-01-19,"Triumph Bancorp, Inc.",4.31,TBK,2021-11-05
+2021-11-15,"ToughBuilt Industries, Inc.",2.38,TBLT,2021-11-05
+2021-10-28,Molson Coors Beverage Company,6.89,TAP,2021-11-05
+2021-11-04,StoneCo Ltd.,3.09,STNE,2021-11-05
+2021-11-15,"SRAX, Inc.",2.32,SRAX,2021-11-05
+2021-12-01,"Constellation Brands, Inc.",1.33,STZ,2021-11-05
+2021-11-11,"Tarena International, Inc.",1.19,TEDU,2021-11-05
+2021-11-10,"Protara Therapeutics, Inc.",1.15,TARA,2021-11-05
+2020-05-11,"Sorrento Therapeutics, Inc.",15.19,SRNE,2021-11-05
+2021-11-08,"Tricida, Inc.",3.59,TCDA,2021-11-05
+2021-11-10,Transdigm Group Incorporated,3.89,TDG,2021-11-05
+2021-11-29,Trip.com Group Limited,3.07,TCOM,2021-11-05
+2021-11-04,Textainer Group Holdings Limite,3.05,TGH,2021-11-05
+2021-11-03,Southwestern Energy Company,5.43,SWN,2021-11-05
+2021-11-10,TCR2 Therapeutics Inc.,4.0,TCRR,2021-11-05
+2021-08-12,"Sypris Solutions, Inc.",0.42,SYPR,2021-11-05
+2021-10-27,Teck Resources Ltd,0.96,TECK,2021-11-05
+2022-01-26,Atlassian Corporation Plc,0.79,TEAM,2021-11-05
+2022-02-02,Teradata Corporation,6.68,TDC,2021-11-05
+2021-11-03,BlackRock TCP Capital Corp.,0.45,TCPC,2021-11-05
+2022-01-31,"Tenable Holdings, Inc.",3.12,TENB,2021-11-05
+2021-08-27,Pareteum Corporation,10.73,TEUM,2021-11-05
+2021-12-02,Toronto Dominion Bank (The),0.32,TD,2021-11-05
+2021-11-04,TEGNA Inc,2.51,TGNA,2021-11-05
+2021-11-10,Teekay LNG Partners L.P.,0.35,TGP,2021-11-05
+2022-01-31,TESSCO Technologies Incorporate,0.43,TESS,2021-11-05
+2021-10-28,Teleflex Incorporated,1.26,TFX,2021-11-05
+2021-11-04,"TG Therapeutics, Inc.",9.59,TGTX,2021-11-05
+2021-11-08,"Tactile Systems Technology, Inc",7.73,TCMD,2021-11-05
+2021-10-28,Terex Corporation,3.03,TEX,2021-11-05
+2022-01-18,Truist Financial Corporation,0.93,TFC,2021-11-05
+2021-11-15,"Tenax Therapeutics, Inc.",0.7,TENX,2021-11-05
+2022-01-25,"Teradyne, Inc.",3.0,TER,2021-11-05
+2022-01-25,TE Connectivity Ltd. New Switze,1.61,TEL,2021-11-05
+2021-11-05,Tenneco Inc.,4.08,TEN,2021-11-05
+2021-10-25,"Taseko Mines, Ltd.",0.96,TGB,2021-11-05
+2022-01-31,Container Store (The),8.09,TCS,2021-11-05
+2021-11-17,Target Corporation,1.83,TGT,2021-11-05
+2021-10-27,Taylor Morrison Home Corporatio,3.4,TMHC,2021-11-05
+2021-11-08,Tencent Music Entertainment Gro,2.42,TME,2021-11-05
+2021-10-20,Tenet Healthcare Corporation,4.06,THC,2021-11-05
+2021-10-28,Gentherm Inc,1.87,THRM,2021-11-05
+2021-10-25,"TriNet Group, Inc.",1.16,TNET,2021-11-05
+2021-11-02,Tiptree Inc.,0.7,TIPT,2021-11-05
+2021-11-03,"Triumph Group, Inc.",5.38,TGI,2021-11-05
+2021-11-04,"Carrols Restaurant Group, Inc.",2.59,TAST,2021-11-05
+2021-11-22,Tsakos Energy Navigation Ltd,1.08,TNP,2021-11-05
+2021-10-27,"Teladoc Health, Inc.",12.84,TDOC,2021-11-05
+2021-09-09,TOP Ships Inc.,1.95,TOPS,2021-11-05
+2021-11-10,Teekay Corporation,2.86,TK,2021-11-05
+2021-12-06,"Toll Brothers, Inc.",4.43,TOL,2021-11-05
+2021-11-08,Tonix Pharmaceuticals Holding C,1.75,TNXP,2021-11-05
+2021-11-03,Superior Industries Internation,2.59,SUP,2021-11-05
+2021-11-10,Teekay Tankers Ltd.,2.25,TNK,2021-11-05
+2021-11-08,"TPI Composites, Inc.",10.63,TPIC,2021-11-05
+2022-01-31,Thermo Fisher Scientific Inc,0.66,TMO,2021-11-05
+2021-11-16,"TJX Companies, Inc. (The)",0.85,TJX,2021-11-05
+2021-10-26,"Turning Point Brands, Inc.",5.03,TPB,2021-11-05
+2021-11-05,TC Energy Corporation,0.59,TRP,2021-11-05
+2021-12-29,"Teligent, Inc.",2.48,TLGT,2021-11-05
+2021-11-08,"Trex Company, Inc.",5.58,TREX,2021-11-05
+2021-11-02,"TransMedics Group, Inc.",3.39,TMDX,2021-11-05
+2021-11-03,Tellurian Inc.,10.96,TELL,2021-11-05
+2022-02-02,"T-Mobile US, Inc.",1.23,TMUS,2021-11-05
+2021-10-28,"Tempur Sealy International, Inc",4.06,TPX,2021-11-05
+2022-01-25,Teledyne Technologies Incorpora,1.08,TDY,2021-11-05
+2021-10-26,Triton International Limited,1.54,TRTN,2021-11-05
+2021-11-11,Titan Medical Inc.,1.22,TMDI,2021-11-05
+2021-11-04,"Targa Resources, Inc.",1.65,TRGP,2021-11-05
+2021-11-04,Texas Pacific Land Corporation,3.07,TPL,2021-11-05
+2021-10-28,TFI International Inc.,0.29,TFII,2021-11-05
+2021-11-02,"Team, Inc.",1.99,TISI,2021-11-05
+2021-11-03,Trimble Inc.,0.98,TRMB,2021-11-05
+2021-12-06,"Thor Industries, Inc.",7.19,THO,2021-11-05
+2022-01-26,Tractor Supply Company,2.6,TSCO,2021-11-05
+2021-11-15,Trillium Therapeutics Inc.,2.2,TRIL,2021-11-05
+2021-11-08,"TripAdvisor, Inc.",8.55,TRIP,2021-11-05
+2021-11-09,"Trevi Therapeutics, Inc.",0.58,TRVI,2021-11-05
+2021-11-08,Tower Semiconductor Ltd.,0.25,TSEM,2021-11-05
+2021-10-21,"Tri Pointe Homes, Inc.",3.8,TPH,2021-11-05
+2021-10-27,Tronox Holdings plc,2.86,TROX,2021-11-05
+2022-01-26,"T. Rowe Price Group, Inc.",3.8,TROW,2021-11-05
+2021-11-02,Turquoise Hill Resources Ltd.,1.03,TRQ,2021-11-05
+2021-11-03,"Tandem Diabetes Care, Inc.",7.86,TNDM,2021-11-05
+2022-01-19,"The Travelers Companies, Inc.",1.54,TRV,2021-11-05
+2022-01-17,"TSR, Inc.",3.56,TSRI,2021-11-05
+2021-11-15,"Tyson Foods, Inc.",1.16,TSN,2021-11-05
+2021-11-03,"Trupanion, Inc.",11.04,TRUP,2021-11-05
+2021-11-09,"2U, Inc.",12.77,TWOU,2021-11-05
+2021-10-20,"TriState Capital Holdings, Inc.",1.59,TSC,2021-11-05
+2021-11-23,UP Fintech Holding Limited,10.81,TIGR,2021-11-05
+2021-11-03,TriplePoint Venture Growth BDC ,1.66,TPVG,2021-11-05
+2021-10-27,Twilio Inc.,2.98,TWLO,2021-11-05
+2021-11-01,"Trevena, Inc.",8.03,TRVN,2021-11-05
+2021-10-21,"Trinity Industries, Inc.",8.66,TRN,2021-11-05
+2021-11-08,"Tilray, Inc. - Class 2",8.39,TLRY,2021-11-05
+2021-11-05,Trinseo PLC,3.19,TSE,2021-11-05
+2022-02-03,Trane Technologies plc,0.75,TT,2021-11-05
+2021-11-03,Tupperware Brands Corporation,17.71,TUP,2021-11-05
+2021-11-01,trivago N.V.,0.47,TRVG,2021-11-05
+2021-10-28,"LendingTree, Inc.",13.23,TREE,2021-11-05
+2021-11-08,"The Trade Desk, Inc.",2.96,TTD,2021-11-05
+2021-11-01,"Tetra Technologies, Inc.",2.49,TTI,2021-11-05
+2021-11-03,"Hostess Brands, Inc.",16.18,TWNK,2021-11-05
+2021-10-26,"Twitter, Inc.",3.41,TWTR,2021-11-05
+2021-10-29,"Twin Disc, Incorporated",0.26,TWIN,2021-11-05
+2021-11-03,"TechTarget, Inc.",5.7,TTGT,2021-11-05
+2021-11-03,"Take-Two Interactive Software, ",2.48,TTWO,2021-11-05
+2021-11-04,"Unity Biotechnology, Inc.",2.13,UBX,2021-11-05
+2021-11-04,"T2 Biosystems, Inc.",4.45,TTOO,2021-11-05
+2021-11-22,Twist Bioscience Corporation,7.51,TWST,2021-11-05
+2021-10-29,Travelzoo,0.99,TZOO,2021-11-05
+2021-10-28,"Texas Roadhouse, Inc.",4.66,TXRH,2021-11-05
+2021-11-03,"10x Genomics, Inc.",3.46,TXG,2021-11-05
+2021-11-08,Two Harbors Investment Corp,5.66,TWO,2021-11-05
+2021-11-02,Ternium S.A. Ternium S.A.,0.88,TX,2021-11-05
+2021-11-02,"Townsquare Media, Inc.",0.55,TSQ,2021-11-05
+2021-11-04,Telus Corporation,0.29,TU,2021-11-05
+2021-11-11,"TherapeuticsMD, Inc.",6.71,TXMD,2021-11-05
+2021-11-05,"Mammoth Energy Services, Inc.",1.52,TUSK,2021-11-05
+2021-11-10,"Turning Point Therapeutics, Inc",4.58,TPTX,2021-11-05
+2021-12-02,"Ulta Beauty, Inc.",2.6,ULTA,2021-11-05
+2021-11-02,"Tivity Health, Inc.",11.7,TVTY,2021-11-05
+2022-01-18,"United Airlines Holdings, Inc.",4.7,UAL,2021-11-05
+2021-10-27,"Tyler Technologies, Inc.",1.7,TYL,2021-11-05
+2022-01-25,"Tesla, Inc.",3.02,TSLA,2021-11-05
+2021-11-02,Unisys Corporation New,1.44,UIS,2021-11-05
+2021-11-04,Uniti Group Inc.,5.41,UNIT,2021-11-05
+2021-10-25,"Universal Health Services, Inc.",1.92,UHS,2021-11-05
+2021-11-02,"Sixth Street Specialty Lending,",3.02,TSLX,2021-11-05
+2021-11-08,"Tyme Technologies, Inc.",1.75,TYME,2021-11-05
+2022-01-19,Union Pacific Corporation,1.25,UNP,2021-11-05
+2021-11-04,"Uber Technologies, Inc.",4.49,UBER,2021-11-05
+2021-11-08,"Net 1 UEPS Technologies, Inc.",0.67,UEPS,2021-11-05
+2021-05-13,U.S. Energy Corp.,3.21,USEG,2021-11-05
+2022-01-25,"United Rentals, Inc.",2.41,URI,2021-11-05
+2021-11-03,"Upland Software, Inc.",4.06,UPLD,2021-11-05
+2021-09-03,Liberty All-Star Equity Fund,3.16,USA,2021-11-05
+2021-10-28,"USA Truck, Inc.",1.44,USAK,2021-11-05
+2021-11-11,"Tapestry, Inc.",2.45,TPR,2021-11-05
+2021-12-07,"United Natural Foods, Inc.",5.8,UNFI,2021-11-05
+2021-11-04,"Urban One, Inc.",0.55,UONEK,2021-11-05
+2021-11-01,"CVR Partners, LP",0.12,UAN,2021-11-05
+2018-04-25,"Under Armour, Inc.",1.62,UA,2021-11-05
+2022-01-04,Unifirst Corporation,0.51,UNF,2021-11-05
+2022-01-18,UnitedHealth Group Incorporated,0.63,UNH,2021-11-05
+2021-10-20,Umpqua Holdings Corporation,2.02,UMPQ,2021-11-05
+2021-11-01,Univar Solutions Inc.,2.22,UNVR,2021-11-05
+2021-12-07,"United Natural Foods, Inc.",5.8,UNFI,2021-11-05
+2021-11-22,"Urban Outfitters, Inc.",6.11,URBN,2021-11-05
+2022-01-24,Texas Instruments Incorporated,1.59,TXN,2021-11-05
+2022-01-19,U.S. Bancorp,0.81,USB,2021-11-05
+2021-10-27,Upwork Inc.,4.75,UPWK,2021-11-05
+2022-01-26,"U.S. Xpress Enterprises, Inc.",2.85,USX,2021-11-05
+2022-02-02,Unum Group,2.67,UNM,2021-11-05
+2022-01-26,Visa Inc.,1.23,V,2021-11-05
+2021-11-11,Americas Gold and Silver Corpor,3.68,USAS,2021-11-05
+2021-10-20,Universal Stainless & Alloy Pro,0.1,USAP,2021-11-05
+2022-01-25,Textron Inc.,2.18,TXT,2021-11-05
+2022-02-01,"United Parcel Service, Inc.",0.9,UPS,2021-11-05
+2021-11-01,Ur Energy Inc,1.98,URG,2021-11-05
+2021-11-04,Ubiquiti Inc.,0.48,UI,2021-11-05
+2021-11-01,"VBI Vaccines, Inc.",7.75,VBIV,2021-11-05
+2021-10-28,Visteon Corporation,4.71,VC,2021-11-05
+2021-11-02,"USA Compression Partners, LP",0.53,USAC,2021-11-05
+2021-11-03,"U.S. Well Services, Inc.",3.36,USWS,2021-11-05
+2021-12-07,Veru Inc.,2.9,VERU,2021-11-05
+2021-10-20,"UFP Industries, Inc.",1.28,UFPI,2021-11-05
+2021-10-27,UNIVERSAL INSURANCE HOLDINGS IN,1.64,UVE,2021-11-05
+2021-10-27,"Ultra Clean Holdings, Inc.",2.35,UCTT,2021-11-05
+2021-10-26,United Therapeutics Corporation,5.24,UTHR,2021-11-05
+2021-11-04,Vonage Holdings Corp.,7.79,VG,2021-11-05
+2021-10-28,"Vocera Communications, Inc.",10.01,VCRA,2021-11-05
+2021-08-13,UTStarcom Holdings Corp,0.05,UTSI,2021-11-05
+2021-08-03,Valaris Limited,1.29,VAL,2021-11-05
+2021-11-01,Energy Fuels Inc,11.07,UUUU,2021-11-05
+2021-11-09,"Village Farms International, In",8.47,VFF,2021-11-05
+2021-11-03,Universal Corporation,1.29,UVV,2021-11-05
+2021-11-09,"Veritone, Inc.",5.33,VERI,2021-11-05
+2021-11-04,"Victory Capital Holdings, Inc. ",2.09,VCTR,2021-11-05
+2021-11-04,ViacomCBS Inc.,6.51,VIAC,2021-11-05
+2022-01-25,V.F. Corporation,3.11,VFC,2021-11-05
+2022-01-31,Viavi Solutions Inc.,3.0,VIAV,2021-11-05
+2022-01-26,Valley National Bancorp,1.88,VLY,2021-11-05
+2021-11-04,"Vir Biotechnology, Inc.",4.16,VIR,2021-11-05
+2021-11-09,"Veracyte, Inc.",4.11,VCYT,2021-11-05
+2021-11-03,"Viking Therapeutics, Inc.",6.08,VKTX,2021-11-05
+2021-11-09,Vermilion Energy Inc.,3.41,VET,2021-11-05
+2021-12-01,Veeva Systems Inc.,1.08,VEEV,2021-11-05
+2021-11-08,"Vertex, Inc.",0.89,VERX,2021-11-05
+2021-11-02,Vector Group Ltd.,2.31,VGR,2021-11-05
+2021-11-23,"Viomi Technology Co., Ltd",0.76,VIOT,2021-11-05
+2021-10-27,VICI Properties Inc.,12.03,VICI,2021-11-05
+2021-12-15,Uxin Limited,1.54,UXIN,2021-11-05
+2022-01-26,Valero Energy Corporation,2.82,VLO,2021-11-05
+2021-11-01,Viper Energy Partners LP,1.54,VNOM,2021-11-05
+2021-11-05,Vistra Corp.,2.79,VST,2021-11-05
+2021-11-04,Vulcan Materials Company (Holdi,1.47,VMC,2021-11-05
+2021-11-15,"Verb Technology Company, Inc.",7.61,VERB,2021-11-05
+2021-11-09,"ViaSat, Inc.",11.23,VSAT,2021-11-05
+2021-11-10,"Vislink Technologies, Inc.",10.22,VISL,2021-11-05
+2021-11-09,"Vroom, Inc.",11.82,VRM,2021-11-05
+2021-11-23,"Vmware, Inc.",3.84,VMW,2021-11-05
+2021-11-11,Vipshop Holdings Limited,3.18,VIPS,2021-11-05
+2021-11-01,"Varonis Systems, Inc.",3.67,VRNS,2021-11-05
+2021-11-02,"Verisk Analytics, Inc.",1.0,VRSK,2021-11-05
+2021-11-03,Veritiv Corporation,1.97,VRTV,2021-11-05
+2021-11-03,Venator Materials PLC,0.36,VNTR,2021-11-05
+2021-11-22,"VNET Group, Inc.",3.26,VNET,2021-11-05
+2021-10-20,"Veoneer, Inc.",3.46,VNE,2021-11-05
+2021-11-08,"Vertex Energy, Inc",6.46,VTNR,2021-11-05
+2021-11-03,"Vishay Intertechnology, Inc.",5.25,VSH,2021-11-05
+2021-12-20,Vince Holding Corp.,0.19,VNCE,2021-11-05
+2021-11-04,Vista Outdoor Inc.,3.66,VSTO,2021-11-05
+2021-11-02,"Voya Financial, Inc.",15.09,VOYA,2021-11-05
+2021-11-10,"VistaGen Therapeutics, Inc.",6.26,VTGN,2021-11-05
+2021-10-21,Vicor Corporation,2.35,VICR,2021-11-05
+2021-11-05,"Ventas, Inc.",2.74,VTR,2021-11-05
+2021-11-01,Vornado Realty Trust,7.21,VNO,2021-11-05
+2021-11-03,Vanda Pharmaceuticals Inc.,8.67,VNDA,2021-11-05
+2021-10-27,Westinghouse Air Brake Technolo,2.63,WAB,2021-11-05
+2021-11-04,TimkenSteel Corporation,11.55,TMST,2021-11-05
+2021-11-02,"Bristow Group, Inc.",2.28,VTOL,2021-11-05
+2021-11-10,Wendy's Company (The),3.69,WEN,2021-11-05
+2021-11-04,"WESCO International, Inc.",1.98,WCC,2021-11-05
+2021-11-11,Energous Corporation,10.42,WATT,2021-11-05
+2021-11-08,"VirTra, Inc.",1.69,VTSI,2021-11-05
+2022-01-25,Verizon Communications Inc.,1.33,VZ,2021-11-05
+2021-11-02,"Voyager Therapeutics, Inc.",8.38,VYGR,2021-11-05
+2021-11-03,vTv Therapeutics Inc.,3.05,VTVT,2021-11-05
+2021-11-03,Whiting Petroleum Corporation,7.91,WLL,2021-11-05
+2021-10-27,"Waste Connections, Inc.",0.6,WCN,2021-11-05
+2021-11-08,Vuzix Corporation,19.93,VUZI,2021-11-05
+2022-01-10,VOXX International Corporation,2.31,VOXX,2021-11-05
+2022-01-05,WD-40 Company,9.56,WDFC,2021-11-05
+2021-10-27,"Vertiv Holdings, LLC",3.57,VRT,2021-11-05
+2022-01-26,Western Digital Corporation,2.6,WDC,2021-11-05
+2022-01-31,Waters Corporation,2.55,WAT,2021-11-05
+2021-11-03,Valvoline Inc.,1.53,VVV,2021-11-05
+2021-11-01,Westlake Chemical Corporation,1.4,WLK,2021-11-05
+2022-01-19,Western Alliance Bancorporation,1.64,WAL,2021-11-05
+2021-10-28,"VeriSign, Inc.",0.92,VRSN,2021-11-05
+2021-11-04,Welltower Inc.,2.6,WELL,2021-11-05
+2021-10-28,"Werner Enterprises, Inc.",5.0,WERN,2021-11-05
+2021-08-23,VivoPower International PLC,0.59,VVPR,2021-11-05
+2021-10-29,"WisdomTree Investments, Inc.",5.99,WETF,2021-11-05
+2021-10-28,WEX Inc.,3.07,WEX,2021-11-05
+2021-11-16,Walmart Inc.,0.51,WMT,2021-11-05
+2021-11-03,Wingstop Inc.,7.75,WING,2021-11-05
+2021-11-08,"WhiteHorse Finance, Inc.",0.61,WHF,2021-11-05
+2021-11-04,"Vaxart, Inc. - Common Stock",17.06,VXRT,2021-11-05
+2021-11-15,"Windtree Therapeutics, Inc.",4.04,WINT,2021-11-05
+2021-11-09,"Western Midstream Partners, LP",1.23,WES,2021-11-05
+2021-11-08,"Summit Wireless Technologies, I",1.32,WISA,2021-11-05
+2021-11-03,Workiva Inc.,5.94,WK,2021-11-05
+2021-11-11,Wix.com Ltd.,7.19,WIX,2021-11-05
+2021-11-09,"Workhorse Group, Inc.",37.83,WKHS,2021-11-05
+2021-09-22,WiMi Hologram Cloud Inc.,4.34,WIMI,2021-11-05
+2021-11-08,"Verastem, Inc.",4.14,VSTM,2021-11-05
+2022-01-24,W.R. Berkley Corporation,0.76,WRB,2021-11-05
+2021-11-08,Westport Fuel Systems Inc,2.0,WPRT,2021-11-05
+2022-01-26,Whirlpool Corporation,10.33,WHR,2021-11-05
+2021-03-19,Weidai Ltd.,0.04,WEI,2021-11-05
+2021-10-26,Encore Wire Corporation,2.33,WIRE,2021-11-05
+2021-10-29,"VEREIT, Inc.",4.21,VER,2021-11-05
+2021-10-26,"Waste Management, Inc.",1.03,WM,2021-11-05
+2021-10-27,Westwood Holdings Group Inc,0.21,WHG,2021-11-05
+2020-11-16,"Titan Pharmaceuticals, Inc.",3.83,TTNP,2021-11-05
+2021-11-03,Washington Prime Group Inc.,13.6,WPG,2021-11-05
+2022-02-02,"WEC Energy Group, Inc.",0.68,WEC,2021-11-05
+2019-05-24,SCWorx Corp.,1.7,WORX,2021-11-05
+2021-11-02,"Vivint Smart Home, Inc.",1.18,VVNT,2021-11-05
+2021-11-17,"Williams-Sonoma, Inc.",8.3,WSM,2021-11-05
+2021-10-28,Willis Towers Watson Public Lim,2.63,WLTW,2021-11-05
+2021-10-26,Whitestone REIT,1.36,WSR,2021-11-05
+2021-10-28,"West Pharmaceutical Services, I",1.34,WST,2021-11-05
+2022-01-27,Weyerhaeuser Company,1.8,WY,2021-11-05
+2021-10-27,"Wyndham Hotels & Resorts, Inc.",3.34,WH,2021-11-05
+2021-11-02,"W&T Offshore, Inc.",6.68,WTI,2021-11-05
+2021-11-04,Wheaton Precious Metals Corp,1.78,WPM,2021-11-05
+2021-11-15,The Alkaline Water Company Inc.,1.94,WTER,2021-11-05
+2021-12-27,Weibo Corporation,6.26,WB,2021-11-05
+2021-11-02,Western Union Company (The),8.01,WU,2021-11-05
+2021-11-05,"Exela Technologies, Inc.",7.01,XELA,2021-11-05
+2021-10-29,W. P. Carey Inc. REIT,2.6,WPC,2021-11-05
+2022-01-18,Wintrust Financial Corporation,1.59,WTFC,2021-11-05
+2022-01-31,Exxon Mobil Corporation,0.94,XOM,2021-11-05
+2022-01-31,Vertex Pharmaceuticals Incorpor,1.71,VRTX,2021-11-05
+2021-11-10,Xunlei Limited,1.38,XNET,2021-11-05
+2021-11-03,"Xencor, Inc.",4.31,XNCR,2021-11-05
+2021-11-02,Cimarex Energy Co,2.54,XEC,2021-11-05
+2021-12-16,"Winnebago Industries, Inc.",10.15,WGO,2021-11-05
+2022-01-26,Xcel Energy Inc.,1.27,XEL,2021-11-05
+2021-11-15,"XpresSpa Group, Inc.",6.69,XSPA,2021-11-05
+2021-11-03,Xenon Pharmaceuticals Inc.,2.16,XENE,2021-11-05
+2021-11-11,"Westwater Resources, Inc.",8.07,WWR,2021-11-05
+2022-01-25,"Xilinx, Inc.",4.51,XLNX,2021-11-05
+2022-02-02,Xylem Inc.,2.13,XYL,2021-11-05
+2022-01-20,World Acceptance Corporation,10.35,WRLD,2021-11-05
+2021-08-17,XAI Octagon Floating Rate & Alt,0.11,XFLT,2021-11-05
+2021-11-04,Yelp Inc.,6.28,YELP,2021-11-05
+2021-11-05,The ExOne Company,3.91,XONE,2021-11-05
+2021-11-03,XP Inc.,1.22,XP,2021-11-05
+2021-11-15,"AgEagle Aerial Systems, Inc.",12.19,UAVS,2021-11-05
+2021-11-04,"WW International, Inc.",8.78,WW,2021-11-05
+2021-10-28,"Yum! Brands, Inc.",1.33,YUM,2021-11-05
+2021-11-10,"Xcel Brands, Inc",0.08,XELB,2021-11-05
+2021-08-13,"Xenetic Biosciences, Inc.",0.44,XBIO,2021-11-05
+2022-01-24,WSFS Financial Corporation,3.43,WSFS,2021-11-05
+2021-11-15,JOYY Inc.,6.66,YY,2021-11-05
+2021-11-09,Westrock Company,1.43,WRK,2021-11-05
+2021-11-04,"22nd Century Group, Inc",5.21,XXII,2021-11-05
+2021-11-02,"Zedge, Inc.",1.83,ZDGE,2021-11-05
+2021-11-24,Yunji Inc. - American Depositor,0.13,YJ,2021-11-05
+2021-11-02,Zebra Technologies Corporation,1.14,ZBRA,2021-11-05
+2022-02-03,"Zimmer Biomet Holdings, Inc.",1.21,ZBH,2021-11-05
+2022-02-02,"Zendesk, Inc.",6.4,ZEN,2021-11-05
+2021-11-04,"Olympic Steel, Inc.",3.26,ZEUS,2021-11-05
+2021-10-27,Yandex N.V.,1.64,YNDX,2021-11-05
+2021-11-02,"Zillow Group, Inc.",0.86,ZG,2021-11-05
+2021-11-22,"Zoom Video Communications, Inc.",3.12,ZM,2021-11-05
+2022-02-01,"Yum China Holdings, Inc.",2.66,YUMC,2021-11-05
+2021-11-01,ZoomInfo Technologies Inc.,3.9,ZI,2021-11-05
+2022-01-26,United States Steel Corporation,20.33,X,2021-11-05
+2021-11-10,Zomedica Corp.,10.0,ZOM,2021-11-05
+2021-11-03,ZIOPHARM Oncology Inc,14.9,ZIOP,2021-11-05
+2021-11-08,Zynga Inc.,5.45,ZNGA,2021-11-05
+2020-01-31,"ZK International Group Co., Ltd",2.27,ZKIN,2021-11-05
+2021-11-08,Zix Corporation,2.73,ZIXI,2021-11-05
+2021-11-11,"YETI Holdings, Inc.",6.34,YETI,2021-11-05
+2021-11-29,X Financial,0.05,XYF,2021-11-05
+2021-12-01,"Zscaler, Inc.",4.95,ZS,2021-11-05
+2021-11-08,"Zentalis Pharmaceuticals, Inc.",5.53,ZNTL,2021-11-05
+2021-12-01,"Zuora, Inc.",3.61,ZUO,2021-11-05
+2021-11-02,Waitr Holdings Inc.,15.9,WTRH,2021-11-05
+2021-11-08,"Zynerba Pharmaceuticals, Inc.",4.97,ZYNE,2021-11-05
+2021-10-26,Zovio Inc.,2.51,ZVO,2021-11-05
+2021-11-04,Zoetis Inc.,0.63,ZTS,2021-11-05
+2021-11-01,Zymeworks Inc.,7.87,ZYME,2021-11-05
+2021-11-02,"Zynex, Inc.",10.86,ZYXI,2021-11-05
+2021-11-03,Acceleron Pharma Inc.,2.75,XLRN,2021-11-05
+2020-11-27,Xinyuan Real Estate Co Ltd,0,XIN,2021-11-05
+2021-11-02,"XPO Logistics, Inc.",1.65,XPO,2021-11-05
+2021-11-01,"Essential Utilities, Inc.",1.15,WTRG,2021-11-05
+2021-11-24,Yiren Digital Ltd.,0.17,YRD,2021-11-05
+2021-10-15,Liquid Media Group Ltd.,3.67,YVR,2021-11-05
+2021-11-03,"Virtu Financial, Inc.",5.04,VIRT,2021-11-05
+2022-01-31,Bio-Techne Corp,0.92,TECH,2021-11-05
+2021-11-02,"Select Energy Services, Inc.",1.19,WTTR,2021-11-05
+2022-01-24,Xerox Holdings Corporation,3.96,XRX,2021-11-05
+2021-11-04,"Walker & Dunlop, Inc",1.38,WD,2021-11-05
+2021-11-09,"Wynn Resorts, Limited",7.08,WYNN,2021-11-05
+2021-11-08,"Xeris Biopharma Holdings, Inc.",2.71,XERS,2021-11-05
+2021-10-28,"SS&C Technologies Holdings, Inc",0.81,SSNC,2021-11-05
