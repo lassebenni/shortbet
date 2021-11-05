@@ -1,4 +1,5 @@
-earnings_date,name,short_float,ticker,datetime2022-01-25,Apple Inc.,0.61,AAPL,2021-11-05
+earnings_date,name,short_float,ticker,datetime
+2022-01-25,Apple Inc.,0.61,AAPL,2021-11-05
 2021-11-04,Arbutus Biopharma Corporation,2.45,ABUS,2021-11-05
 2020-04-01,568516,0.06,ACV,2021-11-05
 2022-01-31,Asbury Automotive Group Inc,7.88,ABG,2021-11-05
