@@ -1,7 +1,7 @@
 import concurrent.futures
 import threading
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import datetime, date
 from typing import List, Generator
 import os
 
@@ -21,6 +21,7 @@ class ShortTicker:
     name: str = ""
     short_float: float = 0
     ticker: str = ""
+    datetime: date = datetime.now().date()
 
     def __init__(self, ticker: yf.Ticker):
         if ticker is None:
