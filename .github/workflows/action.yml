@@ -33,8 +33,10 @@ jobs:
           poetry-version: ${{ matrix.poetry-version }}
       - name: Install packages (not development)
         run: poetry install --no-dev
+      -name Pytest
+        run: poetry run pytest
 
-      - name: Run test
+      - name: Run single
         if: ${{ github.event_name == 'pull_request' }}
         run: poetry run python main.py
         env:
