@@ -23,6 +23,9 @@ class ShortTicker:
     ticker: str = ""
 
     def __init__(self, ticker: yf.Ticker):
+        if ticker is None:
+            raise ValueError("Ticker must not be None")
+
         if ticker.calendar is not None and not ticker.calendar.empty:
             self.earnings_date = datetime.strftime(
                 ticker.calendar.iloc[0][0], "%Y-%m-%d"
@@ -68,32 +71,26 @@ def read_symbols(filename: str, buffer_size: int = 3) -> Generator:
             chunk = file.readlines(buffer_size)
 
 
-def extract_ticker(symbol: str):
+def store_ticker(symbol: str):
     ticker = get_short_ticker(symbol)
-
     if ticker.earnings_date:
         ticker.to_csv("data/results.csv", skip_header=True)
         ticker.to_csv("data/history.csv", skip_header=True)
         ticker.print()
 
 
-def reset_results():
-    """Overwrite results.csv to display only headers"""
-    empty_ticker = ShortTicker()
-    empty_ticker.to_csv("data/results.csv", skip_header=False, append=False)
-
-
 def extract_tickers():
     symbols_generator = read_symbols("symbols.txt")
+
+    first_symbol = next(symbols_generator)
+    first_ticker = get_short_ticker(first_symbol)
+    first_ticker.to_csv("data/results.csv", skip_header=False, append=False)
 
     if FULL_RUN == True:
         with concurrent.futures.ThreadPoolExecutor(
             max_workers=WORKER_COUNT
         ) as executor:
-            executor.map(extract_ticker, symbols_generator)
-    else:
-        first_symbol = next(symbols_generator)
-        extract_ticker(first_symbol)
+            executor.map(store_ticker, symbols_generator)
 
 
 def print_duration(start: float, action: str):
@@ -105,6 +102,5 @@ if __name__ == "__main__":
     start_time = time.time()
     print(f"Full run? {FULL_RUN}")
 
-    reset_results()
     extract_tickers()
     print_duration(start_time, "extract_tickers")
