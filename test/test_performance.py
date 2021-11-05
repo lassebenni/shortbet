@@ -1,9 +1,11 @@
 import time
+import pytest
 
 import process_tickers as pts
 
 
-def test_process_tickers_performance(tmpdir):
+@pytest.mark.parametrize("full_run, expected_duration", [(False, 5), (True, 30)])
+def test_process_tickers_performance(tmpdir, full_run, expected_duration):
     """
     Test the performance of the ProcessTickers function.
     """
@@ -12,12 +14,14 @@ def test_process_tickers_performance(tmpdir):
     latest_path = tmpdir.join("latest.csv")
 
     pt = pts.ProcessTickers(
+        symbols_path="test/test_symbols.txt",
         history_path=hist_path,
         latest_path=latest_path,
     )
 
     # Test the performance of the ProcessTickers function
     start = time.time()
-    pt.run()
+    pt.run(full_run)
     duration = time.time() - start
-    assert duration < 10
+    print(duration)
+    assert duration < expected_duration

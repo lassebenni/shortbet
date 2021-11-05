@@ -10,12 +10,16 @@ class ShortTicker:
     earnings_date: str = ""
     name: str = ""
     short_float: float = 0
-    ticker: str = ""
+    symbol: str = ""
     datetime: date = datetime.now().date()
 
-    def __init__(self, ticker: yf.Ticker):
-        if ticker is None:
-            raise ValueError("Ticker must not be None")
+    def __init__(self, symbol: str = ""):
+        ticker = yf.Ticker(symbol)
+
+        if ticker:
+            self.symbol = ticker
+        else:
+            raise ValueError(f"Ticker {symbol} not found")
 
         if ticker.calendar is not None and not ticker.calendar.empty:
             self.earnings_date = datetime.strftime(
@@ -25,7 +29,7 @@ class ShortTicker:
         if ticker.info:
             self.name = ticker.info.get("shortName", "")
             short_percentage = ticker.info.get("sharesPercentSharesOut")
-            self.ticker = ticker.ticker
+            self.symbol = ticker.ticker
 
             if short_percentage:
                 self.short_float = round(short_percentage * 100, 2)
@@ -37,4 +41,4 @@ class ShortTicker:
             w.write(skip_header)
 
     def print(self):
-        print(f"{self.ticker} {self.name} {self.short_float} {self.earnings_date}")
+        print(f"{self.symbol} {self.name} {self.short_float} {self.earnings_date}")

@@ -33,28 +33,16 @@ jobs:
           poetry-version: ${{ matrix.poetry-version }}
       - name: Install packages (not development)
         run: poetry install --no-dev
-      -name Pytest
-        run: poetry run pytest
-
-      - name: Run single
-        if: ${{ github.event_name == 'pull_request' }}
-        run: poetry run python main.py
-        env:
-          FULL_RUN: False
+      - name: Pytest
+        run: poetry run python -m pytest
 
       - name: Run scheduled
         if: ${{ github.event_name == 'schedule'}}
         run: poetry run python main.py
-        env:
-          FULL_RUN: True
 
       - name: Run manually
         if: ${{ github.event_name != 'schedule' && github.ref == 'refs/heads/master' }}
         run: poetry run python main.py
-        env:
-          FULL_RUN: ${{ github.event.inputs.full_run }}
 
       - uses: lassebenni/publish-to-github-action@master
-        if: ${{ github.event_name == 'schedule' || github.ref == 'refs/heads/master' && github.event.inputs.full_run == 'True' }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
+        if: ${{ github.event_name == 'schedule' || github.ref == 'refs/heads/master' }}
