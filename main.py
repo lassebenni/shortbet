@@ -75,7 +75,7 @@ def read_symbols(filename: str, buffer_size: int = 3) -> Generator:
 def store_ticker(symbol: str):
     ticker = get_short_ticker(symbol)
     if ticker.earnings_date:
-        ticker.to_csv("data/results.csv", skip_header=True)
+        ticker.to_csv("data/latest.csv", skip_header=True)
         ticker.to_csv("data/history.csv", skip_header=True)
         ticker.print()
 
@@ -85,7 +85,7 @@ def extract_tickers():
 
     first_symbol = next(symbols_generator)
     first_ticker = get_short_ticker(first_symbol)
-    first_ticker.to_csv("data/results.csv", skip_header=False, append=False)
+    first_ticker.to_csv("data/latest.csv", skip_header=False, append=False)
 
     if FULL_RUN == True:
         with concurrent.futures.ThreadPoolExecutor(
