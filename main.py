@@ -36,6 +36,12 @@ class ShortTicker:
             if short_percentage:
                 self.short_float = round(short_percentage * 100, 2)
 
+    def to_csv(self, filename: str, skip_header: bool = False, append: bool = True):
+        mode = "a" if append else "w"
+        with open(filename, mode) as f:
+            w = DataclassWriter(f, [self], ShortTicker)
+            w.write(skip_header)
+
     def print(self):
         print(f"{self.ticker} {self.name} {self.short_float} {self.earnings_date}")
 
@@ -54,27 +60,27 @@ def get_short_ticker(symbol: str) -> ShortTicker:
 
 
 def read_symbols(filename: str, buffer_size: int = 3) -> Generator:
-    file = open(filename, "rb")
-    chunk = file.readlines(buffer_size)
-    while chunk:
-        symbol = chunk[0].decode("utf-8").strip()
-        yield symbol
+    with open(filename, "rb") as file:
         chunk = file.readlines(buffer_size)
-    file.close()
-
-
-def write_to_file(filename: str, ticker: ShortTicker):
-    with open(filename, "a") as f:
-        w = DataclassWriter(f, [ticker], ShortTicker)
-        w.write(skip_header=True)
+        while chunk:
+            symbol = chunk[0].decode("utf-8").strip()
+            yield symbol
+            chunk = file.readlines(buffer_size)
 
 
 def extract_ticker(symbol: str):
     ticker = get_short_ticker(symbol)
 
     if ticker.earnings_date:
-        write_to_file("data/results.csv", ticker)
+        ticker.to_csv("data/results.csv", skip_header=True)
+        ticker.to_csv("data/history.csv", skip_header=True)
         ticker.print()
+
+
+def reset_results():
+    """Overwrite results.csv to display only headers"""
+    empty_ticker = ShortTicker()
+    empty_ticker.to_csv("data/results.csv", skip_header=False, append=False)
 
 
 def extract_tickers():
@@ -98,5 +104,7 @@ def print_duration(start: float, action: str):
 if __name__ == "__main__":
     start_time = time.time()
     print(f"Full run? {FULL_RUN}")
+
+    reset_results()
     extract_tickers()
     print_duration(start_time, "extract_tickers")
