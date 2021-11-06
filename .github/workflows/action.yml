@@ -46,3 +46,5 @@ jobs:
 
       - uses: lassebenni/publish-to-github-action@master
         if: ${{ github.event_name == 'schedule' || github.ref == 'refs/heads/master' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
