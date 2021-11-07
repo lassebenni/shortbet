@@ -18,17 +18,24 @@ class ProcessTickers:
 
         self.symbols = self._read_symbols(symbols_path)
 
-    def run(self, full_run: bool = False):
+    def run(self, full_run: bool = False, multi_process: bool = True):
         start = time.time()
         first_symbol = next(self.symbols)
         self._store_first_symbol(first_symbol)
 
         if full_run:
             print("Processing all symbols")
-            with concurrent.futures.ThreadPoolExecutor(max_workers=100) as executor:
-                executor.map(self._store_ticker, self.symbols)
+            if multi_process:
+                self._multi_process(self.symbols)
+            else:
+                for symbol in self.symbols:
+                    self._store_ticker(symbol)
 
         self._print_duration(start, "extract_tickers")
+
+    def _multi_process(self, symbols: Generator):
+        with concurrent.futures.ThreadPoolExecutor(max_workers=100) as executor:
+            executor.map(self._store_ticker, symbols)
 
     def _store_first_symbol(self, symbol: str):
         ticker = ShortTicker(symbol)
