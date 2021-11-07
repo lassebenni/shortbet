@@ -38,15 +38,21 @@ class ProcessTickers:
             executor.map(self._store_ticker, symbols)
 
     def _store_first_symbol(self, symbol: str):
-        ticker = ShortTicker(symbol)
-        ticker.to_csv(self.latest_filename, skip_header=False, append=False)
+        try:
+            ticker = ShortTicker(symbol)
+            ticker.to_csv(self.latest_filename, skip_header=False, append=False)
+        except ValueError:
+            print(f"Could not store {symbol}")
 
     def _store_ticker(self, symbol: str):
-        ticker = ShortTicker(symbol)
-        if ticker.earnings_date:
-            ticker.to_csv(self.latest_filename, skip_header=True)
-            ticker.to_csv(self.history_filename, skip_header=True)
-            ticker.print()
+        try:
+            ticker = ShortTicker(symbol)
+            if ticker.earnings_date:
+                ticker.to_csv(self.latest_filename, skip_header=True)
+                ticker.to_csv(self.history_filename, skip_header=True)
+                ticker.print()
+        except ValueError:
+            print(f"Could not store {symbol}")
 
     def _print_duration(self, start: float, action: str):
         duration = time.time() - start

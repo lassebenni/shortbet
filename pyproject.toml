@@ -2,7 +2,7 @@
 name = "shortbet"
 version = "0.1.0"
 description = ""
-authors = ["Lasse Benninga <lassebenninga@godatadriven.com>"]
+authors = ["Lasse Benninga <lassebenninga@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
