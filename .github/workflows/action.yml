@@ -34,7 +34,7 @@ jobs:
       - name: Install packages (not development)
         run: poetry install --no-dev
       - name: Pytest
-        run: poetry run python -m pytest
+        run: poetry run python -m pytest -s
 
       - name: Run scheduled
         if: ${{ github.event_name == 'schedule'}}

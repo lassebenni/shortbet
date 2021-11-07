@@ -16,20 +16,21 @@ class ShortTicker:
 
     def __init__(self, symbol: str = ""):
         print(symbol)
-        ticker = self._retrieve_ticker(symbol)
+        ticker = self._retrieve_yf_ticker(symbol)
         self.symbol = ticker.ticker
 
         if ticker.calendar is not None and not ticker.calendar.empty:
-            self.earnings_date = self._transform_earnings_date(
-                ticker.calendar.iloc[0][0]
-            )
+            earnings_date = ticker.calendar.iloc[0][0]
+            if earnings_date:
+                self.earnings_date = self._transform_earnings_date(earnings_date)
 
         if ticker.info:
             self.name = ticker.info.get("shortName", "")
             short_percentage = ticker.info.get("sharesPercentSharesOut")
-            self.short_float = self._extract_short_float(short_percentage)
+            if short_percentage:
+                self.short_float = self._extract_short_float(short_percentage)
 
-    def _retrieve_ticker(self, symbol: str):
+    def _retrieve_yf_ticker(self, symbol: str):
         ticker = yf.Ticker(symbol)
 
         if ticker:
