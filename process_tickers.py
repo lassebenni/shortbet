@@ -1,13 +1,8 @@
+import concurrent.futures
 import time
 from typing import Generator
-import signal
-
-import multitasking
 
 from short_ticker import ShortTicker
-
-# kill all tasks on ctrl-c
-signal.signal(signal.SIGINT, multitasking.killall)
 
 
 class ProcessTickers:
@@ -30,10 +25,17 @@ class ProcessTickers:
 
         if full_run:
             print("Processing all symbols")
-            for symbol in self.symbols:
-                self._store_ticker(symbol)
+            if multi_process:
+                self._multi_process(self.symbols)
+            else:
+                for symbol in self.symbols:
+                    self._store_ticker(symbol)
 
         self._print_duration(start, "extract_tickers")
+
+    def _multi_process(self, symbols: Generator):
+        with concurrent.futures.ThreadPoolExecutor(max_workers=100) as executor:
+            executor.map(self._store_ticker, symbols)
 
     def _store_first_symbol(self, symbol: str):
         try:
@@ -42,7 +44,6 @@ class ProcessTickers:
         except ValueError:
             print(f"Could not store {symbol}")
 
-    @multitasking.task
     def _store_ticker(self, symbol: str):
         try:
             ticker = ShortTicker(symbol)
