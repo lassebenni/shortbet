@@ -3,7 +3,7 @@ on:
   push:
   pull_request:
   schedule:
-    - cron: "05 9 * * *" # every day at 9:05 am
+    - cron: "05 9 * * 1" # every monday at 9:05 am
   workflow_dispatch:
     inputs:
       full_run:
