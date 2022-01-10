@@ -13,9 +13,12 @@ class ShortTicker:
     short_float: float = 0
     symbol: str = ""
     datetime: date = datetime.now().date()
+    url: str = ""
 
     def __init__(self, symbol: str = ""):
         print(symbol)
+        self.url = f"https://finance.yahoo.com/quote/{symbol}/"
+
         ticker = self._retrieve_yf_ticker(symbol)
         self.symbol = ticker.ticker
 

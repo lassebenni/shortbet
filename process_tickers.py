@@ -2,7 +2,7 @@ import concurrent.futures
 import time
 from typing import Generator
 
-from short_ticker import ShortTicker
+from model.short_ticker import ShortTicker
 
 
 class ProcessTickers:
