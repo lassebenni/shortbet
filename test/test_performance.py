@@ -3,7 +3,7 @@ import pytest
 import pandas as pd
 
 import process_tickers as pts
-from process_tickers import ShortTicker, SYMBOLS_PATH, LATEST_JSON_PATH
+from process_tickers import ShortTicker, SYMBOLS_PATH,
 
 
 class FakeTicker:
