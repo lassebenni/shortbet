@@ -3,5 +3,5 @@ history:
 	 tickers.db data/latest.json\
 	 --branch master\
 	 --namespace tickers \
-	 --id "url"\
+	 --id "url" --id "datetime"\
 	 --ignore-duplicate-ids
