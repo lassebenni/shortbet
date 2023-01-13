@@ -1,11 +1,11 @@
-import concurrent.futures
+from concurrent.futures import ThreadPoolExecutor
 import json
 import time
 from typing import Generator, List
 
 from model.short_ticker import ShortTicker
 
-SYMBOLS_PATH = "symbols.txt"
+SYMBOLS_PATH = "s.txt"
 LATEST_JSON_PATH = "data/latest.json"
 
 
@@ -13,39 +13,37 @@ class ProcessTickers:
     def __init__(
         self,
     ):
+        self.parallel = False
         self.symbols = self._read_symbols(SYMBOLS_PATH)
-        self.existing_latest_tickers = self._read_tickers()
-        self.latest_tickers: List[ShortTicker] = []
 
     def run(self, full_run: bool = False):
         start = time.time()
         first_symbol = next(self.symbols)
-        self._store_first_symbol(first_symbol)
+        self._store_ticker(first_symbol)
 
         if not full_run:
             print("Done processing.")
         else:
             print("Starting to process all symbols")
-            with concurrent.futures.ThreadPoolExecutor(max_workers=100) as executor:
-                executor.map(self._store_ticker, self.symbols)
-            self._overwrite_tickers_file()
+            if self.parallel:
+                with ThreadPoolExecutor(max_workers=100) as executor:
+                    executor.map(self._store_ticker, self.symbols)
+            else:
+                for symbol in self.symbols:
+                    self._store_ticker(symbol)
 
         self._print_duration(start, "extract_tickers")
 
-    def _store_first_symbol(self, symbol: str):
+    def _store_ticker(self, symbol: str):
         try:
+            print("storing ticker")
             ticker = ShortTicker(symbol)
-            self.latest_tickers.append(ticker)
-            self._overwrite_tickers_file()
+            with open(LATEST_JSON_PATH, "a") as file:
+                json.dump(ticker.as_dict(), file, default=str)
+                file.write('\n')
         except ValueError:
             print(f"Could not store {symbol}")
 
-    def _store_ticker(self, symbol: str):
-        try:
-            ticker = ShortTicker(symbol)
-            self.latest_tickers.append(ticker)
-        except ValueError:
-            print(f"Could not store {symbol}")
 
     def _print_duration(self, start: float, action: str):
         duration = time.time() - start
@@ -66,7 +64,3 @@ class ProcessTickers:
     def _update_tickers(self, filename: str):
         pass
 
-    def _overwrite_tickers_file(self):
-        with open(LATEST_JSON_PATH, "w") as file:
-            tickers_json = [ticker.as_dict() for ticker in self.latest_tickers]
-            json.dump(tickers_json, file, default=str)

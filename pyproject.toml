@@ -6,7 +6,7 @@ authors = ["Lasse Benninga <lassebenninga@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-yfinance = "^0.1.64"
+yfinance = "^0.2.3"
 dataclass-csv = "^1.3.0"
 pytest = "^6.2.5"
 
@@ -18,3 +18,4 @@ ptpython = "^3.0.20"
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
+
