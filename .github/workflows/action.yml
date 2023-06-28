@@ -2,8 +2,8 @@ name: Run shortbet
 on:
   # push:
   pull_request:
-  # schedule:
-    # - cron: "05 9 * * *" # every day at 9:05 am
+  schedule:
+    - cron: "05 9 * * *" # every day at 9:05 am
   workflow_dispatch:
     inputs:
       full_run:

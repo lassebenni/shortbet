@@ -5,7 +5,7 @@ from typing import Generator, List
 
 from model.short_ticker import ShortTicker
 
-SYMBOLS_PATH = "s.txt"
+SYMBOLS_PATH = "symbols.txt"
 LATEST_JSON_PATH = "data/latest.json"
 
 
@@ -41,8 +41,8 @@ class ProcessTickers:
             with open(LATEST_JSON_PATH, "a") as file:
                 json.dump(ticker.as_dict(), file, default=str)
                 file.write('\n')
-        except ValueError:
-            print(f"Could not store {symbol}")
+        except Exception as e:
+            print(f"Could not store {symbol}: {e}")
 
 
     def _print_duration(self, start: float, action: str):

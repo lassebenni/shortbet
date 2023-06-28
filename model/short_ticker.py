@@ -5,6 +5,7 @@ import json
 import pandas as pd
 from dataclass_csv import DataclassWriter
 import yfinance as yf
+import numpy as np
 
 
 @dataclass
@@ -24,10 +25,8 @@ class ShortTicker:
         ticker = self._retrieve_yf_ticker(symbol)
         self.symbol = ticker.ticker
 
-        if ticker.calendar is not None and not ticker.calendar.empty:
-            earnings_date = ticker.calendar.iloc[0][0]
-            if earnings_date:
-                self.earnings_date = self._transform_earnings_date(earnings_date)
+        if ticker.earnings_dates is not None and not ticker.earnings_dates.empty:
+            self.get_first_future_earnings_date(ticker.earnings_dates)
 
         if ticker.info:
             self.name = ticker.info.get("shortName", "")
@@ -36,6 +35,18 @@ class ShortTicker:
             if short_percentage:
                 self.short_float = self._extract_short_float(short_percentage)
 
+    def get_first_future_earnings_date(self, df_dates: pd.DataFrame):
+            now = datetime.now()
+            earnings_dates = df_dates.index.values
+            future_datetimes = earnings_dates[earnings_dates > np.datetime64(now)]
+
+            if len(future_datetimes) == 0:
+                print("No future earnings date found.")
+                self.earnings_date = ""
+            else:
+                closest_future_earnings_date = future_datetimes.min()
+                self.earnings_date = closest_future_earnings_date.astype('datetime64[D]')
+
     def _retrieve_yf_ticker(self, symbol: str):
         ticker = yf.Ticker(symbol)
 
@@ -43,9 +54,6 @@ class ShortTicker:
             return ticker
         else:
             raise ValueError(f"Ticker {symbol} not found")
-
-    def _transform_earnings_date(self, earnings_date: pd.Timestamp):
-        return datetime.strftime(earnings_date, "%Y-%m-%d")
 
     def _extract_short_float(self, short_percentage: float):
         return round(short_percentage * 100, 2)
