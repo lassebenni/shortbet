@@ -34,7 +34,7 @@ jobs:
           poetry-version: ${{ matrix.poetry-version }}
 
       - name: Install packages (not development)
-        run: poetry install --no-dev
+        run: poetry install --without dev
 
       - name: Run scheduled
         if: ${{ github.event_name == 'schedule'}}
