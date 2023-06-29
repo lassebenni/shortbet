@@ -13,7 +13,7 @@ class ProcessTickers:
     def __init__(
         self,
     ):
-        self.parallel = False
+        self.parallel = True
         self.symbols = self._read_symbols(SYMBOLS_PATH)
 
     def run(self, full_run: bool = False):
