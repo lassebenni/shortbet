@@ -36,6 +36,9 @@ jobs:
       - name: Install packages (not development)
         run: poetry install --without dev
 
+      - name: Delete latest data
+        run: rm data/latest.json
+
       - name: Run scheduled
         if: ${{ github.event_name == 'schedule'}}
         run: poetry run python main.py

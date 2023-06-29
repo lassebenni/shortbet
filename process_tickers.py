@@ -7,6 +7,7 @@ from model.short_ticker import ShortTicker
 
 SYMBOLS_PATH = "symbols.txt"
 LATEST_JSON_PATH = "data/latest.json"
+WAIT_SECONDS = 30
 
 
 class ProcessTickers:
@@ -28,6 +29,11 @@ class ProcessTickers:
             if self.parallel:
                 with ThreadPoolExecutor(max_workers=100) as executor:
                     executor.map(self._store_ticker, self.symbols)
+
+                    print(f"fDone processing all symbols. Waiting {WAIT_SECONDS} seconds to convert to jsonl")
+                    time.sleep(WAIT_SECONDS)
+                    self.jsonl_to_json()
+
             else:
                 for symbol in self.symbols:
                     self._store_ticker(symbol)
@@ -40,10 +46,9 @@ class ProcessTickers:
             ticker = ShortTicker(symbol)
             with open(LATEST_JSON_PATH, "a") as file:
                 json.dump(ticker.as_dict(), file, default=str)
-                file.write('\n')
+                file.write("\n")
         except Exception as e:
             print(f"Could not store {symbol}: {e}")
-
 
     def _print_duration(self, start: float, action: str):
         duration = time.time() - start
@@ -64,3 +69,11 @@ class ProcessTickers:
     def _update_tickers(self, filename: str):
         pass
 
+    def jsonl_to_json(self):
+        data = []
+        with open(LATEST_JSON_PATH, "r") as f:
+            for line in f:
+                data.append(json.loads(line))
+
+        with open(LATEST_JSON_PATH, "w") as f:
+            json.dump(data, f)
