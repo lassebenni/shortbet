@@ -1,13 +1,13 @@
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import json
 import time
 from typing import Generator, List
 
 from model.short_ticker import ShortTicker
 
-SYMBOLS_PATH = "symbols.txt"
+SYMBOLS_PATH = "test/test_symbols.txt"
 LATEST_JSON_PATH = "data/latest.json"
-WAIT_SECONDS = 30
+WAIT_SECONDS = 60
 
 
 class ProcessTickers:
@@ -27,12 +27,13 @@ class ProcessTickers:
         else:
             print("Starting to process all symbols")
             if self.parallel:
-                with ThreadPoolExecutor(max_workers=100) as executor:
-                    executor.map(self._store_ticker, self.symbols)
+                executor = ThreadPoolExecutor(max_workers=100)
+                for symbol in self.symbols:
+                    executor.submit(self._store_ticker, symbol)
 
-                    print(f"fDone processing all symbols. Waiting {WAIT_SECONDS} seconds to convert to jsonl")
-                    time.sleep(WAIT_SECONDS)
-                    self.jsonl_to_json()
+                executor.shutdown()
+                self.jsonl_to_json()
+                print("All is done.")
 
             else:
                 for symbol in self.symbols:
