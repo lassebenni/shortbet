@@ -5,7 +5,7 @@ from typing import Generator, List
 
 from model.short_ticker import ShortTicker
 
-SYMBOLS_PATH = "test/test_symbols.txt"
+SYMBOLS_PATH = "symbols.txt"
 LATEST_JSON_PATH = "data/latest.json"
 WAIT_SECONDS = 60
 
